@@ -1,0 +1,16 @@
+<html>
+<head>
+    <link rel="shortcut icon" href="/assets/favicon.ico" />
+
+    <title>{{ Page.Title }}</title>
+</head>
+<body>
+    
+    {{> header.hjs }}
+    
+    {{ Page.Content }}
+    
+    {{> footer.hjs }}
+    
+</body>
+</html>

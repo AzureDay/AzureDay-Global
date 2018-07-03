@@ -1,0 +1,45 @@
+name: AzureDay 2015 Ukraine
+date: 14th March 2015
+venue:
+  name: Microsoft Ukraine
+  address: Бізнес-центр “Євразія”, вул. Жилянська 75, Київ, 01032 Україна
+organizers:
+  -
+    name: Anton Boyko
+    bio: "Founder and main speaker at Ukrainian Microsoft Azure Community. 10+ years in application development. Builds apps based on Microsoft Azure platform since 2011. Microsoft Azure technical expert. Microsoft Azure MVP since 2014. Owner and one of the organizers of the most popular Microsoft Azure conferences in Ukraine: Azure Day and Global Azure Bootcamp."
+    photoUrl: 
+    links:
+      - https://twitter.com/BoykoAnt
+      - http://ua.linkedin.com/in/boykoant
+sessions:
+  -
+    title: Публикация веб приложений на Azure Web Sites при помощи встроенного build сервера Kudu.
+    description: Все мы знаем, что можно легко настроить публикацию нашего приложения на Azure Web Sites из Git репозитория расположенного, к примеру, на GitHub. Процесс настройки данной публикации выглядит довольно просто и с первого взгляда похож на простое копирование файлов, хотя на деле это далеко не так. Запуская публикацию приложения, мы можем предварительно прогнать автоматические тесты и не публиковать ничего есть тесты завершились с ошибкой. Мы можем выбрать, к примеру, какой именно проект мы хотим опубликовать, при случае что у нас их несколько в одном репозитории. Мы также можем менять множество других настроек и во время своего доклада я покажу как работает эта невероятная магия.
+    speaker:
+      name: Anton Boyko
+      bio: "Founder and main speaker at Ukrainian Microsoft Azure Community. 10+ years in application development. Builds apps based on Microsoft Azure platform since 2011. Microsoft Azure technical expert. Microsoft Azure MVP since 2014. Owner and one of the organizers of the most popular Microsoft Azure conferences in Ukraine: Azure Day and Global Azure Bootcamp."
+      photoUrl:
+      links:
+        - https://www.facebook.com/boyko.ant
+        - https://twitter.com/BoykoAnt
+        - https://www.linkedin.com/in/boykoant/
+        - https://mvp.microsoft.com/en-us/PublicProfile/5000824
+        - http://www.mycertprofile.com/Profile/8861740279
+  -
+    title: Масштабирование реляционной БД в Azure. Миф или реальность?
+    description: "Масштабируемость приложения стала критическим элементом дизайна после перехода от модели индивидуальных программ к серверной модели работы приложений. Масштабируемые приложения способны справиться с более активным использованием и возросшим объёмом данных. Масштабируемые приложения обладают высокой доступностью и отказоустойчивостью. Масштабируемые приложения управляемы и сопровождаемы. Всё это справедливо по отношению ко всем слоям приложения, в том числе и к базе данных. Масштабирование базы данных - процесс довольно сложный. В Azure уже была попытка масштабировать базу данных, и наверняка многие помнят SQL Azure Federations и почему хорошая идея оказалась не такой хорошей. На сейчас Federations являются Deprecated функциональностью, и Майкрософт презентует новую модель масштабирования базы данных в облаке: Elastic Scale. В этом докладе мы разберёмся почему провалились Federations, как разработчики учли старые ошибки в создании нового продукта, и действительно ли так хорош Elastic Scale чтобы использовать его в серьёзном проекте."
+    speaker:
+      name: Denis Reznik
+      bio: Работает в компании TFG an Intapp Company на позиции Director of R&D. Имеет большой опыт разработки и проектирования решений на базе SQL Server и SQL Azure. Увлекается вопросами оптимизации запросов, масштабирования баз данных, разработкой сложных архитектурных решений и внутренним устройством SQL Server. C 2010 года является Microsoft MVP по SQL Server. Активный участник SQL сообщества и лидер Kyiv SQL Server User Group. Соавтор книги "SQL Server MVP Deep Dives Vol. 2"
+      photoUrl:
+      links:
+        - http://ua.linkedin.com/pub/denis-reznik/3/502/234
+partners:
+  -
+    name: Intego Group
+    description: Intego Group provides an integrated portfolio of engineering services to clients in North America and Western Europe, leveraging deep domain expertise, a solid technology background, and multi-industry experience. Established in 1999, Intego Group employs a global delivery model through its client-facing operations in the United States and delivery centers strategically located in Ukraine. Combining comprehensive capabilities and highly skilled talent, we collaborate with our customers to build long-term partnerships based on our culture of engineering excellence and commitment to high quality. Focusing on transparent and flexible engagement models, Intego Group has a successful track record helping late-stage start-ups, mid-market firms and Fortune 500 companies build complex software products and IT solutions in a variety of industry verticals, including ISVs and Technology, Financial Services, Oil and Gas, Medical and Pharmaceutical, Media and Publishing, Travel and Hospitality, and many others.
+    logoUrl: https://azureua.blob.core.windows.net/logo/2015-03/intego.gif
+  -
+    name: Ciklum
+    description: Ciklum — датская компания, основанная в 2002 году, работающая в сфере аутсорсинга разработки программного обеспечения. Ciklum — это международная компания с офисами продаж в Дании, Швеции, Великобритании, Германии, Швейцарии и Нидерландах, Израиле, Америке и центрами разработки в крупных городах Украины (Киев, Харьков, Днепропетровск, Львов, Одесса и Винница), в Беларуси (Минск) и Пакистане (Лахор, Исламабад). Компания входит в пятерку крупнейших ИТ компаний Украины.
+    logoUrl: https://azureua.blob.core.windows.net/logo/2015-03/Ciklum.jpg

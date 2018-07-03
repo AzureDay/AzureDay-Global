@@ -1,1 +1,1 @@
-# AzureDay-Global
+# AzureDay.Global
