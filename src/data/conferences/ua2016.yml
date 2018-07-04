@@ -16,8 +16,32 @@ organizers:
       - http://www.mycertprofile.com/Profile/8861740279
 sessions:
   -
-    title: Публикация веб приложений на Azure Web Sites при помощи встроенного build сервера Kudu.
-    description: Все мы знаем, что можно легко настроить публикацию нашего приложения на Azure Web Sites из Git репозитория расположенного, к примеру, на GitHub. Процесс настройки данной публикации выглядит довольно просто и с первого взгляда похож на простое копирование файлов, хотя на деле это далеко не так. Запуская публикацию приложения, мы можем предварительно прогнать автоматические тесты и не публиковать ничего есть тесты завершились с ошибкой. Мы можем выбрать, к примеру, какой именно проект мы хотим опубликовать, при случае что у нас их несколько в одном репозитории. Мы также можем менять множество других настроек и во время своего доклада я покажу как работает эта невероятная магия.
+    title: 6 полезных привычек разрабочика в команде ИТ Стартапа.
+    description: 
+    speaker:
+      name: SERGEY PSEKHA
+      bio: 
+      photoUrl: 
+      links:
+  -
+    title: Кто такие DevOps и какая их миссия?
+    description: 
+    speaker:
+      name: Виктор Цикунов
+      bio: "Microsoft cloud technologies expert. More than 10 years experience in IT. During the last 10 years has been working at Microsoft on different roles in product marketing, corporate sales and technical consulting."
+      photoUrl: /assets/avatar/VTsykunov.jpg
+      links:
+  -
+    title: Interoperability for scalability.
+    description: "A live Proof of Concept for creating scalable web application environment with Python + IIS at front-end and WordPress + Linux at back-end. All based on Azure Web Apps and Azure VMs. PoC not only for WordPress enthusiasts - it's all about REST API, JSON, separation and interoperability. It's all about things You can find on Azure."
+    speaker:
+      name: MICHAL SMERECZYNSKI
+      bio: ""
+      photoUrl: /assets/avatar/MichalSmereczynski.jpg
+      links:
+  -
+    title: JavaScript и Azure - от идеи к прототипу за 60 минут.
+    description: "Во время данной сессии мы познакомимся с фреймворком Ionic, который позволяет нам очень быстро разрабатывать кросс-платформенные мобильные приложения используя JavaScript. Для того, чтобы приложения могли обмениваться данными, мы будем разрабатывать серверную часть на базе Node.JS и Azure Mobile Apps."
     speaker:
       name: Anton Boyko
       bio: "Founder and main speaker at Ukrainian Microsoft Azure Community. 10+ years in application development. Builds apps based on Microsoft Azure platform since 2011. Microsoft Azure technical expert. Microsoft Azure MVP since 2014. Owner and one of the organizers of the most popular Microsoft Azure conferences in Ukraine: Azure Day and Global Azure Bootcamp."
@@ -29,87 +53,275 @@ sessions:
         - https://mvp.microsoft.com/en-us/PublicProfile/5000824
         - http://www.mycertprofile.com/Profile/8861740279
   -
-    title: Синхронизация каталогов Azure Active Directory - deep dive.
-    description: 
+    title: Azure Data Factory - ваш комбайн данных.
+    description: "Что такое Data Factory? Почему данный сервис называют комбайном данных? Облачный ETL? В докладе отвечу на все эти вопросы. Расскажу как использовать фабрику для передачи данных, как проанализировать данные пропущенные через него."
     speaker:
-      name: Alexander Tkachenko
-      bio: 
-      photoUrl:
-      links:
-        - http://ua.linkedin.com/in/altkachenko
-        - https://www.facebook.com/al.tkachenko
-  -
-    title: Azure Stream Analytics для обработки большого объема событий.
-    description: 
-    speaker:
-      name: Сергей Поплавский
-      bio: 
-      photoUrl: /assets/avatar/SPoplavskiy.png
+      name: ЕВГЕНИЙ ПОЛОНИЧКО
+      bio: ""
+      photoUrl: 
       links:
   -
-    title: Использование Docker контейнеров для обеспечения работы распределенного приложения в Azure.
-    description: 
+    title: Continuous Integration and Git Flow.
+    description: ""
     speaker:
-      name: Олег Чёрный
-      bio: Сертифицированный тренер Microsoft, а также сертифицированный специалист Microsoft в реализации инфраструктурных решений на платформе Microsoft Azure. Имеет статус Microsoft MVP по направлению Software Packaging, Deployment & Servicing. Занимает должность Operations Lead в Edgar Online. Интересуется DevOps практиками и их внедрением.
-      photoUrl:
+      name: ВАЛЕНТИН РАДЧУК
+      bio: ""
+      photoUrl: 
       links:
   -
-    title: Алгоритмы в Azure Machine Learning и где их лучше применять.
-    description: Azure Machine Learning – сервис, который позволит использовать мощности искусственного интеллекта на базе облака Azure для осуществления бизнес-прогнозирований, бизнес-аналитики и анализа данных. В докладе разберем, какие алгоритмы есть в и в каких сценариях их лучше всего применять.
+    title: IoT "plug and pray".
+    description: ""
     speaker:
-      name: Виктор Цикунов
-      bio: 
-      photoUrl:
+      name: ВЛАДИМИР БЕЗМАЛЫЙ
+      bio: ""
+      photoUrl: 
       links:
   -
-    title: Мобильная криминалистика. Анализ резервных копий Windows Phone.
-    description: Сегодня большое значение приобретает работа криминалиста по восстановлению доказательств с различных гаджетов. Как показывает практика, восстановить информацию сл смартфона под управлением Windows Phone 8 совсем не просто. При подключении устройства по кабелю вы сможете всего лишь прочесть медиафайлы, так как при подключении по USB работает только Media Transfer Protocol. А как получить телефонный список, СМС и т.д.? Проще всего для этого воспользоваться облачной копией. Как? Об этом мы и поговорим подробнее.
+    title: Application Insights From The Ground Up.
+    description: "Over the session we'll cover major topics of Visual Studio Application Insights through a combination of both lecture-style learning and hands-on experience. You will learn how easily diagnose exceptions and app performance issues and perform root cause analysis with ad-hoc queries. When you complete this workshop, you won't only know what Application Insights is, but you'll also have a vision that helps to detect, triage, and diagnose issues in your apps and services."
     speaker:
-      name: Владимир Безмалый
-      bio: Автор более 250 статей, изданных в Украине и России. Обладатель статуса Microsoft Most Valuable Professional в области Consumer Security Microsoft Security Trusted Advisor Опыт работы в ИТ почти 40 лет. В ИБ порядка 25 лет.
-      photoUrl: /assets/avatar/VBezmaly.jpg
-      links:
-        - https://www.facebook.com/vlad.bezmaly
-        - http://www.bezmaly.com/
-  -
-    title: Масштабирование реляционной БД в Azure. Миф или реальность?
-    description: "Масштабируемость приложения стала критическим элементом дизайна после перехода от модели индивидуальных программ к серверной модели работы приложений. Масштабируемые приложения способны справиться с более активным использованием и возросшим объёмом данных. Масштабируемые приложения обладают высокой доступностью и отказоустойчивостью. Масштабируемые приложения управляемы и сопровождаемы. Всё это справедливо по отношению ко всем слоям приложения, в том числе и к базе данных. Масштабирование базы данных - процесс довольно сложный. В Azure уже была попытка масштабировать базу данных, и наверняка многие помнят SQL Azure Federations и почему хорошая идея оказалась не такой хорошей. На сейчас Federations являются Deprecated функциональностью, и Майкрософт презентует новую модель масштабирования базы данных в облаке: Elastic Scale. В этом докладе мы разберёмся почему провалились Federations, как разработчики учли старые ошибки в создании нового продукта, и действительно ли так хорош Elastic Scale чтобы использовать его в серьёзном проекте."
-    speaker:
-      name: Denis Reznik
-      bio: Работает в компании TFG an Intapp Company на позиции Director of R&D. Имеет большой опыт разработки и проектирования решений на базе SQL Server и SQL Azure. Увлекается вопросами оптимизации запросов, масштабирования баз данных, разработкой сложных архитектурных решений и внутренним устройством SQL Server. C 2010 года является Microsoft MVP по SQL Server. Активный участник SQL сообщества и лидер Kyiv SQL Server User Group. Соавтор книги "SQL Server MVP Deep Dives Vol. 2"
-      photoUrl:
-      links:
-        - http://ua.linkedin.com/pub/denis-reznik/3/502/234
-  -
-    title: Деплоймент инфраструктуры и сервисов с использованием Azure Service Management Cmdlets.
-    description: В этом докладе я поделюсь опытом использования Azure Service Management Cmdlets для автоматизации деплоймента в облако. Будет рассмотрена структура скриптов, оптимизация, а также проблемы и их решения.
-    speaker:
-      name: Денис Холод
-      bio: Денис Холод занимает должность ведущего разработчика в Intapp. Имеет 5 лет опыта в построении enterprise приложений. Сейчас отвечает за перемещение в облако систем управления рисками, также отвечает за построение multitenant окружения.
-      photoUrl: /assets/avatar/DKholod.jpg
+      name: Igor Fesenko
+      bio: ""
+      photoUrl: 
       links:
   -
-    title: Управление релизами в Azure окружении используя PowerShell и Desired State Configuration.
-    description: 
+    title: DocumentDB in Action.
+    description: "Microsoft Azure DocumentDB service (now in preview) is a NoSQL document database service designed for scalable and high performance modern applications. DocumentDB is delivered as a fully managed service with an enterprise grade SLA. It supports querying of documents using a familiar SQL over hierarchical JSON documents. DocumentDB is truly schema-free. It allows you to store and query any JSON document, regardless of schema. In this presentation, you will learn: how to get started with DocumentDB you provision a new database account; how to index documents; how to create applications using DocumentDb (using REST API or programming libraries for several popular language); basics of DocumentDB Queries. This talk will cover also the latest updates, announced at the Build conference like new pricing policy, server side aprttitioned collections, DocumentDB protocol support for MongoDB."
     speaker:
-      name: Олег Чёрный
-      bio: Сертифицированный тренер Microsoft, а также сертифицированный специалист Microsoft в реализации инфраструктурных решений на платформе Microsoft Azure. Имеет статус Microsoft MVP по направлению Software Packaging, Deployment & Servicing. Занимает должность Operations Lead в Edgar Online. Интересуется DevOps практиками и их внедрением.
-      photoUrl:
+      name: MIHAIL MATEEV
+      bio: ""
+      photoUrl: 
       links:
   -
-    title: Тонкая настройка производительности дисков на виртуальных машинах в Azure.
-    description: 
+    title: Введение в Cross-Platform Mobile DevOps.
+    description: "Современные средства управления разработкой позволяют покрыть полный цикл выпуска мобильных приложений от разработки до тестирования и публикации в магазин. Во время мастер класса мы проделаем путь от создания мобильного приложения, подключим в него аналитику HokeyApps, настроим автоматизированное построение и тестирование в Xamarin Test Cloud используя Visual Studio Team Services."
     speaker:
-      name: Андрей Шоханов
-      bio: Занимается вопросами построения инфраструктуры с 1997 года. С 2000 года занимался управлением инфраструктурой в банках и страховых компаниях. В 2004 году получил статус Microsoft Certified Trainer и начал проводить тренинги по направлениям Windows, Lync, Exchange, System Center и безопасность. Параллельно занимается проектами по построению ИТ инфраструктур.
-      photoUrl:
+      name: ИГОРЬ ЛЕОНТЬЕВ
+      bio: ""
+      photoUrl: 
       links:
-        - http://ua.linkedin.com/in/altkachenko
-        - https://www.facebook.com/al.tkachenko
+  -
+    title: Azure Networks and Hybrid Infrastructure.
+    description: "Short introduction to Azure networking and a lot of demos. How to create vNET, subnet and VPN gateway in ARM and how to connect local Windows Server 2012 R2 RRAS to this network."
+    speaker:
+      name: EMIL WASILEWSKI
+      bio: ""
+      photoUrl: 
+      links:
+  -
+    title: Нагрузочное тестирование веб приложения из облака.
+    description: ""
+    speaker:
+      name: Anton Boyko
+      bio: "Founder and main speaker at Ukrainian Microsoft Azure Community. 10+ years in application development. Builds apps based on Microsoft Azure platform since 2011. Microsoft Azure technical expert. Microsoft Azure MVP since 2014. Owner and one of the organizers of the most popular Microsoft Azure conferences in Ukraine: Azure Day and Global Azure Bootcamp."
+      photoUrl: /assets/avatar/ABoyko.png
+      links:
+        - https://www.facebook.com/boyko.ant
+        - https://twitter.com/BoykoAnt
+        - https://www.linkedin.com/in/boykoant/
+        - https://mvp.microsoft.com/en-us/PublicProfile/5000824
+        - http://www.mycertprofile.com/Profile/8861740279
+  -
+    title: Жизнь без хлопот в мире IoT.
+    description: ""
+    speaker:
+      name: СЕРГЕЙ ПОПЛАВСКИЙ
+      bio: ""
+      photoUrl: 
+      links:
+  -
+    title: Setup Continous Delivery with VSTS + GitFlow + Octopus Deploy + ARM for Enterprise Solutions.
+    description: "This speech will cover the experience of setting up CI/CD process and Release Management practice with tools from Microsoft and 3rd party Deployment Tool - Octopus Deploy."
+    speaker:
+      name: SERGII KRYSHTOP
+      bio: ""
+      photoUrl: 
+      links:
+  -
+    title: Практики построения файловых хранилищ в Azure.
+    description: "Дмитрий Дурасов делится опытом построения высоконагруженных хранилищ в Azure. Только реальные продакшн практики: вы узнаете из первых рук, как хранить в облаке десятки террабат и миллионы файлов, как обойти подводные камни и с чем сталкиваются архитекторы при планировании миграции данных в облако. Никакого маркетингового булшита, доклад уровня 300-400 и ориентирован на опытных системных администраторов, архитекторов и девопсов."
+    speaker:
+      name: ДМИТРИЙ ДУРАСОВ
+      bio: ""
+      photoUrl: 
+      links:
+  -
+    title: SQL Server Stretch Database.
+    description: "Технология Stretch Database позволяет динамически переносить "горячие" и "холодные" данные из SQL Server 2016 в Azure. В рамках лабораторной работы, мы посмотрим как настраивать Stretch Database и какие возможные проблемы нас ожидают при использовании данной технологии."
+    speaker:
+      name: СЕРГЕЙ СЫРОВАТЧЕНКО
+      bio: ""
+      photoUrl: 
+      links:
+  -
+    title: Разработка ботов с помощью Bot Framework и Azure Cognitive Services.
+    description: "Хотя боты существуют уже давно, сейчас их использование получает колоссальный интерес. CUI (Conversational User Interface) становится популярнее приложений и веб-сервисов: ведь можно заказать пиццу или вызвать такси просто початившись с ботов в любимом мессенджере. В рамках доклада мы рассмотрим использование BotFramework - нового фреймворка от Microsoft для написания ботов на C#, и интеграции готового бота с мессенджерами. Также, мы рассмотрим LUIS из Azure Cognitive Services - сервис, позволяющий распознавать произвольные сообщения от пользователя, определять намерения по сообщению и выделять из него значимую информацию."
+    speaker:
+      name: АНТОН ВИДИЩЕВ
+      bio: ""
+      photoUrl: 
+      links:
+  -
+    title: Enabling DevTest in Microsoft Azure.
+    description: "In this demo-centric session we will talk about a new service called Azure DevTest Labs. How it can improve your DevTest scenarios and solve today’s challenges connected to development and test environments."
+    speaker:
+      name: Igor Fesenko
+      bio: ""
+      photoUrl: 
+      links:
+  -
+    title: Secure your data in five clicks.
+    description: "One hour demo session focused on newest security feature in SQL Server 2016 and Windows Azure SQL Database. Few slides, few words and several of demos which (i hope) inviting you for some experiments with your data and their security. We will talk about TDE (Transparent Data Encryption), DDM (Dynamic Data Masking), RLS (Row Level Security) and maybe most famous AlwaysEncrypted. We focus on practical use case scenarios but with strong procedural and protocols basis. And I'm sure you can expect unexpected."
+    speaker:
+      name: TOBIASZ KOPROWSKI
+      bio: ""
+      photoUrl: 
+      links:
+  -
+    title: Complex Event Processing with Azure Stream Analytics.
+    description: "Azure Stream Analytics targets complex event streams (CEP’s) to deduce meaningful patterns. Most of the typical use cases for this product is when various devices and sensors are sending data for further processing. This technology uses a T-SQL like syntax to express its intents. A language that most data-power users will be familiar with. The biggest advantage of Stream Analytics is when events are being published to the Stream Analytics, the only thing that event publishers needs to know is which Event Bus or Blob storage to place the data. Stream Analytics will then fetch the data. This talk is about the main concepts and solution architecture when using Azure Stream Analytics, and also how to use this technology together with MS SQL Server, DocumentDB, Azure SQL Database and Power BI."
+    speaker:
+      name: MIHAIL MATEEV
+      bio: ""
+      photoUrl: 
+      links:
+  -
+    title: Миграция в Azure Service Fabric.
+    description: "На конференции Build2016 Microsoft анонсировал выход в GA нового сервиса – Azure Service Fabric, который ориентирован на разработку приложений с использованием подхода микросервисной архитектуры. В рамках доклада мы познакомимся с Azure Service Fabric, а также рассмотрим пример переноса небольшого IoT приложения, построенного с использованием Azure Cloud Service на новую архитектуру на базе Azure Service Fabric."
+    speaker:
+      name: АЛЕКСАНДР ЛАЙША
+      bio: ""
+      photoUrl: 
+      links:
+  -
+    title: SQL Server AlwaysOn & Azure IaaS.
+    description: "Во время данного доклада слушатели будут ознакомлены с технологией SQL Server Always On и историей её развития начиная с момента появления и заканчивая анонсированным SQL Server 2016. Докладчик расскажет и продемонстрирует создание групп доступности (High Availability Groups) в среде виртуальных машин, созданных с помощью менеджера ресурсов (Resource Manager). Будут рассмотрены отличия от машин, созданных с помощью классического портала (Classic Portal) и от сред, построенных на собственном оборудовании. Отдельное внимание будет уделенно территориально распределённым кластерам, вопросам отказоустойчивости и балансирования нагрузки. Доклад предназначен для специалистов со средним и высоким уровнем подготовки в области баз данных и облачных технологий."
+    speaker:
+      name: ЕВГЕНИЙ НЕДАШКОВСКИЙ
+      bio: ""
+      photoUrl: 
+      links:
+  -
+    title: Azure Active Directory Application Proxy.
+    description: "Трек будет рассматривать возможности публикации корпоративных ресурсов при помощи Azure Active Directory Application Proxy."
+    speaker:
+      name: АЛЕКСАНДР ТКАЧЕНКО
+      bio: ""
+      photoUrl: 
+      links:
 partners:
   -
     name: Microsoft
     description: Заснована в 1975 році корпорація Microsoft є визнаним світовим лідером у галузі розробки програмного забезпечення, а також у наданні послуг та рішень, які допомагають людям та компаніям повністю реалізувати свій потенціал. З 2003 року в Україні працює компанія «Майкрософт Україна», до завдань якої входить розвиток ринку програмного забезпечення, а також впровадження і локалізація новітніх технологій на території Україні.
     logoUrl: /assets/logo/microsoft.png
-  
+  -
+    name: EPAM
+    description: "Engineering is in our DNA. Since 1993, we’ve helped the world’s leading companies imagine, design, engineer, and deliver software that changes the world. Today, we are more than developers. Our offices are digital laboratories. Our clients are major global brands. And we’re always looking for talented teammates."
+    logoUrl: /assets/logo/epam.jpg
+    links:
+      - https://www.epam.com
+  -
+    name: Onlizer
+    description: "Onlizer is cloud-based platform for applications development, launch and monitoring. Focus of our product is simplification of automation and virtualization processes for organizations of any size. Onlizer in general contains 3-component solution: “Integration with no code” to easy start and progress for automation projects, “Ready-to-use scenarios and modules” to faster solutions development, “Applications platform as a service” to handle runtime, testing and service tasks. As result of these properties Onlizer provides many opportunities and valuable results for different kind of experts involved in automation and development process – IT Pros, Developers, Management, Startups and many more."
+    logoUrl: /assets/logo/onlizer.jpg
+    links:
+      - http://onlizer.com/
+  -
+    name: Ciklum
+    description: "Ciklum — датская компания, основанная в 2002 году, работающая в сфере аутсорсинга разработки программного обеспечения. Ciklum — это международная компания с офисами продаж в Дании, Швеции, Великобритании, Германии, Швейцарии и Нидерландах, Израиле, Америке и центрами разработки в крупных городах Украины (Киев, Харьков, Днепропетровск, Львов, Одесса и Винница), в Беларуси (Минск) и Пакистане (Лахор, Исламабад). Компания входит в пятерку крупнейших ИТ компаний Украины."
+    logoUrl: /assets/logo/ciklum.jpg
+    links:
+      - https://www.ciklum.com/
+  -
+    name: UCloud
+    description: "Национальное публичное облако."
+    logoUrl: /assets/logo/UCloud.jpg
+    links:
+      - http://ucloud.ua/
+  -
+    name: JetBrains
+    description: "When it comes down to quality tools for all devs of all languages JetBrains has you covered."
+    logoUrl: /assets/logo/jetbrains.jpg
+    links:
+      - https://www.jetbrains.com/
+  -
+    name: Cerebrata
+    description: "Cerebrata Azure Management Studio, One tool to manage your Microsoft Azure applications, storage and diagnostics."
+    logoUrl: /assets/logo/cerebrata.jpg
+    links:
+      - https://www.cerebrata.com/
+  -
+    name: MyGet
+    description: "Manage and build your packages you’re using on Azure."
+    logoUrl: /assets/logo/myget.jpg
+    links:
+      - https://myget.org/
+  -
+    name: Devart
+    description: "Devart – одна из ведущих компаний по разработке программного обеспечения для работы с базами данных, ALM решений, провайдеров для различных серверов баз данных, облачных решений для интеграции и резервного копирования данных. Линейка инструментов для работы с базами данных включает в себя самостоятельные приложения и расширения для интегрированных сред разработки, такие как: плагины для SSMS; ADO.NET провайдеры; ODBC драйверы; SSIS DataFlow компоненты; надстройки для Excel; компоненты доступа к базам данных для Delphi; dbExpress драйверы; Skyvia — облачное решение для интеграции, резервного копирования облачных данных и управления данными. Skyvia обеспечивает легко настраиваемую интеграцию облачных и реляционных данных без необходимости писать код, предоставляет надежный бэкап облачных данных с быстрым восстановлением и позволяет работать с данными при помощи SQL запросов."
+    logoUrl: /assets/logo/devart.jpg
+    links:
+      - https://www.devart.com/
+
+  -
+    name: CloudMonix
+    description: "CloudMonix is a beautiful cloud-based SaaS product that allows Azure engineers to gain deep insight into all aspects of their Azure infrastructure, receive immediate alerts, monitor live dashboards, save money by shutting down or scaling down Azure resources, automatically resolve common production issues, and much more. CloudMonix is a successor to the now retiring AzureWatch tool. Every attendee gets $100 off their paid subscription."
+    logoUrl: /assets/logo/CloudMonix.jpg
+    links:
+      - http://cloudmonix.com/
+  -
+    name: Компьютерная Академия ШАГ
+    description: "Компьютерная Академия ШАГ – крупнейшее международное учебное заведение, специализирующееся на компьютерном образовании. Наши преподаватели – это практикующие специалисты с опытом работы в IT-индустрии. Они учат тому, о чем не пишут в учебниках. Программа обучения соответствует требованиям, которые предъявляются к молодым специалистам при трудоустройстве в IT-компанию. Ничего лишнего. Только то, что пригодится в работе."
+    logoUrl: /assets/logo/myget.jpg
+    links:
+      - http://itstep.org/ua/
+  -
+    name: ИТ сообщество Украины
+    description: Проект «ИТ сообщество Украины» основан в начале 2014 года c целью создания ресурса, на котором ИТ-специалисты разного уровня смогут получить актуальную информацию о различных продуктах, а также особенностях их конфигурирования. На данный момент сообщество поддерживается усилиями 10-ти авторов, которые представляют различные направления информационных технологий. Это дает возможность проекту охватить много направлений, что в конечном итоге будет более интересно читателю.
+    logoUrl: /assets/logo/it-community.png
+    links:
+      - https://it-community.in.ua/
+  -
+    name: DataArt
+    description: Мы — американская компания DataArt, профессионалы и при этом хорошие люди, которые с 97-го года занимаются разработкой ПО и стараются радовать им многочисленных заказчиков, среди которых — технологические компании и инвестиционные фонды, представители рынка мобильных технологий, онлайн-путешествий, масс-медиа, медицины, Интернет-проектов (подробности — на www.dataart.com). Штаб-квартира расположена в Нью-Йорке, центры разработки находятся в Воронеже, Днепропетровске, Киеве, Львове, Люблине, Одессе, Санкт-Петербурге, Харькове и Херсоне. У компании есть представительский офис в Лондоне (Великобритания) и представительство в Цуге (Швейцария). Мы все очень разные, поэтому составляем настоящую команду, где каждый может реализовать себя. Мы — во всех смыслах сервисная компания, наша главная задача — находить пути, чтобы делать счастливыми и коллег, и заказчиков. В наших офисах удобно и приятно работать, мы всегда готовы поделиться друг с другом знаниями, поддержать и помочь не только в профессиональных, но и в личных вопросах.
+    logoUrl: /assets/logo/dataart.gif
+    links:
+      - http://www.dataart.com/
+  -
+    name: HotWork
+    description: "Трудоустройство и поиск работы в Украине."
+    logoUrl: /assets/logo/hotwork.jpg
+    links:
+      - http://hotwork.com.ua/
+  -
+    name: Daxx
+    description: "Daxx – это голландская IT компания, которая с 1999 года предоставляет удаленных программистов для клиентов из Европы и США, а так же способствует трудоустройству украинских IT-специалистов в Нидерландах и других европейских странах. В 2015 году компания вошла в пятерку лучших работодателей Украины в категории (200-800 сотрудников) по версии DOU."
+    logoUrl: /assets/logo/daxx.jpg
+    links:
+      - http://www.daxx.com/
+  -
+    name: Infopulse
+    description: "Infopulse, part of Nordic IT group EVRY A/S, is an international vendor of IT services and solutions. Infopulse provides services in the areas of Software Research & Development, Application Management, and Information Technology Operations to SMEs and Fortune 100 companies across the globe since 1991. As of 2016, company employs 1,300+ specialists in eight offices across Europe and Middle East."
+    logoUrl: /assets/logo/infopulse.jpg
+    links:
+      - http://www.infopulse.com/
+  -
+    name: Startup Network
+    description: "Инвестиционная платформа для предпринимателей, инвесторов и профессионалов. Инвестируйте в выдающиеся стартапы, находите инвестиции и кредиты для своего бизнеса, вовлекайте в свои идеи лучших профессионалов."
+    logoUrl: /assets/logo/StartupNetwork.png
+    links:
+      - https://startup.ua/
+  -
+    name: IT Education Academy
+    description: "ITEA предлагает качественное обучение специалистов по двум направлениям: авторизованное вендорское обучение и авторские курсы лучших специалистов-практиков, работающих в IТ-компаниях – лидерах мирового масштаба. Для лучших выпускников вечерних курсов предлагается помощь в трудоустройстве и возможность прохождения стажировки в компаниях-партнерах IT Education Academy. Более 2500 молодых айтишников начали свой путь с обучения в ITEA, а большинство из них продолжают успешно работать в IT-сфере."
+    logoUrl: /assets/logo/ITEA.jpg
+    links:
+      - http://itea.ua/
+
+
+
+
+
+
+
+
