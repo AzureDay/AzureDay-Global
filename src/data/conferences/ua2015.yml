@@ -46,6 +46,8 @@ sessions:
       bio: 
       photoUrl: /assets/avatar/SPoplavskiy.png
       links:
+        - https://www.linkedin.com/profile/view?id=137759362
+        - https://www.facebook.com/sergey.poplavskiy.35
   -
     title: Использование Docker контейнеров для обеспечения работы распределенного приложения в Azure.
     description: 
