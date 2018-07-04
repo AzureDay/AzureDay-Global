@@ -1,0 +1,115 @@
+name: AzureDay 2016 Ukraine
+date: 18th June 2016
+venue:
+  name: President Hotel
+  address:  12, Hospitalna street, Kyiv, 01601, Ukraine
+organizers:
+  -
+    name: Anton Boyko
+    bio: "Founder and main speaker at Ukrainian Microsoft Azure Community. 10+ years in application development. Builds apps based on Microsoft Azure platform since 2011. Microsoft Azure technical expert. Microsoft Azure MVP since 2014. Owner and one of the organizers of the most popular Microsoft Azure conferences in Ukraine: Azure Day and Global Azure Bootcamp."
+    photoUrl: /assets/avatar/ABoyko.png
+    links:
+      - https://www.facebook.com/boyko.ant
+      - https://twitter.com/BoykoAnt
+      - https://www.linkedin.com/in/boykoant/
+      - https://mvp.microsoft.com/en-us/PublicProfile/5000824
+      - http://www.mycertprofile.com/Profile/8861740279
+sessions:
+  -
+    title: Публикация веб приложений на Azure Web Sites при помощи встроенного build сервера Kudu.
+    description: Все мы знаем, что можно легко настроить публикацию нашего приложения на Azure Web Sites из Git репозитория расположенного, к примеру, на GitHub. Процесс настройки данной публикации выглядит довольно просто и с первого взгляда похож на простое копирование файлов, хотя на деле это далеко не так. Запуская публикацию приложения, мы можем предварительно прогнать автоматические тесты и не публиковать ничего есть тесты завершились с ошибкой. Мы можем выбрать, к примеру, какой именно проект мы хотим опубликовать, при случае что у нас их несколько в одном репозитории. Мы также можем менять множество других настроек и во время своего доклада я покажу как работает эта невероятная магия.
+    speaker:
+      name: Anton Boyko
+      bio: "Founder and main speaker at Ukrainian Microsoft Azure Community. 10+ years in application development. Builds apps based on Microsoft Azure platform since 2011. Microsoft Azure technical expert. Microsoft Azure MVP since 2014. Owner and one of the organizers of the most popular Microsoft Azure conferences in Ukraine: Azure Day and Global Azure Bootcamp."
+      photoUrl: /assets/avatar/ABoyko.png
+      links:
+        - https://www.facebook.com/boyko.ant
+        - https://twitter.com/BoykoAnt
+        - https://www.linkedin.com/in/boykoant/
+        - https://mvp.microsoft.com/en-us/PublicProfile/5000824
+        - http://www.mycertprofile.com/Profile/8861740279
+  -
+    title: Синхронизация каталогов Azure Active Directory - deep dive.
+    description: 
+    speaker:
+      name: Alexander Tkachenko
+      bio: 
+      photoUrl:
+      links:
+        - http://ua.linkedin.com/in/altkachenko
+        - https://www.facebook.com/al.tkachenko
+  -
+    title: Azure Stream Analytics для обработки большого объема событий.
+    description: 
+    speaker:
+      name: Сергей Поплавский
+      bio: 
+      photoUrl: /assets/avatar/SPoplavskiy.png
+      links:
+  -
+    title: Использование Docker контейнеров для обеспечения работы распределенного приложения в Azure.
+    description: 
+    speaker:
+      name: Олег Чёрный
+      bio: Сертифицированный тренер Microsoft, а также сертифицированный специалист Microsoft в реализации инфраструктурных решений на платформе Microsoft Azure. Имеет статус Microsoft MVP по направлению Software Packaging, Deployment & Servicing. Занимает должность Operations Lead в Edgar Online. Интересуется DevOps практиками и их внедрением.
+      photoUrl:
+      links:
+  -
+    title: Алгоритмы в Azure Machine Learning и где их лучше применять.
+    description: Azure Machine Learning – сервис, который позволит использовать мощности искусственного интеллекта на базе облака Azure для осуществления бизнес-прогнозирований, бизнес-аналитики и анализа данных. В докладе разберем, какие алгоритмы есть в и в каких сценариях их лучше всего применять.
+    speaker:
+      name: Виктор Цикунов
+      bio: 
+      photoUrl:
+      links:
+  -
+    title: Мобильная криминалистика. Анализ резервных копий Windows Phone.
+    description: Сегодня большое значение приобретает работа криминалиста по восстановлению доказательств с различных гаджетов. Как показывает практика, восстановить информацию сл смартфона под управлением Windows Phone 8 совсем не просто. При подключении устройства по кабелю вы сможете всего лишь прочесть медиафайлы, так как при подключении по USB работает только Media Transfer Protocol. А как получить телефонный список, СМС и т.д.? Проще всего для этого воспользоваться облачной копией. Как? Об этом мы и поговорим подробнее.
+    speaker:
+      name: Владимир Безмалый
+      bio: Автор более 250 статей, изданных в Украине и России. Обладатель статуса Microsoft Most Valuable Professional в области Consumer Security Microsoft Security Trusted Advisor Опыт работы в ИТ почти 40 лет. В ИБ порядка 25 лет.
+      photoUrl: /assets/avatar/VBezmaly.jpg
+      links:
+        - https://www.facebook.com/vlad.bezmaly
+        - http://www.bezmaly.com/
+  -
+    title: Масштабирование реляционной БД в Azure. Миф или реальность?
+    description: "Масштабируемость приложения стала критическим элементом дизайна после перехода от модели индивидуальных программ к серверной модели работы приложений. Масштабируемые приложения способны справиться с более активным использованием и возросшим объёмом данных. Масштабируемые приложения обладают высокой доступностью и отказоустойчивостью. Масштабируемые приложения управляемы и сопровождаемы. Всё это справедливо по отношению ко всем слоям приложения, в том числе и к базе данных. Масштабирование базы данных - процесс довольно сложный. В Azure уже была попытка масштабировать базу данных, и наверняка многие помнят SQL Azure Federations и почему хорошая идея оказалась не такой хорошей. На сейчас Federations являются Deprecated функциональностью, и Майкрософт презентует новую модель масштабирования базы данных в облаке: Elastic Scale. В этом докладе мы разберёмся почему провалились Federations, как разработчики учли старые ошибки в создании нового продукта, и действительно ли так хорош Elastic Scale чтобы использовать его в серьёзном проекте."
+    speaker:
+      name: Denis Reznik
+      bio: Работает в компании TFG an Intapp Company на позиции Director of R&D. Имеет большой опыт разработки и проектирования решений на базе SQL Server и SQL Azure. Увлекается вопросами оптимизации запросов, масштабирования баз данных, разработкой сложных архитектурных решений и внутренним устройством SQL Server. C 2010 года является Microsoft MVP по SQL Server. Активный участник SQL сообщества и лидер Kyiv SQL Server User Group. Соавтор книги "SQL Server MVP Deep Dives Vol. 2"
+      photoUrl:
+      links:
+        - http://ua.linkedin.com/pub/denis-reznik/3/502/234
+  -
+    title: Деплоймент инфраструктуры и сервисов с использованием Azure Service Management Cmdlets.
+    description: В этом докладе я поделюсь опытом использования Azure Service Management Cmdlets для автоматизации деплоймента в облако. Будет рассмотрена структура скриптов, оптимизация, а также проблемы и их решения.
+    speaker:
+      name: Денис Холод
+      bio: Денис Холод занимает должность ведущего разработчика в Intapp. Имеет 5 лет опыта в построении enterprise приложений. Сейчас отвечает за перемещение в облако систем управления рисками, также отвечает за построение multitenant окружения.
+      photoUrl: /assets/avatar/DKholod.jpg
+      links:
+  -
+    title: Управление релизами в Azure окружении используя PowerShell и Desired State Configuration.
+    description: 
+    speaker:
+      name: Олег Чёрный
+      bio: Сертифицированный тренер Microsoft, а также сертифицированный специалист Microsoft в реализации инфраструктурных решений на платформе Microsoft Azure. Имеет статус Microsoft MVP по направлению Software Packaging, Deployment & Servicing. Занимает должность Operations Lead в Edgar Online. Интересуется DevOps практиками и их внедрением.
+      photoUrl:
+      links:
+  -
+    title: Тонкая настройка производительности дисков на виртуальных машинах в Azure.
+    description: 
+    speaker:
+      name: Андрей Шоханов
+      bio: Занимается вопросами построения инфраструктуры с 1997 года. С 2000 года занимался управлением инфраструктурой в банках и страховых компаниях. В 2004 году получил статус Microsoft Certified Trainer и начал проводить тренинги по направлениям Windows, Lync, Exchange, System Center и безопасность. Параллельно занимается проектами по построению ИТ инфраструктур.
+      photoUrl:
+      links:
+        - http://ua.linkedin.com/in/altkachenko
+        - https://www.facebook.com/al.tkachenko
+partners:
+  -
+    name: Microsoft
+    description: Заснована в 1975 році корпорація Microsoft є визнаним світовим лідером у галузі розробки програмного забезпечення, а також у наданні послуг та рішень, які допомагають людям та компаніям повністю реалізувати свій потенціал. З 2003 року в Україні працює компанія «Майкрософт Україна», до завдань якої входить розвиток ринку програмного забезпечення, а також впровадження і локалізація новітніх технологій на території Україні.
+    logoUrl: /assets/logo/microsoft.png
+  
