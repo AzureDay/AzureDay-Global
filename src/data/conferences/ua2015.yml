@@ -59,8 +59,8 @@ sessions:
     description: Azure Machine Learning – сервис, который позволит использовать мощности искусственного интеллекта на базе облака Azure для осуществления бизнес-прогнозирований, бизнес-аналитики и анализа данных. В докладе разберем, какие алгоритмы есть в и в каких сценариях их лучше всего применять.
     speaker:
       name:  Виктор Цикунов
-      bio: "Microsoft cloud technologies expert. More than 10 years experience in IT. During the last 10 years has been working at Microsoft on different roles in product marketing, corporate sales and technical consulting"
-      photoUrl: /assets/avatar/Tsykunov.jpg
+      bio: "Microsoft cloud technologies expert. More than 10 years experience in IT. During the last 10 years has been working at Microsoft on different roles in product marketing, corporate sales and technical consulting."
+      photoUrl: /assets/avatar/VTsykunov.jpg
       links:
   -
     title: Мобильная криминалистика. Анализ резервных копий Windows Phone.
@@ -120,7 +120,6 @@ partners:
     logoUrl: /assets/logo/it-community.png
     links:
       - https://it-community.in.ua/
-
   -
     name: Компьютерная Академия ШАГ
     description: Компьютерная Академия ШАГ – крупнейшее международное учебное заведение, специализирующееся на компьютерном образовании. Наши преподаватели – это практикующие специалисты с опытом работы в IT-индустрии. Они учат тому, о чем не пишут в учебниках. Программа обучения соответствует требованиям, которые предъявляются к молодым специалистам при трудоустройстве в IT-компанию. Ничего лишнего. Только то, что пригодится в работе.
