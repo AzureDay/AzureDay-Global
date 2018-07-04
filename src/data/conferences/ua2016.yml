@@ -20,7 +20,7 @@ sessions:
     description: 
     speaker:
       name: Sergey Psekha
-      bio: 
+      bio: ".Net Competence Lead, Ciklum Delivery. Architect and Team Lead in area of Web Solutions. 10 years in .Net stack. Leading the team of 35 .Net developers. Specializes on: increasing productivity of software delivery in the technical area; Behavior Driven Development; backend and cloud architectures; solutions development peculiarities for IT Startups. Currently focused on Proof of Concept creation in area of Role Based Security Search Engine. The project for enterprise decided going social."
       photoUrl: /assets/avatar/_Person.png
       links:
   -
@@ -31,14 +31,17 @@ sessions:
       bio: "Microsoft cloud technologies expert. More than 10 years experience in IT. During the last 10 years has been working at Microsoft on different roles in product marketing, corporate sales and technical consulting."
       photoUrl: /assets/avatar/VTsykunov.jpg
       links:
+        - https://www.facebook.com/vtsykunov
   -
     title: Interoperability for scalability.
     description: "A live Proof of Concept for creating scalable web application environment with Python + IIS at front-end and WordPress + Linux at back-end. All based on Azure Web Apps and Azure VMs. PoC not only for WordPress enthusiasts - it's all about REST API, JSON, separation and interoperability. It's all about things You can find on Azure."
     speaker:
       name: Michał Smereczyński
-      bio: ""
+      bio: "Microsoft Azure MVP. A Linux guy. Founder and leader of Polish Microsoft Azure User Group. Entrepreneur - a technical expert and a consultant on Microsoft Azure platform. Open Source Software and interoperability evangelist."
       photoUrl: /assets/avatar/MichalSmereczynski.jpg
       links:
+        - https://twitter.com/smereczynski
+        - https://www.linkedin.com/in/smereczynski
   -
     title: JavaScript и Azure - от идеи к прототипу за 60 минут.
     description: "Во время данной сессии мы познакомимся с фреймворком Ionic, который позволяет нам очень быстро разрабатывать кросс-платформенные мобильные приложения используя JavaScript. Для того, чтобы приложения могли обмениваться данными, мы будем разрабатывать серверную часть на базе Node.JS и Azure Mobile Apps."
@@ -57,25 +60,28 @@ sessions:
     description: "Что такое Data Factory? Почему данный сервис называют комбайном данных? Облачный ETL? В докладе отвечу на все эти вопросы. Расскажу как использовать фабрику для передачи данных, как проанализировать данные пропущенные через него."
     speaker:
       name: E Polonichko
-      bio: ""
+      bio: "PASS Chapter Leader. 6 лет работы с MSSQL. В основном занимаюсь BI проектами(SSAS, SSIS, PowerBI, Cognos, Informatica PowerCenter, Pentaho, Tableau). На данный момент работаю Data Warehouse/BI architect."
       photoUrl: /assets/avatar/EPolonichko.jpg
       links:
+        - https://twitter.com/EvgenPolonichko
+        - https://ua.linkedin.com/in/eugenepolonichko
   -
     title: Continuous Integration and Git Flow.
     description: ""
     speaker:
-      name: V Radchuk
-      bio: ""
+      name: Valentine Radchuk
+      bio: ".NET Technical Lead в компании Cogniance. Профессионально занимается разработкой с 2007 года. Имеет большой опыт с .NET технологиями для разработки десктоп, бэкенд и веб приложений."
       photoUrl: /assets/avatar/VRadchuk.jpg
       links:
   -
     title: IoT "plug and pray".
     description: ""
     speaker:
-      name: V Bezmaly
-      bio: ""
+      name: Vladimir Bezmaly
+      bio: "Автор более 250 статей, изданных в Украине и России. Обладатель статуса Microsoft Most Valuable Professional в области Consumer Security Microsoft Security Trusted Advisor. Kaspersky Certified Consultant. Kaspersky Certified Trainer. Опыт работы в ИТ почти 40 лет. В ИБ порядка 25 лет."
       photoUrl: /assets/avatar/VBezmaly.jpg
       links:
+        - https://www.facebook.com/vlad.bezmaly
   -
     title: Application Insights From The Ground Up.
     description: "Over the session we'll cover major topics of Visual Studio Application Insights through a combination of both lecture-style learning and hands-on experience. You will learn how easily diagnose exceptions and app performance issues and perform root cause analysis with ad-hoc queries. When you complete this workshop, you won't only know what Application Insights is, but you'll also have a vision that helps to detect, triage, and diagnose issues in your apps and services."
@@ -84,30 +90,42 @@ sessions:
       bio: ""
       photoUrl: /assets/avatar/IFesenko.jpg
       links:
+        - https://twitter.com/Ky7m
+        - https://www.facebook.com/ifesen
   -
     title: DocumentDB in Action.
     description: "Microsoft Azure DocumentDB service (now in preview) is a NoSQL document database service designed for scalable and high performance modern applications. DocumentDB is delivered as a fully managed service with an enterprise grade SLA. It supports querying of documents using a familiar SQL over hierarchical JSON documents. DocumentDB is truly schema-free. It allows you to store and query any JSON document, regardless of schema. In this presentation, you will learn: how to get started with DocumentDB you provision a new database account; how to index documents; how to create applications using DocumentDb (using REST API or programming libraries for several popular language); basics of DocumentDB Queries. This talk will cover also the latest updates, announced at the Build conference like new pricing policy, server side aprttitioned collections, DocumentDB protocol support for MongoDB."
     speaker:
       name: Mihail Mateev
-      bio: ""
+      bio: "Mihail Mateev is a Solutions Architect, Technical PM and Senior Technical Evangelist at Strypes, blogger, Community enthusiast, PASS Regional Mentor for CEE and chapter lead, Microsoft Azure MVP. Mihail worked in various areas related to technology Microsoft: .Net Framework, Windows Platform, ASP.Net MVC, Microsoft Data Platform  and Microsoft Azure. He also write many JS related blogs. Mihail is an administrator and co-organizer of many community events like SQLSaturday Bulgaria, JS Saturday Bulgaria, SharePoint Saturday Bulgaria, JSTalks Bulgaria and Azure Bootcamp Bulgaria."
       photoUrl: /assets/avatar/MMateev.jpg
       links:
+        - https://www.facebook.com/mihail.mateev
+        - https://bg.linkedin.com/in/mmateev
+        - https://twitter.com/mihailmateev
   -
     title: Введение в Cross-Platform Mobile DevOps.
     description: "Современные средства управления разработкой позволяют покрыть полный цикл выпуска мобильных приложений от разработки до тестирования и публикации в магазин. Во время мастер класса мы проделаем путь от создания мобильного приложения, подключим в него аналитику HokeyApps, настроим автоматизированное построение и тестирование в Xamarin Test Cloud используя Visual Studio Team Services."
     speaker:
       name: Ihor Leontiev
-      bio: ""
+      bio: "С 2012 .Net разработчик в Украине, с 2013 работаю с платформой Microsoft Azure. В 2014 получил статус Microsoft Student Partner и в это же время начал активно участвовать в технических конференциях. Сегодня вовлечен в процесс правильного построения процесса разработки и использования DevOps практик в качестве Communicative Intelligence and Innovation Development на предприятии iafoo.com, Монпелье, Франция."
       photoUrl: /assets/avatar/ILeontyev.jpg
       links:
+        - https://twitter.com/LeontievIhor
+        - https://fr.linkedin.com/in/leontievihor
+        - https://www.facebook.com/igor.leontyev
   -
     title: Azure Networks and Hybrid Infrastructure.
     description: "Short introduction to Azure networking and a lot of demos. How to create vNET, subnet and VPN gateway in ARM and how to connect local Windows Server 2012 R2 RRAS to this network."
     speaker:
       name: Emil Wasilewski
-      bio: ""
+      bio: "Leader of Microsoft Azure User Group Poland. Microsoft Most Valuable Professional (MVP) in Microsoft Azure. Microsoft certified consultant and trainer. Co-organizer AzureDay Poland conference. He speaks about Microsoft Azure and other Microsoft solutions at conferences, meetings and groups as well as on his blog ZapytajEmila.pl. Privately fan of digital photography."
       photoUrl: /assets/avatar/EmilWasilewski.jpg
       links:
+        - https://www.facebook.com/eklime
+        - https://pl.linkedin.com/in/emilwasilewski
+        - https://twitter.com/WasilewskiEmil
+        - http://zapytajemila.pl/
   -
     title: Нагрузочное тестирование веб приложения из облака.
     description: ""
@@ -126,57 +144,70 @@ sessions:
     description: ""
     speaker:
       name: Sergey Poplavskiy
-      bio: ""
+      bio: "Cотрудник компании Microsoft, который отвечает за развитие платформы Microsoft Azure в Украине. За время своей работы он успел провести более 30 глубоких технических тренингов по этой тематике, участвовал в разработке множества проектов на платформе Microsoft Azure."
       photoUrl: /assets/avatar/SPoplavskiy.png
       links:
+        - https://www.linkedin.com/profile/view?id=137759362
+        - https://www.facebook.com/sergey.poplavskiy.35
   -
     title: Setup Continous Delivery with VSTS + GitFlow + Octopus Deploy + ARM for Enterprise Solutions.
     description: "This speech will cover the experience of setting up CI/CD process and Release Management practice with tools from Microsoft and 3rd party Deployment Tool - Octopus Deploy."
     speaker:
       name: Sergii Kryshtop
-      bio: ""
+      bio: "Sergii Kryshtop is Software Engineer Manager in EPAM Ukraine, cloud evangelist with a focus on Microsoft Azure. Has more10+ years of experience in IT with diverse knowledge of different areas of Microsoft Technology stack. Has main focus in system architecture, software design and engineering practices for continuous delivery. Always happy to answer on hand-on questions regarding Visual Studio Team Services (VSO) and continuous delivery setup, Azure Resource Manager, Virtual Networks, Virtual Machines, Web Applications, SQL Database, Application Insights and more."
       photoUrl: /assets/avatar/SKryshtop.jpg
       links:
+        - https://www.facebook.com/sergii.kryshtop
   -
     title: Практики построения файловых хранилищ в Azure.
     description: "Дмитрий Дурасов делится опытом построения высоконагруженных хранилищ в Azure. Только реальные продакшн практики: вы узнаете из первых рук, как хранить в облаке десятки террабат и миллионы файлов, как обойти подводные камни и с чем сталкиваются архитекторы при планировании миграции данных в облако. Никакого маркетингового булшита, доклад уровня 300-400 и ориентирован на опытных системных администраторов, архитекторов и девопсов."
     speaker:
-      name: ДМИТРИЙ ДУРАСОВ
-      bio: ""
+      name: Dmitriy Durasov
+      bio: "MCT, MCSA, MCTS, MCP, основная область экспертизы – Cloud Solutions, Private and Public Clouds, Virtualization, Continuous Integration, Process Automation, PowerShell. Свой путь в информационных технологиях начал с MK-52, сейчас занимается облачными энтерпрайз решениями. Последние 6 лет работает в компании EPAM Systems, где разрабатывает и внедряет различные решения для крупных заказчиков из финансового и информационного секторов."
       photoUrl: /assets/avatar/DDurasov.png
       links:
+        - https://twitter.com/azuregeek
+        - https://www.linkedin.com/in/ddurasau
+        - https://www.facebook.com/dzmitry.durasau
   -
     title: SQL Server Stretch Database.
     description: "Технология Stretch Database позволяет динамически переносить "горячие" и "холодные" данные из SQL Server 2016 в Azure. В рамках лабораторной работы, мы посмотрим как настраивать Stretch Database и какие возможные проблемы нас ожидают при использовании данной технологии."
     speaker:
       name: Sergey Syrovatchenko
-      bio: ""
+      bio: "Работаю в компании Devart на позиции SQL Server DBA. Сейчас за плечами 5 лет опыта работы с SQL Server. Профессиональный круг интересов - оптимизация запросов и разработка архитектуры баз данных."
       photoUrl: /assets/avatar/SSyrovatchenko.jpg
       links:
+        - https://www.linkedin.com/in/sergeysyrovatchenko
   -
     title: Разработка ботов с помощью Bot Framework и Azure Cognitive Services.
     description: "Хотя боты существуют уже давно, сейчас их использование получает колоссальный интерес. CUI (Conversational User Interface) становится популярнее приложений и веб-сервисов: ведь можно заказать пиццу или вызвать такси просто початившись с ботов в любимом мессенджере. В рамках доклада мы рассмотрим использование BotFramework - нового фреймворка от Microsoft для написания ботов на C#, и интеграции готового бота с мессенджерами. Также, мы рассмотрим LUIS из Azure Cognitive Services - сервис, позволяющий распознавать произвольные сообщения от пользователя, определять намерения по сообщению и выделять из него значимую информацию."
     speaker:
       name: Anton Vidishchev
-      bio: ""
+      bio: "Антон - Microsoft MVP по Azure и активный спикер на технических конференциях. Его специализация -  облако Microsoft Azure. Антон руководит технической командой из 90 человек в Украине, разрабатывающий комплекс финансовых систем для американского рынка. Также Антон является одним из организаторов одесского .NET сообщества."
       photoUrl: /assets/avatar/AVidishchev.jpg
       links:
+        - https://www.linkedin.com/in/antonvidishchev
+        - https://www.facebook.com/anton.vidishchev
   -
     title: Enabling DevTest in Microsoft Azure.
     description: "In this demo-centric session we will talk about a new service called Azure DevTest Labs. How it can improve your DevTest scenarios and solve today’s challenges connected to development and test environments."
     speaker:
       name: Igor Fesenko
-      bio: ""
+      bio: "Application Architect, SoftServe. He is passionate about designing and developing scalable, flexible, cloud ready software solutions, utilizing state of art security practices. He is proficient in C#, JavaScript & Azure and has managed and assessed multiple projects focusing on high performance and large data solutions. His current focus is on the building and improvement of scalable and secure web applications, cloud-enabled applications and operations, and identity & access management."
       photoUrl: /assets/avatar/IFesenko.jpg
       links:
+        - https://twitter.com/Ky7m
+        - https://www.facebook.com/ifesen
   -
     title: Secure your data in five clicks.
     description: "One hour demo session focused on newest security feature in SQL Server 2016 and Windows Azure SQL Database. Few slides, few words and several of demos which (i hope) inviting you for some experiments with your data and their security. We will talk about TDE (Transparent Data Encryption), DDM (Dynamic Data Masking), RLS (Row Level Security) and maybe most famous AlwaysEncrypted. We focus on practical use case scenarios but with strong procedural and protocols basis. And I'm sure you can expect unexpected."
     speaker:
       name: Tobiasz Koprowski
-      bio: ""
+      bio: "CEO of Shadowland Consulting. Community leader focused on SQL Server, SharePoint, security, collaboration and ITIL, DR, BCM and SLA. Love licensing stuff. MCT, freelancer and consultant. Subject Matter Expert at CQURE. Member of Microsoft Terminology Community, Friends of RedGate PLUS, PASS, ISSA, ACM and several communities in the world. Member of the boards: PTI & ISSA (Poland's Chapter). Since 1st July 2010 Data Platform MVP."
       photoUrl: /assets/avatar/TKoprowski.jpg
       links:
+        - https://uk.linkedin.com/in/koprowskit
+        - https://twitter.com/KoprowskiT
   -
     title: Complex Event Processing with Azure Stream Analytics.
     description: "Azure Stream Analytics targets complex event streams (CEP’s) to deduce meaningful patterns. Most of the typical use cases for this product is when various devices and sensors are sending data for further processing. This technology uses a T-SQL like syntax to express its intents. A language that most data-power users will be familiar with. The biggest advantage of Stream Analytics is when events are being published to the Stream Analytics, the only thing that event publishers needs to know is which Event Bus or Blob storage to place the data. Stream Analytics will then fetch the data. This talk is about the main concepts and solution architecture when using Azure Stream Analytics, and also how to use this technology together with MS SQL Server, DocumentDB, Azure SQL Database and Power BI."
@@ -190,17 +221,20 @@ sessions:
     description: "На конференции Build2016 Microsoft анонсировал выход в GA нового сервиса – Azure Service Fabric, который ориентирован на разработку приложений с использованием подхода микросервисной архитектуры. В рамках доклада мы познакомимся с Azure Service Fabric, а также рассмотрим пример переноса небольшого IoT приложения, построенного с использованием Azure Cloud Service на новую архитектуру на базе Azure Service Fabric."
     speaker:
       name: АЛЕКСАНДР Laisha
-      bio: ""
+      bio: "За плечами – 7 лет опыта разработки и проектирования коммерческих систем в разных бизнес областях. Последние 3 года работает с облачной платформой Microsoft Azure на проектах различной сложности. Работает в компании EPAM Systems на позиции Chief Software Engineer и занимается миграцией выскоконагруженного eBilling приложения в облако Microsoft Azure. Microsoft Azure MVP, лидер и постоянный докладчик Azure сообщества в РБ - Belarus Azure User Group."
       photoUrl: /assets/avatar/ALaisha.png
       links:
+        - https://twitter.com/layshaalexander
+        - https://www.facebook.com/alexander.laysha
   -
     title: SQL Server AlwaysOn & Azure IaaS.
     description: "Во время данного доклада слушатели будут ознакомлены с технологией SQL Server Always On и историей её развития начиная с момента появления и заканчивая анонсированным SQL Server 2016. Докладчик расскажет и продемонстрирует создание групп доступности (High Availability Groups) в среде виртуальных машин, созданных с помощью менеджера ресурсов (Resource Manager). Будут рассмотрены отличия от машин, созданных с помощью классического портала (Classic Portal) и от сред, построенных на собственном оборудовании. Отдельное внимание будет уделенно территориально распределённым кластерам, вопросам отказоустойчивости и балансирования нагрузки. Доклад предназначен для специалистов со средним и высоким уровнем подготовки в области баз данных и облачных технологий."
     speaker:
       name: ЕВГЕНИЙ Nedashkivskyi
-      bio: ""
+      bio: "Евгений Недашковский – администратор баз данных, получивший свой опыт в таких гигантах как УкрАВТО, Укртелеком и КПМГ. В данный момент Евгений работает в американской компании где занимается сопровождением нескольких тысяч баз данных в геораспределённых кластерах."
       photoUrl: /assets/avatar/YNedashkivskyi.jpeg
       links:
+        - https://ua.linkedin.com/in/nedash
   -
     title: Azure Active Directory Application Proxy.
     description: "Трек будет рассматривать возможности публикации корпоративных ресурсов при помощи Azure Active Directory Application Proxy."
@@ -209,6 +243,8 @@ sessions:
       bio: ""
       photoUrl: /assets/avatar/_Person.png
       links:
+        - https://www.linkedin.com/in/altkachenko
+        - https://www.facebook.com/al.tkachenko
 partners:
   -
     name: Microsoft
@@ -262,7 +298,6 @@ partners:
     logoUrl: /assets/logo/devart.jpg
     links:
       - https://www.devart.com/
-
   -
     name: CloudMonix
     description: "CloudMonix is a beautiful cloud-based SaaS product that allows Azure engineers to gain deep insight into all aspects of their Azure infrastructure, receive immediate alerts, monitor live dashboards, save money by shutting down or scaling down Azure resources, automatically resolve common production issues, and much more. CloudMonix is a successor to the now retiring AzureWatch tool. Every attendee gets $100 off their paid subscription."
