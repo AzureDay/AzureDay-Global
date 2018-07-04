@@ -58,9 +58,9 @@ sessions:
     title: Алгоритмы в Azure Machine Learning и где их лучше применять.
     description: Azure Machine Learning – сервис, который позволит использовать мощности искусственного интеллекта на базе облака Azure для осуществления бизнес-прогнозирований, бизнес-аналитики и анализа данных. В докладе разберем, какие алгоритмы есть в и в каких сценариях их лучше всего применять.
     speaker:
-      name: Виктор Цикунов
-      bio: 
-      photoUrl:
+      name:  Виктор Цикунов
+      bio: "Microsoft cloud technologies expert. More than 10 years experience in IT. During the last 10 years has been working at Microsoft on different roles in product marketing, corporate sales and technical consulting"
+      photoUrl: /assets/avatar/Tsykunov.jpg
       links:
   -
     title: Мобильная криминалистика. Анализ резервных копий Windows Phone.
