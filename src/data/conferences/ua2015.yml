@@ -7,7 +7,7 @@ organizers:
   -
     name: Anton Boyko
     bio: "Founder and main speaker at Ukrainian Microsoft Azure Community. 10+ years in application development. Builds apps based on Microsoft Azure platform since 2011. Microsoft Azure technical expert. Microsoft Azure MVP since 2014. Owner and one of the organizers of the most popular Microsoft Azure conferences in Ukraine: Azure Day and Global Azure Bootcamp."
-    photoUrl: 
+    photoUrl: /assets/avatar/ABoyko.png
     links:
       - https://www.facebook.com/boyko.ant
       - https://twitter.com/BoykoAnt
@@ -21,7 +21,7 @@ sessions:
     speaker:
       name: Anton Boyko
       bio: "Founder and main speaker at Ukrainian Microsoft Azure Community. 10+ years in application development. Builds apps based on Microsoft Azure platform since 2011. Microsoft Azure technical expert. Microsoft Azure MVP since 2014. Owner and one of the organizers of the most popular Microsoft Azure conferences in Ukraine: Azure Day and Global Azure Bootcamp."
-      photoUrl:
+      photoUrl: /assets/avatar/ABoyko.png
       links:
         - https://www.facebook.com/boyko.ant
         - https://twitter.com/BoykoAnt
@@ -44,7 +44,7 @@ sessions:
     speaker:
       name: Сергей Поплавский
       bio: 
-      photoUrl:
+      photoUrl: /assets/avatar/SPoplavskiy.png
       links:
   -
     title: Использование Docker контейнеров для обеспечения работы распределенного приложения в Azure.
@@ -68,7 +68,7 @@ sessions:
     speaker:
       name: Владимир Безмалый
       bio: Автор более 250 статей, изданных в Украине и России. Обладатель статуса Microsoft Most Valuable Professional в области Consumer Security Microsoft Security Trusted Advisor Опыт работы в ИТ почти 40 лет. В ИБ порядка 25 лет.
-      photoUrl:
+      photoUrl: /assets/avatar/VBezmaly.jpg
       links:
         - https://www.facebook.com/vlad.bezmaly
         - http://www.bezmaly.com/
@@ -87,7 +87,7 @@ sessions:
     speaker:
       name: Денис Холод
       bio: Денис Холод занимает должность ведущего разработчика в Intapp. Имеет 5 лет опыта в построении enterprise приложений. Сейчас отвечает за перемещение в облако систем управления рисками, также отвечает за построение multitenant окружения.
-      photoUrl:
+      photoUrl: /assets/avatar/DKholod.jpg
       links:
   -
     title: Управление релизами в Azure окружении используя PowerShell и Desired State Configuration.
@@ -112,39 +112,60 @@ partners:
     name: Microsoft
     description: Заснована в 1975 році корпорація Microsoft є визнаним світовим лідером у галузі розробки програмного забезпечення, а також у наданні послуг та рішень, які допомагають людям та компаніям повністю реалізувати свій потенціал. З 2003 року в Україні працює компанія «Майкрософт Україна», до завдань якої входить розвиток ринку програмного забезпечення, а також впровадження і локалізація новітніх технологій на території Україні.
     logoUrl: /assets/logo/microsoft.png
+    links:
+      - http://www.microsoft.com/uk-ua/default.aspx
   -
     name: ИТ сообщество Украины
     description: Проект «ИТ сообщество Украины» основан в начале 2014 года c целью создания ресурса, на котором ИТ-специалисты разного уровня смогут получить актуальную информацию о различных продуктах, а также особенностях их конфигурирования. На данный момент сообщество поддерживается усилиями 10-ти авторов, которые представляют различные направления информационных технологий. Это дает возможность проекту охватить много направлений, что в конечном итоге будет более интересно читателю.
     logoUrl: /assets/logo/it-community.png
+    links:
+      - https://it-community.in.ua/
+
   -
     name: Компьютерная Академия ШАГ
     description: Компьютерная Академия ШАГ – крупнейшее международное учебное заведение, специализирующееся на компьютерном образовании. Наши преподаватели – это практикующие специалисты с опытом работы в IT-индустрии. Они учат тому, о чем не пишут в учебниках. Программа обучения соответствует требованиям, которые предъявляются к молодым специалистам при трудоустройстве в IT-компанию. Ничего лишнего. Только то, что пригодится в работе.
     logoUrl: /assets/logo/ITStep.png
+    links:
+      - http://itstep.org/
   -
     name: AppClub
     description: AppClub { build, monetize } - клуб мобильных разработчиков и стартапов.
     logoUrl: /assets/logo/AppClub.png
+    links:
+      - http://appclub.im/
   -
     name: Livatek
     description: Livatek - группа компаний в Дании и Германии, предлагающих услуги по разработке программного обеспечения. Мы предоставляем нашим клиентам гибкий доступ к наилучшим IT-ресурсам, помогая выбрать наиболее эффективную модель сотрудничества для достижения поставленных целей. Доверие, уважение и длительные отношения с нашими коллегами – залог успешной работы Livatek на рынке Европы в сфере информационных технологий.
     logoUrl: /assets/logo/livatek.gif
+    links:
+      - http://www.livatek.com/
   -
     name: GlobalLogic
     description: GlobalLogic — международная IT-компания полного цикла разработки программных продуктов. Компания создает уникальные продукты в таких сферах как цифровые медиа, финансы, медицина, телекоммуникации и др. Среди ее клиентов — как перспективные стартапы, так и лидеры рынков. GlobalLogic в Украине входит в пятерку крупнейших IT-фирм страны. Компания сотрудничает более чем с 2400 специалистами в Киеве, Харькове, Львове и Николаеве.
     logoUrl: /assets/logo/GlobalLogic.jpg
+    links:
+      - http://globallogic.com.ua/
   -
     name: Intego Group
     description: Intego Group provides an integrated portfolio of engineering services to clients in North America and Western Europe, leveraging deep domain expertise, a solid technology background, and multi-industry experience. Established in 1999, Intego Group employs a global delivery model through its client-facing operations in the United States and delivery centers strategically located in Ukraine. Combining comprehensive capabilities and highly skilled talent, we collaborate with our customers to build long-term partnerships based on our culture of engineering excellence and commitment to high quality. Focusing on transparent and flexible engagement models, Intego Group has a successful track record helping late-stage start-ups, mid-market firms and Fortune 500 companies build complex software products and IT solutions in a variety of industry verticals, including ISVs and Technology, Financial Services, Oil and Gas, Medical and Pharmaceutical, Media and Publishing, Travel and Hospitality, and many others.
     logoUrl: /assets/logo/intego.gif
+    links:
+      - http://www.intego-group.com/
   -
     name: DataArt
     description: Мы — американская компания DataArt, профессионалы и при этом хорошие люди, которые с 97-го года занимаются разработкой ПО и стараются радовать им многочисленных заказчиков, среди которых — технологические компании и инвестиционные фонды, представители рынка мобильных технологий, онлайн-путешествий, масс-медиа, медицины, Интернет-проектов (подробности — на www.dataart.com). Штаб-квартира расположена в Нью-Йорке, центры разработки находятся в Воронеже, Днепропетровске, Киеве, Львове, Люблине, Одессе, Санкт-Петербурге, Харькове и Херсоне. У компании есть представительский офис в Лондоне (Великобритания) и представительство в Цуге (Швейцария). Мы все очень разные, поэтому составляем настоящую команду, где каждый может реализовать себя. Мы — во всех смыслах сервисная компания, наша главная задача — находить пути, чтобы делать счастливыми и коллег, и заказчиков. В наших офисах удобно и приятно работать, мы всегда готовы поделиться друг с другом знаниями, поддержать и помочь не только в профессиональных, но и в личных вопросах.
     logoUrl: /assets/logo/dataart.gif
+    links:
+      - http://www.dataart.com/
   -
     name: Information Systems Security Partners
     description: Information Systems Security Partners - специализированная экспертная компания по обеспечению безопасности информационных систем на основе технологий от ведущих мировых производителей, что дает возможность компании ISSP предоставлять своим клиентам лучшие в мире решения и оказывать компетентные услуги по интеграции технологий, технической поддержке и профессиональному консалтингу по информационной безопасности.
     logoUrl: /assets/logo/issp.png
+    links:
+      - http://www.issp.ua/
   -
     name: Ciklum
     description: Ciklum — датская компания, основанная в 2002 году, работающая в сфере аутсорсинга разработки программного обеспечения. Ciklum — это международная компания с офисами продаж в Дании, Швеции, Великобритании, Германии, Швейцарии и Нидерландах, Израиле, Америке и центрами разработки в крупных городах Украины (Киев, Харьков, Днепропетровск, Львов, Одесса и Винница), в Беларуси (Минск) и Пакистане (Лахор, Исламабад). Компания входит в пятерку крупнейших ИТ компаний Украины.
     logoUrl: /assets/logo/ciklum.jpg
+    links:
+      - http://www.ciklum.com/
