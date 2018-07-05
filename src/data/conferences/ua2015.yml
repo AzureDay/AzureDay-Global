@@ -34,7 +34,7 @@ sessions:
     speaker:
       name: Alexander Tkachenko
       bio: 
-      photoUrl:
+      photoUrl: /assets/avatar/_Person.png
       links:
         - http://ua.linkedin.com/in/altkachenko
         - https://www.facebook.com/al.tkachenko
@@ -54,7 +54,7 @@ sessions:
     speaker:
       name: Олег Чёрный
       bio: Сертифицированный тренер Microsoft, а также сертифицированный специалист Microsoft в реализации инфраструктурных решений на платформе Microsoft Azure. Имеет статус Microsoft MVP по направлению Software Packaging, Deployment & Servicing. Занимает должность Operations Lead в Edgar Online. Интересуется DevOps практиками и их внедрением.
-      photoUrl:
+      photoUrl: /assets/avatar/_Person.png
       links:
   -
     title: Алгоритмы в Azure Machine Learning и где их лучше применять.
@@ -80,7 +80,7 @@ sessions:
     speaker:
       name: Denis Reznik
       bio: Работает в компании TFG an Intapp Company на позиции Director of R&D. Имеет большой опыт разработки и проектирования решений на базе SQL Server и SQL Azure. Увлекается вопросами оптимизации запросов, масштабирования баз данных, разработкой сложных архитектурных решений и внутренним устройством SQL Server. C 2010 года является Microsoft MVP по SQL Server. Активный участник SQL сообщества и лидер Kyiv SQL Server User Group. Соавтор книги "SQL Server MVP Deep Dives Vol. 2"
-      photoUrl:
+      photoUrl: /assets/avatar/_Person.png
       links:
         - http://ua.linkedin.com/pub/denis-reznik/3/502/234
   -
@@ -97,7 +97,7 @@ sessions:
     speaker:
       name: Олег Чёрный
       bio: Сертифицированный тренер Microsoft, а также сертифицированный специалист Microsoft в реализации инфраструктурных решений на платформе Microsoft Azure. Имеет статус Microsoft MVP по направлению Software Packaging, Deployment & Servicing. Занимает должность Operations Lead в Edgar Online. Интересуется DevOps практиками и их внедрением.
-      photoUrl:
+      photoUrl: /assets/avatar/_Person.png
       links:
   -
     title: Тонкая настройка производительности дисков на виртуальных машинах в Azure.
@@ -105,10 +105,8 @@ sessions:
     speaker:
       name: Андрей Шоханов
       bio: Занимается вопросами построения инфраструктуры с 1997 года. С 2000 года занимался управлением инфраструктурой в банках и страховых компаниях. В 2004 году получил статус Microsoft Certified Trainer и начал проводить тренинги по направлениям Windows, Lync, Exchange, System Center и безопасность. Параллельно занимается проектами по построению ИТ инфраструктур.
-      photoUrl:
+      photoUrl: /assets/avatar/AShokhanov.jpg
       links:
-        - http://ua.linkedin.com/in/altkachenko
-        - https://www.facebook.com/al.tkachenko
 partners:
   -
     name: Microsoft
