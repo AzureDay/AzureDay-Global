@@ -28,6 +28,288 @@ sessions:
         - https://www.linkedin.com/in/boykoant/
         - https://mvp.microsoft.com/en-us/PublicProfile/5000824
         - http://www.mycertprofile.com/Profile/8861740279
+  -
+    title: Microsoft and AI: how Azure services will help your apps to become smart.
+    description: In this topic, we will speak about Microsoft Cognitive Services, LUIS and Azure Machine Learning tool allowing to add artificial intelligence component to your software.
+    speaker:
+      name: Oleksandr Krakovetskyi
+      bio: "I am CEO of DevRain Solutions, IT company from Ukraine. We specialize in web, cloud and mobile solutions (.NET, Xamarin, iOS, Android). In 2013 my company got "Lead partner in creating mobile solutions on Windows Phone 8 platform" award from Microsoft Ukraine. I am a Microsoft Regional Director during last 8 years and Microsoft Most Valuable Professional during last 6 years. Also I was nominated as Telerik Developer Expert for several years and got "The Best Professional in Software Architecture" Ukrainian IT award."
+      photoUrl: /assets/avatar/OKrakovetskyi.jpg
+      links:
+        - https://www.facebook.com/alex.krakovetskiy
+        - https://twitter.com/msugvnua
+        - https://www.linkedin.com/in/krakovetskiy/
+  -
+    title: Getting started with IoT solutions in Azure
+    description: During this session we will look at: Microcontrollers, modules and sensors, IoT Hub to gather data and identify devices, Stream Analytics & Storage, WebApp to visualize telemetry data
+    speaker:
+      name: Sergey Poplavskiy 
+      bio: "Сергей отвечает за развитие платформы Microsoft Azure и средств разработки в Украине. За время своей работы успел провести более 40 глубоких технических тренингов, участвовал в разработке нескольких проектов на платформе Microsoft Azure, имеет практический опыт реализации и внедрения решений на ее базе. Много лет программирует на платформе .Net используя Visual Studio, реализовал несколько собственных приложений под платформы Windows Phone, Windows и Azure. Один из основателей Лаборатории интернет вещей в «Майкрософт Украина"
+      photoUrl: /assets/avatar/SPoplavskiy.png
+      links:
+        - https://www.facebook.com/sergey.poplavskiy.35
+  -
+    title: How Far Can ‘Serverless’ Actually Go?
+    description: Azure Functions is getting a lot of traction, which is completely understandable in the fast-paced world of applications developed using Agile methodologies. Comparing the world of IT and software development today with the one 10 years ago, when we knew not only what operating system our application was going to run on but also the exact part number of the server that was running the workload, we can only conclude that PaaS infrastructures have gone a far way! But how far? How far can you go and is actually advisable to go when it comes to externalizing your infrastructure, anyway? Throughout this fast-paced advanced talk we will take the real micro-services way and develop a full application, top-to-bottom using Azure Functions. Seatbelt buckled yet?
+    speaker:
+      name: Alex Mang  
+      bio: ""
+      photoUrl: /assets/avatar/AMang.jpg
+      links:
+  -
+    title: Containers in Azure: from infrastructure to deployment
+    description: In this topic we will learn how to start building and deploying containerized applications in Azure using existing Continuous Integration and Continuous Delivery tools like Visual Studio Team Services and Octopus Deploy. Target audience is developers, system engineers and solution/system architects who has some experience in Docker and interested in how Azure helps to accelerate adoption of containers and microservice architecture.
+    speaker:
+      name: Sergii Kryshtop  
+      bio: ""
+      photoUrl: /assets/avatar/SKryshtop.jpg
+      links:
+   -
+    title: Безпека даних в Azure
+    description: "Під час даної доповіді ми поговоримо про технології Microsoft Azure, що дозволяють забепечити безпеку даних та їх відновлення у разі пошкодження. Лекція носить оглядовий характер, тому буде цікава широкому колу слухачів, починаючи від розробників та адміністраторів, та закінчуючи керівниками та власниками бізнесу."
+    speaker:
+      name: Eugen Niedaszkowski  
+      bio: ""
+      photoUrl: /assets/avatar/ENiedaszkowski.jpg
+      links:
+    -
+    title: IoTSuite - Cloud platform for IoT Solutions
+    description: "We will talk about Azure IoT Suite as a platform for fast prototyping of IoT solutions. We'll talk about what it is, what is inside of it, how we can use it and how to start working with it. Answers for these and many other questions will help you to build and deploy IoT system prototypes that can be used for presentation to customers."
+    speaker:
+      name: Alexandr Surkov  
+      bio: "Alexandr Surkov is a developer with more than 10 years of experience. He is the head of software development department of security systems startup since 2011. In his free time he writes articles and speaks at different events. He got Microsoft MVP award in 2016 and now he leads Russian IoT Community."
+      photoUrl: /assets/avatar/ASurkov.jpg
+      links:
+        - https://www.meetup.com/IoTCommunity/
+        - https://www.facebook.com/AOSurkov
+        - https://twitter.com/AOSurkov
+        - https://mvp.microsoft.com/ru-ru/PublicProfile/5002197
+    -
+    title: Azure Analysis Services - your cube is in the cloud
+    description: "What is Azure SSAS? Analysis Services is an analytical data engine used in decision support and business analytics, providing the analytical data for business reports and client applications such as Power BI, Excel, Reporting Services reports, and other data visualisation tools."
+    speaker:
+      name: Eugene Polonychko   
+      bio: Eugene Polonichko has over 6 years of experience with SQL Server. He mainly focuses on BI projects (SSAS, SSIS, PowerBI, Azure DWH, Azure SSAS). Eugene is a passionate speaker and SQL community volunteer presenting regularly at PASS SQL Saturday events and local user groups around Ukraine and Europe. Eugene is PASS Chapter Leader. He leads SQL Server User Group Donetsk and he is Data Platform MVP"
+      photoUrl: /assets/avatar/EPolonychko.jpg
+      links:
+        - https://www.facebook.com/mydjeki
+    -
+    title: Site Reliability Engineering in Azure (part 1)
+    description: "Let's discuss Site Reliability Engineering principles and practices applied to Software as Service application hosted in Azure. Such topics will be covered: Infrastructure as a Code, Release Engineering, Monitoring, Chaos Engineering, Disaster Recovery Plan Also, we'll discuss real production incidents and analyze real postmortems which will be useful for anyone who wants to leverage Azure in Prod."
+    speaker:
+      name: Oleg Chorny  
+      bio: 
+      photoUrl: /assets/avatar/OChorny.jpg
+      links:
+    -
+    title: Управление устройствами и мобильными приложениями при помощи Azure Intune
+    description: "Intune — это облачная служба управления корпоративной мобильностью. С помощью Intune вы можете управлять мобильными устройствами, рабочими станциями Windows и мобильными приложениями, которые сотрудники используют для доступа к данным организации. На данной сессии вы узнаете о возможностях Azure Intune и увидите ряд живых демонстраций."
+    speaker:
+      name: Ievgen Liashov  
+      bio: "Имею 15 лет опыта работы в IT, последние шесть из которых - на должности инженера-архитектора SCCM, SCOM, MDT и Intune. Работал в Украине, США и Польше. На данный момент работаю с крупными заказчиками во Франции. Пятикратный обладатель награды Microsoft MVP и ряда профильных сертификатов. Автор блога, Youtube-канала, ряда обучающих мероприятий и активный спикер."
+      photoUrl: /assets/avatar/ILiashov.jpg
+      links:
+        - http://liashov.com/
+        - https://www.linkedin.com/in/ievgen-liashov-05412145/
+    -
+    title: Applied Microsoft Azure: Cloud Cost Optimization Techniques and Hacks For Enterprise Apps
+    description: "The promise of “the cloud” is that you can get as much as you want, when you want it, and only pay for what you use. But is that the reality? The reality is an inconsiderate usage that leads to exorbitant costs is more common than you think. That is why in this session you will see techniques and even some hacks that bring the promise of the cloud to reality. This presentation is a practical look at real world Azure stories that will answer many of the questions people have about moving to the cloud and getting the best configuration for optimal performance at the lowest possible cost."
+    speaker:
+      name: Igor Fesenko 
+      bio: "I am Microsoft Most Valuable Professional and Application Architect at SoftServe Inc. I am passionate about designing and developing scalable, flexible, cloud-ready software solutions, utilizing state of art security practices. I am proficient in C#, JavaScript & Azure and has managed and assessed multiple projects focusing on high performance and large data solutions. My current focus is on building and improvement of scalable and secure web applications, cloud-enabled applications and operations, and identity & access management."
+      photoUrl: /assets/avatar/IFesenko.jpg
+      links:
+        - https://www.ifesenko.com/
+        - https://www.linkedin.com/in/ifesen
+        - https://twitter.com/Ky7m
+        - https://github.com/Ky7m
+   -
+    title: Industry 4.0 IoT standard: why Azure Cloud fits with OPC UA, IoT Edge technologies and Data Science?
+    description: "There is only one standard that exists worldwide for Industrial IoT: OPC UA. Germany is well ahead. We will illustrate through architecture examples and Industry 4.0 usecases why this is important, and how to work with existing communication protocols."
+    speaker:
+      name: Vincent Thavonekham 
+      bio: "Azure MVP and Microsoft Regional Director at VISEO. Provides consulting and training; working on large IoT projects and Cloud Azure projects. Design Innovative IT offers for VISEO (Cloud OPEX/CAPEX/Architecture, IoT, Blockchain, Industry 4.0), and develop strategic partnership."
+      photoUrl: /assets/avatar/VThavonekham.jpg
+      links:
+        - http://thavonekham.me/
+        - https://www.linkedin.com/in/thavo/
+        - https://twitter.com/vThavo
+  -
+    title: High-throughput data streaming in Azure
+    description: "The session will be focused on solutions that require high-throughput ingestion & streaming of data in real-time. You'll get familiar with different business uses-cases and architecture examples to get a common idea as well as understand the concepts of stream processing systems. Next you'll get deep insights into functional and non-functional capabilities of Azure Event Hub service to see how it fits into the whole picture. Moreover you'll learn current constraints of this service to be able to qualify it's usage for your particular scenario."
+    speaker:
+      name: Alexander Laysha 
+      bio: "Solution Architect from EPAM Systems & Microsoft Azure MVP, focused on cloud solutions and distributed systems. Has more then 5 years of hands-on experience in Microsoft Azure based on production projects from variety of business domains. Leader of Belarus Azure Community and speaker at local and external meetups and conferences."
+      photoUrl: /assets/avatar/ALaysha.jpg
+      links:
+        - https://www.facebook.com/alexander.laysha
+        - https://twitter.com/layshaalexander
+  -
+    title: Site Reliability Engineering in Azure (part 2)
+    description: "Let's discuss Site Reliability Engineering principles and practices applied to Software as Service application hosted in Azure. Such topics will be covered: Infrastructure as a Code, Release Engineering, Monitoring, Chaos Engineering, Disaster Recovery Plan Also, we'll discuss real production incidents and analyze real postmortems which will be useful for anyone who wants to leverage Azure in Prod."
+    speaker:
+      name: Oleg Chorny  
+      bio: 
+      photoUrl: /assets/avatar/OChorny.jpg
+      links:
+  -
+    title: Microsoft Azure in Python, Python on Microsoft Azure and Linux + microservices = recipe for Open Source powered cloud solution
+    description: "I will show you not only how to run Python 3.6 code as serverless microservices on Azure, but also how to use Azure as a target for Python automation scripts (also as a microservices). All automating Linux deployments on Microsoft Azure cloud."
+    speaker:
+      name: Michał Smereczyński 
+      bio: "Cloud Solution Architect. Interoperability, Technology, Open Source Software, Open Standards evangelist. Microsoft Azure MVP."
+      photoUrl: /assets/avatar/MSmereczynski.jpg
+      links:
+        - https://www.linkedin.com/in/smereczynski/
+        - https://twitter.com/smereczynski
+  -
+    title: Использование ASP.NET Identity с Azure Table Storage в приложениях на ASP.NET Core 2.0
+    description: ""
+    speaker: 
+      name: Sergiy Korzh 
+      bio: "- занимается разработкой и продажей собственного программного обеспечения по модели shareware под торговой маркой Korzh.com Korzh.com выпускает EasyQuery - набор .NET компонент для построения дружественных пользователю интерфейсов поиска и фильтрации данных, член оргкомитета iForum, ведущий потока Технологии"
+      photoUrl: /assets/avatar/SKorzh.jpeg
+      links:
+        - https://www.facebook.com/sergiy.korzh
+  -
+    title: Interact with a robot by using Cognitive Services
+    description: "Demonstration of Cognitive services with several examples based on an open source robot project."
+    speaker: 
+      name: Estelle Auberix 
+      bio: "Experienced Chief Executive Officer with a demonstrated history of working in the Information Technology and services industry. Skilled in Communication, User Experience, Web, E-commerce, System Administration and Cloud Computing. Strong entrepreneurship professional with a DESE (Master in International Trade) from Conservatoire National des Arts et Métiers focused in emerging markets in Asia."
+      photoUrl: /assets/avatar/EAuberix.jpg
+      links:
+        - https://www.facebook.com/estelle.inomniaparatus
+        - https://www.linkedin.com/in/inomniaparatus/
+        - https://twitter.com/FollowEstelle
+   -
+    title: Azure Site Recovery - Demo Session with Nested Virtualisation
+    description: "Azure Site Recovery allows you to extend your Datacenter to the Cloud. You can start your servers in Microsoft Azure in case something go wrong with your On Prem servers. Replication help you that you don’t lose so much data. During this full of demos session I will show how Azure Site Recovery works. Fans of new features in Microsoft Azure will be able to see how we simulate On Prem Server room in Microsoft Azure using Nested Virtualization."
+    speaker: 
+      name: Mariusz Ferdyn 
+      bio: ""
+      photoUrl: /assets/avatar/MFerdyn.jpg
+      links:
+        - https://www.facebook.com/mariusz.ferdyn
+        - https://mvp.microsoft.com/en-us/PublicProfile/5002168
+  -
+    title: Easy life with Azure
+    description: " как за 2 минуты добавить мониторинг вашего приложения и забыть обо всём, как почувствовать себя доктором Хаусом и весь день смотреть на кардиограмму вашего приложения попивая кофе, как нарисовать красивые графики и свести менеджеров с ума, как получить в 2 часа ночи письмо что все пропало и пофиксить баги до звонка директора. Во время доклада настроим жизнеспособную модель мониторинга за состоянием приложения, с использованием Azure Application Insights. Познакомимся с риалтайм телеметрией, и по собранным данным отобразим аналитику для менеджеров. Кроме того, узнаем как отрабатывают правила уведомлений в рамках Smart Detection, чтобы разбудить пресловутого менеджера и поддержку, когда обнаружится аномальное поведение вашего приложения. Доклад будет нацелен на тех кто планирует использовать App Insights с целью мониторинга за существующим приложением или системой, и не хочет собирать подобное решение из зоопарка различных сторонних решений."
+    speaker: 
+      name: Alexey Yurchenko 
+      bio: ""
+      photoUrl: /assets/avatar/AYurchenko.jpg
+      links:
+        - https://www.facebook.com/profile.php?id=100006139864997
+    speaker: 
+      name: Vitalii Tolmachov 
+      bio: ""
+      photoUrl: /assets/avatar/VTolmachov.jpg
+      links:
+  -
+   title: Microsoft PowerApps and Flow better together
+    description: "During my session I will show you how easily you can create powerful business flow using SharePoint Online list, PowerApps, Flow and Azure AD. All integration without any line of code."
+    speaker: 
+      name: Emil Wasilewski 
+      bio: "Microsoft Azure MVP, Leader of Microsoft Azure User Group Poland, Speaker, Trainer, Consultant."
+      photoUrl: /assets/avatar/EWasilewski.jpg
+      links: 
+        - http://www.linkedin.com/in/emilwasilewski
+        - https://twitter.com/WasilewskiEmil
+  -
+   title: Blockchain as a Service on Azure
+    description: "Talk about different blockchain systems which are available on Azure Marketplace. Deep dive into decentralized application architecture. Sharing the experience about real project."
+    speaker: 
+      name: Ihor Leontiev
+      bio: "Started career as a .Net Developer for a machine building company in Ukraine, in 2013 I became interested in cloud computing and the Microsoft Azure platform. In 2015 struck off in a new direction with the “Creation of Innovative Enterprises” at a French-Ukrainian master’s program in France. Is Lead Architect on all Blockchain projects of Viseo group. Active participant and a regular speaker in Ukrainian Microsoft Azure Community and Azure User Group France. Now living and working as Azure Architect in France."
+      photoUrl: /assets/avatar/ILeontyev.jpg
+      links:
+       - https://www.linkedin.com/in/leontievihor/
+  - 
+    title: Designing for speech
+    description: "All the big companies are making huge investments in AI personal assistants. Amazon has Alexa, Google has Google assistant, Apple has Siri and Microsoft has Cortana to name a few. For most people talking to their devices still feels a bit strange. According to Comscore, 50% of all searches will be made by voice by the year 2020. Today 40% of adults use voice once per day. Designing a natural language interface can be difficult, is the interface supposed to be able to interpret every single nuance of speech and how about slang? Or should we aim more towards forced language and make our users learn how to interact with simple commands?"
+    speaker: 
+      name: Jessica Engström 
+      bio: "Being a geek shows in all parts of her life, whether it be organizing hackathons, running a user group and a podcast with her husband, game nights (retro or VR/MR) with friends, just catching the latest superhero movie or speaking internationally at conferences. Her favorite topics is UX/UI and Mixed reality and other futuristic tech. She's a Windows Development MVP. Together with her husband she runs a company called "AZM dev" which is focused on HoloLens and Windows development. Occasionally blogs at www.catoholic.se which kind of shows her love for cats... and pink.. mostly pink."
+      photoUrl: /assets/avatar/JEngstrom.jpg
+      links:
+  - 
+    title: Azure SQL Database, Data Warehouse, Data Lake, HDInsight, Storage, Cosmos DB, what the heck should I choose?
+    description: "Well, yeah, there are so many options to store and operate your data in Azure that it is very easy to get lost in a crowd of technologies. The purpose of this session is to give you a glimpse about the scenarios where each of these Azure services will be better suited than the others."
+    speaker: 
+      name: Denis Reznik 
+      bio: "Denis is a Data Architect at Intapp, Inc. He has more than ten years experience in software development, database design and performance tuning for cloud and on-premises solutions. In 2010 Denis became Microsoft Data Platform MVP and maintains the MVP status till now. Apart from his professional career, Denis actively participates in the development of Ukrainian SQL Community and holds the status of PASS Regional Mentor for Central and Eastern Europe"
+      photoUrl: /assets/avatar/DReznik.jpg
+      links:     
+        - https://www.facebook.com/denis.reznik.5
+        - https://twitter.com/DenisReznik
+  - 
+    title: Организации процессов разработки на основе VSTS/TFS
+    description: "Разнообразие технологий разработки ПО с каждым годом только увеличивается. Появляются новые возможности по контейнеризации, переносу инфраструктуры в облако, мониторингу работы приложений и т.д. Но ядром, которое объединяет/интегрирует команду, технологии для достижения поставленных целей, является VSTS/TFS. В процессе доклада мы обсудим, какие инструменты обеспечивает на сегодняшний день VSTS/TFS для организации эффективного процесса разработки для команд различного размера и направленности."
+    speaker: 
+      name: Александр Шамрай
+      bio: "Александр занимается проблемами командной разработки ПО уже более 10-ти лет. Основные направления профессиональной деятельности: проектное управление, управление конфигурациями и изменениями, описание и адаптация процессов разработки на основе гибких и формальных методологий. Основные инструменты реализации – это группа продуктов Microsoft Visual Studio и Project Server. Имеет статус MVP, а также является сертифицированным специалистом в области Application Lifecycle Management."
+      photoUrl: /assets/avatar/AShamray.jpg
+      links:
+  -
+    title: GDPR: Be prepared with a major IT change similar to Y2K bug. How Azure can help?
+    description: "The European Union has enforced a regulation that will protect the personal data privacy. It has got a MAJOR impact on companies in Europe with a HEAVY fine (>10 million €). This session will present the work done by Microsoft in this area, and how the Microsoft Cloud WILL help"
+    speaker:
+      name: Vincent Thavonekham 
+      bio: "Azure MVP and Microsoft Regional Director at VISEO. Provides consulting and training; working on large IoT projects and Cloud Azure projects. Design Innovative IT offers for VISEO (Cloud OPEX/CAPEX/Architecture, IoT, Blockchain, Industry 4.0), and develop strategic partnership."
+      photoUrl: /assets/avatar/VThavonekham.jpg
+      links:
+        - http://thavonekham.me/
+        - https://www.linkedin.com/in/thavo/
+        - https://twitter.com/vThavo   
+  -
+    title: Decentralize Authentication with BaaS
+    description: "Presentation of a PoC which demonstrate that Blockchain is a great soluce to build a decentralized identity model, enabling user entities to manage their own identity and profile attributes."
+    speaker: 
+      name: Estelle Auberix 
+      bio: "Experienced Chief Executive Officer with a demonstrated history of working in the Information Technology and services industry. Skilled in Communication, User Experience, Web, E-commerce, System Administration and Cloud Computing. Strong entrepreneurship professional with a DESE (Master in International Trade) from Conservatoire National des Arts et Métiers focused in emerging markets in Asia."
+      photoUrl: /assets/avatar/EAuberix.jpg
+      links:
+        - https://www.facebook.com/estelle.inomniaparatus
+        - https://www.linkedin.com/in/inomniaparatus/
+        - https://twitter.com/FollowEstelle
+  -
+    title: Holo world - create your first HoloLens app with Unity
+    description: "HoloLens breached a barrier, a barrier between the digital and the real world, bringing digital content into our world. Over the past year the HoloLens has continued to create new ways to visualize, to change education and the medical industry. HoloLens is not only for games it is a Business platform (that is game enabled). Using Unity we can create an experience that lets you bring digital content and interact with the real world. During this session we will take a look at the HoloLens hardware, the possibilities, the limitations and tooling. We will take a look at the basics of Unity and also create a HoloLens app from scratch complete with Gaze, Air Tap, Spatial mapping and Voice using HoloToolkit."
+    speaker: 
+      name: Jimmy Engström 
+      bio: "Ever since Jimmy got his first ZX Spectrum at the age of 7 he hasn't stopped programming. During the day he is a .NET developer and he does all the fun stuff during his spare time. Together with his wife he also runs a company "AZM dev" which is focused on HoloLens and Windows development. He is really passionate about Windows development, HoloLens or well you could say the .NET platform really. He and his wife also runs a code intensive user group (Coding After Work) that focuses on helping participants with code and design problems, and a podcast with the same name. Back in 2011 he received the "geek of the year" award, a title well deserved. He is certainly living up to the title with everything from developing and gadgets to superheroes and cosplaying at the sci-fi faire. He speaks at various types of events including NDC, Devsum, hackathons, Swetugg and TechDays which led to him becoming a Microsoft MVP in Windows Development. He occasionally blogs at www.apeoholic.se Podcast - www.codingafterwork.se"
+      photoUrl: /assets/avatar/JmEngstrom.jpg
+      links:
+  -
+    title: Dealing with CosmosDB
+    description: "CosmosDB service is a NoSQL is a globally distributed, multi-model database database service designed for scalable and high performance modern applications. CosmosDB is delivered as a fully managed service with an enterprise grade SLA. It supports querying of documents using a familiar SQL over hierarchical JSON documents. Azure Cosmos DB is a superset of the DocumentDB service. It allows you to store and query noSQL data, regardless of schema. In this presentation, you will learn: How to get started with DocumentDB you provision a new database account. How to index documents. How to create applications using CosmosDb (using REST API or programming libraries for several popular language). Best practices designing applications with CosmosDB. Best practices creating queries."
+    speaker: 
+      name: Mihail Mateev 
+      bio: "Mihail Mateev is a Microsoft Regional Director currently living in Sofia, Bulgaria. His interests range from technology to entrepreneurship. He is also interested in programming, web development, and education. Mihail is a Technical Consultant, Community enthusiast, PASS Regional Mentor for Central Eastern Europe, chapter lead, Data Platform and Microsoft Azure MVP, Organizer of SQLSaturday, Azure Bootcamp, IoT and JavaScript conferences. His experience is in various areas related to Microsoft technologies, including Windows Platform, ASP.Net MVC, MS SQL Server and Microsoft Azure. Mihail has a PhD in cloud computing and am a university lecturer on Smart Homes and Smart Energy IoT Solutions"
+      photoUrl: /assets/avatar/MMateev.jpg
+      links:
+        - https://www.facebook.com/mihail.mateev
+        - https://www.linkedin.com/in/mmateev/
+        - https://twitter.com/mihailmateev
+  -
+    title: Построение корпоративных высоконагруженных инфраструктур в Azure
+    description: "В докладе будет рассмотрен опыт построения высоконагруженных инфраструктур в Azure. Из первых рук вы узнаете, как работают с платформой Microsoft Azure ведущие мировые корпорации, как развертывать тысячи серверов в Microsoft Azure, хранить в облаке десятки терабайт данных и миллионы файлов, как строятся облачные инфраструктуры в крупных компаниях, как обойти подводные камни и узкие места и с чем сталкиваются архитекторы при планировании миграции данных в облако.  Доклад ориентирован на опытных системных администраторов, архитекторов и инженеров DevOps и основан на реальных практиках работы с Azure в компании, входящей в Top 10 Azure Enterprise Customer."
+    speaker: 
+      name: Dzmitry Durasau 
+      bio: ""
+      photoUrl: /assets/avatar/DDurasau.jpg
+      links:
+  -
+    title: Защита корпоративных ресурсов и информации при помощи Azure
+    description: "В эпоху мобильных и облачных технологий Azure Active Directory обеспечивает единый вход для устройств, приложений и служб из любого расположения. В связи с увеличением количества устройств (включая BYOD) и сторонних приложений SaaS, а также растущей популярностью работы за пределами корпоративных сетей ИТ-специалисты все чаще сталкиваются с задачей защиты корпоративной информации. На этой сессии вы узнаете, как при помощи Azure AD Conditional Access и Azure Information Protection защитить доступ к ресурсам компании."
+    speaker:
+      name: Ievgen Liashov  
+      bio: "Имею 15 лет опыта работы в IT, последние шесть из которых - на должности инженера-архитектора SCCM, SCOM, MDT и Intune. Работал в Украине, США и Польше. На данный момент работаю с крупными заказчиками во Франции. Пятикратный обладатель награды Microsoft MVP и ряда профильных сертификатов. Автор блога, Youtube-канала, ряда обучающих мероприятий и активный спикер."
+      photoUrl: /assets/avatar/ILiashov.jpg
+      links:
+        - http://liashov.com/
+        - https://www.linkedin.com/in/ievgen-liashov-05412145/
 
 partners:
   -
