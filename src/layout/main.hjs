@@ -13,8 +13,10 @@
     
     {{> header.hjs }}
     
-    {{ Page.Content }}
-    
+    <div class="container">
+        {{ Page.Content }}
+    </div>
+
     {{> footer.hjs }}
     
 </body>
