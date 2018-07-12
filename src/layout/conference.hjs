@@ -1,0 +1,164 @@
+<html>
+<head>
+    <link rel="shortcut icon" href="/assets/favicon.ico" />
+
+    <title>{{ Page.Title }}</title>
+
+    <link rel="stylesheet" href="/assets/vendor/bootstrap-3.3.7/css/bootstrap.min.css" />
+    <link rel="stylesheet" href="/assets/vendor/bootstrap-3.3.7/css/bootstrap-theme.min.css" />
+
+    <link rel="stylesheet" href="/assets/vendor/fontawesome-5.1.0/css/all.css" />
+</head>
+<body>
+    
+    {{> header.hjs }}
+
+    <div class="container">
+        <div class="page-header">
+            <h1>{{ Model.conference.name }}</h1>
+            <h2>{{ Model.conference.date }}</h2>
+        </div>
+        <div class="page-header">
+            <h2>{{ Model.conference.venue.name }}</h2>
+            <h4>{{ Model.conference.venue.address }}</h4>
+        </div>
+
+        <div class="page-header">
+            <h3>Organizers</h3>
+        </div>
+
+        <div class="row row-eq-height">
+            {{# Model.conference.organizers }}
+                <div class="col-md-6">
+                    <div class="col-md-6">
+                        <img class="img-responsive img-rounded thumbnail" src="{{ photoUrl }}" alt="{{ name }}" />
+                        <ul class="list-inline">
+                            {{# links.www }}
+                                <li><a target="_blank" href="{{ . }}"><i class="fas fa-globe-americas fa-3x"></i></a></li>
+                            {{/ links.www }}
+
+                            {{# links.mvp }}
+                                <li><a target="_blank" href="{{ . }}"><i class="fab fa-microsoft fa-3x"></i></a></li>
+                            {{/ links.mvp }}
+
+                            {{# links.facebook }}
+                                <li><a target="_blank" href="{{ . }}"><i class="fab fa-facebook fa-3x"></i></a></li>
+                            {{/ links.facebook }}
+
+                            {{# links.twitter }}
+                                <li><a target="_blank" href="{{ . }}"><i class="fab fa-twitter fa-3x"></i></a></li>
+                            {{/ links.twitter }}
+
+                            {{# links.linkedin }}
+                                <li><a target="_blank" href="{{ . }}"><i class="fab fa-linkedin fa-3x"></i></a></li>
+                            {{/ links.linkedin }}
+
+                            {{# links.mycert }}
+                                <li><a target="_blank" href="{{ . }}"><i class="fas fa-award fa-3x"></i></a></li>
+                            {{/ links.mycert }}
+                        </ul>
+                    </div>
+                    <div class="col-md-6">
+                        <h5>{{ name }}</h5>
+                        <p>{{ bio }}</p>
+                    </div>
+                </div>
+            {{/ Model.conference.organizers }}
+        </div>
+
+        <div class="page-header">
+            <h3>Sessions</h3>
+        </div>
+
+        <div class="row row-eq-height">
+            {{# Model.conference.sessions }}
+                <div class="col-md-12">
+                    <div class="col-md-6">
+                        <div class="panel panel-default">
+                            <div class="panel-heading">
+                                <h5>{{ title }}</h5>
+                            </div>
+                            <div class="panel-body">
+                                {{ description }}
+                            </div>
+                        </div>
+                    </div>
+
+                    <div class="col-md-6">
+                        <div class="col-md-6">
+                            <img class="img-responsive img-rounded thumbnail" src="{{ speaker.photoUrl }}" alt="{{ speaker.name }}" />
+                            <ul class="list-inline">
+                                {{# speaker.links.www }}
+                                    <li><a target="_blank" href="{{ . }}"><i class="fas fa-globe-americas fa-3x"></i></a></li>
+                                {{/ speaker.links.www }}
+
+                                {{# speaker.links.mvp }}
+                                    <li><a target="_blank" href="{{ . }}"><i class="fab fa-microsoft fa-3x"></i></a></li>
+                                {{/ speaker.links.mvp }}
+
+                                {{# speaker.links.facebook }}
+                                    <li><a target="_blank" href="{{ . }}"><i class="fab fa-facebook fa-3x"></i></a></li>
+                                {{/ speaker.links.facebook }}
+
+                                {{# speaker.links.twitter }}
+                                    <li><a target="_blank" href="{{ . }}"><i class="fab fa-twitter fa-3x"></i></a></li>
+                                {{/ speaker.links.twitter }}
+
+                                {{# speaker.links.linkedin }}
+                                    <li><a target="_blank" href="{{ . }}"><i class="fab fa-linkedin fa-3x"></i></a></li>
+                                {{/ speaker.links.linkedin }}
+
+                                {{# speaker.links.mycert }}
+                                    <li><a target="_blank" href="{{ . }}"><i class="fas fa-award fa-3x"></i></a></li>
+                                {{/ speaker.links.mycert }}
+                            </ul>
+                        </div>
+                        <div class="col-md-6">
+                            <h5>{{ speaker.name }}</h5>
+                            <p>{{ speaker.bio }}</p>
+                        </div>
+                    </div>
+                </div>
+            {{/ Model.conference.sessions }}
+        </div>
+
+        <div class="page-header">
+            <h3>Partners</h3>
+        </div>
+
+        {{# Model.conference.partners }}
+            <div class="row list-group">
+                <div class="col-md-3 col-lg-3">
+                    <img class="img-responsive img-rounded thumbnail" src="{{ logoUrl }}" alt="{{ name }}" />
+
+                    <ul class="list-inline">
+                        {{# links.www }}
+                            <li><a target="_blank" href="{{ . }}"><i class="fas fa-globe-americas fa-3x"></i></a></li>
+                        {{/ links.www }}
+
+                        {{# links.facebook }}
+                            <li><a target="_blank" href="{{ . }}"><i class="fab fa-facebook fa-3x"></i></a></li>
+                        {{/ links.facebook }}
+
+                        {{# links.twitter }}
+                            <li><a target="_blank" href="{{ . }}"><i class="fab fa-twitter fa-3x"></i></a></li>
+                        {{/ links.twitter }}
+
+                        {{# links.linkedin }}
+                            <li><a target="_blank" href="{{ . }}"><i class="fab fa-linkedin fa-3x"></i></a></li>
+                        {{/ links.linkedin }}
+                    </ul>
+                </div>
+                <div class="col-md-9 col-lg-9">
+                    <h5>{{ name }}</h5>
+                    <p>{{ description }}</p>
+                </div>
+            </div>
+        {{/ Model.conference.partners }}
+
+    </div>
+
+    {{> footer.hjs }}
+    
+</body>
+</html>
