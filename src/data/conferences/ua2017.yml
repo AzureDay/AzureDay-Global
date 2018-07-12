@@ -29,11 +29,11 @@ sessions:
         - https://mvp.microsoft.com/en-us/PublicProfile/5000824
         - http://www.mycertprofile.com/Profile/8861740279
   -
-    title: Microsoft and AI: how Azure services will help your apps to become smart.
+    title: "Microsoft and AI: how Azure services will help your apps to become smart."
     description: In this topic, we will speak about Microsoft Cognitive Services, LUIS and Azure Machine Learning tool allowing to add artificial intelligence component to your software.
     speaker:
       name: Oleksandr Krakovetskyi
-      bio: "I am CEO of DevRain Solutions, IT company from Ukraine. We specialize in web, cloud and mobile solutions (.NET, Xamarin, iOS, Android). In 2013 my company got "Lead partner in creating mobile solutions on Windows Phone 8 platform" award from Microsoft Ukraine. I am a Microsoft Regional Director during last 8 years and Microsoft Most Valuable Professional during last 6 years. Also I was nominated as Telerik Developer Expert for several years and got "The Best Professional in Software Architecture" Ukrainian IT award."
+      bio: "I am CEO of DevRain Solutions, IT company from Ukraine. We specialize in web, cloud and mobile solutions (.NET, Xamarin, iOS, Android). In 2013 my company got 'Lead partner in creating mobile solutions on Windows Phone 8 platform' award from Microsoft Ukraine. I am a Microsoft Regional Director during last 8 years and Microsoft Most Valuable Professional during last 6 years. Also I was nominated as Telerik Developer Expert for several years and got 'The Best Professional in Software Architecture' Ukrainian IT award."
       photoUrl: /assets/avatar/OKrakovetskyi.jpg
       links:
         - https://www.facebook.com/alex.krakovetskiy
@@ -41,7 +41,7 @@ sessions:
         - https://www.linkedin.com/in/krakovetskiy/
   -
     title: Getting started with IoT solutions in Azure
-    description: During this session we will look at: Microcontrollers, modules and sensors, IoT Hub to gather data and identify devices, Stream Analytics & Storage, WebApp to visualize telemetry data
+    description: "During this session we will look at: Microcontrollers, modules and sensors, IoT Hub to gather data and identify devices, Stream Analytics & Storage, WebApp to visualize telemetry data."
     speaker:
       name: Sergey Poplavskiy 
       bio: "Сергей отвечает за развитие платформы Microsoft Azure и средств разработки в Украине. За время своей работы успел провести более 40 глубоких технических тренингов, участвовал в разработке нескольких проектов на платформе Microsoft Azure, имеет практический опыт реализации и внедрения решений на ее базе. Много лет программирует на платформе .Net используя Visual Studio, реализовал несколько собственных приложений под платформы Windows Phone, Windows и Azure. Один из основателей Лаборатории интернет вещей в «Майкрософт Украина"
@@ -57,14 +57,14 @@ sessions:
       photoUrl: /assets/avatar/AMang.jpg
       links:
   -
-    title: Containers in Azure: from infrastructure to deployment
+    title: "Containers in Azure: from infrastructure to deployment"
     description: In this topic we will learn how to start building and deploying containerized applications in Azure using existing Continuous Integration and Continuous Delivery tools like Visual Studio Team Services and Octopus Deploy. Target audience is developers, system engineers and solution/system architects who has some experience in Docker and interested in how Azure helps to accelerate adoption of containers and microservice architecture.
     speaker:
       name: Sergii Kryshtop  
       bio: ""
       photoUrl: /assets/avatar/SKryshtop.jpg
       links:
-   -
+  -
     title: Безпека даних в Azure
     description: "Під час даної доповіді ми поговоримо про технології Microsoft Azure, що дозволяють забепечити безпеку даних та їх відновлення у разі пошкодження. Лекція носить оглядовий характер, тому буде цікава широкому колу слухачів, починаючи від розробників та адміністраторів, та закінчуючи керівниками та власниками бізнесу."
     speaker:
@@ -72,7 +72,7 @@ sessions:
       bio: ""
       photoUrl: /assets/avatar/ENiedaszkowski.jpg
       links:
-    -
+  -
     title: IoTSuite - Cloud platform for IoT Solutions
     description: "We will talk about Azure IoT Suite as a platform for fast prototyping of IoT solutions. We'll talk about what it is, what is inside of it, how we can use it and how to start working with it. Answers for these and many other questions will help you to build and deploy IoT system prototypes that can be used for presentation to customers."
     speaker:
@@ -84,7 +84,7 @@ sessions:
         - https://www.facebook.com/AOSurkov
         - https://twitter.com/AOSurkov
         - https://mvp.microsoft.com/ru-ru/PublicProfile/5002197
-    -
+  -
     title: Azure Analysis Services - your cube is in the cloud
     description: "What is Azure SSAS? Analysis Services is an analytical data engine used in decision support and business analytics, providing the analytical data for business reports and client applications such as Power BI, Excel, Reporting Services reports, and other data visualisation tools."
     speaker:
@@ -93,7 +93,7 @@ sessions:
       photoUrl: /assets/avatar/EPolonychko.jpg
       links:
         - https://www.facebook.com/mydjeki
-    -
+  -
     title: Site Reliability Engineering in Azure (part 1)
     description: "Let's discuss Site Reliability Engineering principles and practices applied to Software as Service application hosted in Azure. Such topics will be covered: Infrastructure as a Code, Release Engineering, Monitoring, Chaos Engineering, Disaster Recovery Plan Also, we'll discuss real production incidents and analyze real postmortems which will be useful for anyone who wants to leverage Azure in Prod."
     speaker:
@@ -101,7 +101,7 @@ sessions:
       bio: 
       photoUrl: /assets/avatar/OChorny.jpg
       links:
-    -
+  -
     title: Управление устройствами и мобильными приложениями при помощи Azure Intune
     description: "Intune — это облачная служба управления корпоративной мобильностью. С помощью Intune вы можете управлять мобильными устройствами, рабочими станциями Windows и мобильными приложениями, которые сотрудники используют для доступа к данным организации. На данной сессии вы узнаете о возможностях Azure Intune и увидите ряд живых демонстраций."
     speaker:
@@ -111,8 +111,8 @@ sessions:
       links:
         - http://liashov.com/
         - https://www.linkedin.com/in/ievgen-liashov-05412145/
-    -
-    title: Applied Microsoft Azure: Cloud Cost Optimization Techniques and Hacks For Enterprise Apps
+  -
+    title: "Applied Microsoft Azure: Cloud Cost Optimization Techniques and Hacks For Enterprise Apps"
     description: "The promise of “the cloud” is that you can get as much as you want, when you want it, and only pay for what you use. But is that the reality? The reality is an inconsiderate usage that leads to exorbitant costs is more common than you think. That is why in this session you will see techniques and even some hacks that bring the promise of the cloud to reality. This presentation is a practical look at real world Azure stories that will answer many of the questions people have about moving to the cloud and getting the best configuration for optimal performance at the lowest possible cost."
     speaker:
       name: Igor Fesenko 
@@ -123,8 +123,8 @@ sessions:
         - https://www.linkedin.com/in/ifesen
         - https://twitter.com/Ky7m
         - https://github.com/Ky7m
-   -
-    title: Industry 4.0 IoT standard: why Azure Cloud fits with OPC UA, IoT Edge technologies and Data Science?
+  -
+    title: "Industry 4.0 IoT standard: why Azure Cloud fits with OPC UA, IoT Edge technologies and Data Science?"
     description: "There is only one standard that exists worldwide for Industrial IoT: OPC UA. Germany is well ahead. We will illustrate through architecture examples and Industry 4.0 usecases why this is important, and how to work with existing communication protocols."
     speaker:
       name: Vincent Thavonekham 
@@ -182,7 +182,7 @@ sessions:
         - https://www.facebook.com/estelle.inomniaparatus
         - https://www.linkedin.com/in/inomniaparatus/
         - https://twitter.com/FollowEstelle
-   -
+  -
     title: Azure Site Recovery - Demo Session with Nested Virtualisation
     description: "Azure Site Recovery allows you to extend your Datacenter to the Cloud. You can start your servers in Microsoft Azure in case something go wrong with your On Prem servers. Replication help you that you don’t lose so much data. During this full of demos session I will show how Azure Site Recovery works. Fans of new features in Microsoft Azure will be able to see how we simulate On Prem Server room in Microsoft Azure using Nested Virtualization."
     speaker: 
@@ -207,7 +207,7 @@ sessions:
       photoUrl: /assets/avatar/VTolmachov.jpg
       links:
   -
-   title: Microsoft PowerApps and Flow better together
+    title: Microsoft PowerApps and Flow better together
     description: "During my session I will show you how easily you can create powerful business flow using SharePoint Online list, PowerApps, Flow and Azure AD. All integration without any line of code."
     speaker: 
       name: Emil Wasilewski 
@@ -217,7 +217,7 @@ sessions:
         - http://www.linkedin.com/in/emilwasilewski
         - https://twitter.com/WasilewskiEmil
   -
-   title: Blockchain as a Service on Azure
+    title: Blockchain as a Service on Azure
     description: "Talk about different blockchain systems which are available on Azure Marketplace. Deep dive into decentralized application architecture. Sharing the experience about real project."
     speaker: 
       name: Ihor Leontiev
@@ -230,7 +230,7 @@ sessions:
     description: "All the big companies are making huge investments in AI personal assistants. Amazon has Alexa, Google has Google assistant, Apple has Siri and Microsoft has Cortana to name a few. For most people talking to their devices still feels a bit strange. According to Comscore, 50% of all searches will be made by voice by the year 2020. Today 40% of adults use voice once per day. Designing a natural language interface can be difficult, is the interface supposed to be able to interpret every single nuance of speech and how about slang? Or should we aim more towards forced language and make our users learn how to interact with simple commands?"
     speaker: 
       name: Jessica Engström 
-      bio: "Being a geek shows in all parts of her life, whether it be organizing hackathons, running a user group and a podcast with her husband, game nights (retro or VR/MR) with friends, just catching the latest superhero movie or speaking internationally at conferences. Her favorite topics is UX/UI and Mixed reality and other futuristic tech. She's a Windows Development MVP. Together with her husband she runs a company called "AZM dev" which is focused on HoloLens and Windows development. Occasionally blogs at www.catoholic.se which kind of shows her love for cats... and pink.. mostly pink."
+      bio: "Being a geek shows in all parts of her life, whether it be organizing hackathons, running a user group and a podcast with her husband, game nights (retro or VR/MR) with friends, just catching the latest superhero movie or speaking internationally at conferences. Her favorite topics is UX/UI and Mixed reality and other futuristic tech. She's a Windows Development MVP. Together with her husband she runs a company called 'AZM dev' which is focused on HoloLens and Windows development. Occasionally blogs at www.catoholic.se which kind of shows her love for cats... and pink.. mostly pink."
       photoUrl: /assets/avatar/JEngstrom.jpg
       links:
   - 
@@ -252,7 +252,7 @@ sessions:
       photoUrl: /assets/avatar/AShamray.jpg
       links:
   -
-    title: GDPR: Be prepared with a major IT change similar to Y2K bug. How Azure can help?
+    title: "GDPR: Be prepared with a major IT change similar to Y2K bug. How Azure can help?"
     description: "The European Union has enforced a regulation that will protect the personal data privacy. It has got a MAJOR impact on companies in Europe with a HEAVY fine (>10 million €). This session will present the work done by Microsoft in this area, and how the Microsoft Cloud WILL help"
     speaker:
       name: Vincent Thavonekham 
@@ -278,7 +278,7 @@ sessions:
     description: "HoloLens breached a barrier, a barrier between the digital and the real world, bringing digital content into our world. Over the past year the HoloLens has continued to create new ways to visualize, to change education and the medical industry. HoloLens is not only for games it is a Business platform (that is game enabled). Using Unity we can create an experience that lets you bring digital content and interact with the real world. During this session we will take a look at the HoloLens hardware, the possibilities, the limitations and tooling. We will take a look at the basics of Unity and also create a HoloLens app from scratch complete with Gaze, Air Tap, Spatial mapping and Voice using HoloToolkit."
     speaker: 
       name: Jimmy Engström 
-      bio: "Ever since Jimmy got his first ZX Spectrum at the age of 7 he hasn't stopped programming. During the day he is a .NET developer and he does all the fun stuff during his spare time. Together with his wife he also runs a company "AZM dev" which is focused on HoloLens and Windows development. He is really passionate about Windows development, HoloLens or well you could say the .NET platform really. He and his wife also runs a code intensive user group (Coding After Work) that focuses on helping participants with code and design problems, and a podcast with the same name. Back in 2011 he received the "geek of the year" award, a title well deserved. He is certainly living up to the title with everything from developing and gadgets to superheroes and cosplaying at the sci-fi faire. He speaks at various types of events including NDC, Devsum, hackathons, Swetugg and TechDays which led to him becoming a Microsoft MVP in Windows Development. He occasionally blogs at www.apeoholic.se Podcast - www.codingafterwork.se"
+      bio: "Ever since Jimmy got his first ZX Spectrum at the age of 7 he hasn't stopped programming. During the day he is a .NET developer and he does all the fun stuff during his spare time. Together with his wife he also runs a company 'AZM dev' which is focused on HoloLens and Windows development. He is really passionate about Windows development, HoloLens or well you could say the .NET platform really. He and his wife also runs a code intensive user group (Coding After Work) that focuses on helping participants with code and design problems, and a podcast with the same name. Back in 2011 he received the 'geek of the year' award, a title well deserved. He is certainly living up to the title with everything from developing and gadgets to superheroes and cosplaying at the sci-fi faire. He speaks at various types of events including NDC, Devsum, hackathons, Swetugg and TechDays which led to him becoming a Microsoft MVP in Windows Development. He occasionally blogs at www.apeoholic.se Podcast - www.codingafterwork.se"
       photoUrl: /assets/avatar/JmEngstrom.jpg
       links:
   -

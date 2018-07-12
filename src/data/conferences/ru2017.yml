@@ -42,7 +42,7 @@ sessions:
       links:
        - https://mvp.microsoft.com/ru-ru/PublicProfile/5001765
   -
-    title: The Internet of Things and regulation: the General Data Protection Regulation(GDPR) and ePrivacy Regulation context
+    title: "The Internet of Things and regulation: the General Data Protection Regulation(GDPR) and ePrivacy Regulation context"
     description: 
     speaker:
       name: Mihail Mateev
@@ -80,7 +80,7 @@ sessions:
 partners:
   -
     name: Digital October
-    description: Digital October Center is a place for globally-minded technology entrepreneurship community. The Center is built around two core themes: new technologies and technology entrepreneurship. Key international professional conferences and presentations of new technology products take place in the Center.
+    description: "Digital October Center is a place for globally-minded technology entrepreneurship community. The Center is built around two core themes: new technologies and technology entrepreneurship. Key international professional conferences and presentations of new technology products take place in the Center."
     logoUrl: /assets/logo/DO-logo
     links:
       - http://digitaloctober.ru/

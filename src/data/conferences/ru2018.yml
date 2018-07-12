@@ -98,7 +98,7 @@ sessions:
       photoUrl: /assets/avatar/Agafonov.png
       links:
   -
-    title: Blockchain: Разработка облачного Backend для ICO на Azure.
+    title: "Blockchain: Разработка облачного Backend для ICO на Azure."
     description: 
     speaker:
       name: Alexandr Surkov
@@ -148,7 +148,7 @@ sessions:
 partners:
   -
     name: Digital October
-    description: Digital October Center is a place for globally-minded technology entrepreneurship community. The Center is built around two core themes: new technologies and technology entrepreneurship. Key international professional conferences and presentations of new technology products take place in the Center.
+    description: "Digital October Center is a place for globally-minded technology entrepreneurship community. The Center is built around two core themes: new technologies and technology entrepreneurship. Key international professional conferences and presentations of new technology products take place in the Center."
     logoUrl: /assets/logo/DO-logo
     links:
       - http://digitaloctober.ru/
