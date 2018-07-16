@@ -332,7 +332,19 @@ h1 {
   }
   
   
-  
+  /* AZUREDAY MAIN */
+
+  .mainConferenceCountryBlock {
+    text-align: center;
+    font-weight: bold;
+  }
+
+  .mainConferenceTitleBlock {
+      font-size: 1.3em;
+      font-weight: bold;
+      color: rgb(0, 114, 198);
+      text-align: center;
+  }
   
   
   
