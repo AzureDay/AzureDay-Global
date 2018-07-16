@@ -9,17 +9,17 @@ organizers:
     bio: "Microsoft MVP, MCP, MCSE, IoT expert, Blockchain developer, Moscow IoT community organizer and co-leader. He has more than 10 years of experiance in microcontroller firmware, PC software and cloud development. Experianced speaker, article writer and conference organizer."
     photoUrl: /assets/avatar/AOSurkov.png
     links:
-      - https://www.facebook.com/AOSurkov
-      - https://twitter.com/AOSurkov
-      - https://www.linkedin.com/in/aosurkov/
-      - https://mvp.microsoft.com/ru-ru/PublicProfile/5002197
-      - http://www.mycertprofile.com/Profile/4818474492
+      facebook: https://www.facebook.com/AOSurkov
+      twitter: https://twitter.com/AOSurkov
+      linkedin: https://www.linkedin.com/in/aosurkov/
+      mvp: https://mvp.microsoft.com/ru-ru/PublicProfile/5002197
+      mycert: http://www.mycertprofile.com/Profile/4818474492
   -
     name: Alexander Ermakov
     bio: "Управляющий партнер компании Awara IT, Microsoft MVP по направлению Business Solutions. Cертифицированный тренер Майкрософт, специализируется на российском бухгалтерском учете, налогообложении и аудите, МСФО. Автор множества проектов внедрения ERP — Microsoft Dynamics 365, Microsoft Dynamics NAV, Microsoft Dynamics AX, 1C, SAP. Автор блога Russian ERP Experience. Ведет курс по системам Dynamics NAV в СПбГУ."
     photoUrl: /assets/avatar/AErmakov.jpg
     links:
-      - https://mvp.microsoft.com/ru-ru/PublicProfile/5002205
+      mvp: https://mvp.microsoft.com/ru-ru/PublicProfile/5002205
 sessions:
   -
     title: Технологии Microsoft для трансляций и конференций
@@ -29,7 +29,7 @@ sessions:
       bio: "Руководитель лаборатории UCLAB, тренер (Microsoft, Audiocodes, Kemp), кандидат технических наук. Microsoft MVP: Office Servers and Services – Наиболее значимый профессионал по UC Microsoft. Награда за личный вклад в развитие компании AudioCodes (MARVEL). Является одним из основателей и лидером профессионального сообщества UC User Community Russia."
       photoUrl: /assets/avatar/AZhuravlev.jpg
       links:
-        - https://mvp.microsoft.com/ru-ru/PublicProfile/5002265
+        mvp: https://mvp.microsoft.com/ru-ru/PublicProfile/5002265
   -
     title: От Инноваций к Цифровой Трансформации в Облаке
     description: 
@@ -70,7 +70,7 @@ sessions:
       bio: Занимается разработкой программного обеспечения в течение 20-ти лет. Он принимал участие в таких проектах как "PDP-11 emulator for Windows NT/DEC Alpha Platform", "AMSD Ariadna – First Russian Internet Browser", "C++ Compiler for DEC Alpha" и других. В настоящее время Владимир руководит московским офисом разработки компании Quest Software. Обладает статусом Microsoft Most Valuable Professional (MVP) со специализацией в области командной разработки ПО c 2010 года. Входит в состав ALM Rangers c 2012 года.
       photoUrl:  /assets/avatar/VGusarov.png
       links:
-        - https://mvp.microsoft.com/ru-ru/PublicProfile/4028927
+        mvp: https://mvp.microsoft.com/ru-ru/PublicProfile/4028927
   -
     title: Что нам стоит нейросеть в облаке построить?
     description:
@@ -79,7 +79,7 @@ sessions:
       bio: "Более 5 лет занят в разработке кровавых enterprise-решений для финансового сектора. Исполняет роли архитектора, hardcore-разработчика и неутомимого исследователя машинного интеллекта. Один из лидеров топика Big Data на Хабре, автор блога http://www.codeinstinct.pro/"
       photoUrl: /assets/avatar/DPetuhov.jpg
       links:
-        - https://mvp.microsoft.com/ru-ru/PublicProfile/5001834
+        mvp: https://mvp.microsoft.com/ru-ru/PublicProfile/5001834
   -
     title: HR-бот Кузя. Собираем офисного домового на m5stack и Azure
     description: В этом докладе я поделюсь опытом использования Azure Service Management Cmdlets для автоматизации деплоймента в облако. Будет рассмотрена структура скриптов, оптимизация, а также проблемы и их решения.
@@ -88,7 +88,7 @@ sessions:
       bio: "Предприниматель, основатель и технический директор HR-платформы Pryaniky.com. Более 15 лет Занимаюсь разработкой прикладных информационных систем на базе технологий Microsoft для государственных органов и коммерческих организаций. Технический руководитель первого в РФ центра инноваций Microsoft в МИФИ. В настоящее время руководитель разработки и сооснователь продукта Pryaniky.com. На протяжении 9 лет обладатель статуса Microsoft Most Valuable Professional (Microsoft MVP)."
       photoUrl: /assets/avatar/ALyubko.png
       links:
-        - https://mvp.microsoft.com/ru-ru/PublicProfile/4020727
+        mvp: https://mvp.microsoft.com/ru-ru/PublicProfile/4020727
   -
     title: Платформы разработки распределенных приложений в Azure
     description: 
@@ -105,11 +105,11 @@ sessions:
       bio: "Microsoft MVP, MCP, MCSE, IoT expert, Blockchain developer, Moscow IoT community organizer and co-leader. He has more than 10 years of experiance in microcontroller firmware, PC software and cloud development. Experianced speaker, article writer and conference organizer."
       photoUrl: /assets/avatar/AOSurkov.png
       links:
-        - https://www.facebook.com/AOSurkov
-        - https://twitter.com/AOSurkov
-        - https://www.linkedin.com/in/aosurkov/
-        - https://mvp.microsoft.com/ru-ru/PublicProfile/5002197
-        - http://www.mycertprofile.com/Profile/4818474492
+        facebook: https://www.facebook.com/AOSurkov
+        twitter: https://twitter.com/AOSurkov
+        linkedin: https://www.linkedin.com/in/aosurkov/
+        mvp: https://mvp.microsoft.com/ru-ru/PublicProfile/5002197
+        mycert: http://www.mycertprofile.com/Profile/4818474492
   -
     title: Оптимизация расходов на вычислительную архитектуру в Azure
     description: 
@@ -118,7 +118,7 @@ sessions:
       bio: "Andrew Koryavchenko Worked for Parus (ERP software), JetBrains (programming tools). Now works for ABBYY on several cloud projects (Xerox® Easy Translator Service, FineReader Online, FineScanner, Business Card Reader, TextGrabber etc.). Microsoft MVP (Solution Architect, Visual C#) since 2005. Owner and developer of largest russian speaking software developers community rsdn.org."
       photoUrl: /assets/avatar/Koryavchenko.jpg
       links:
-        - https://mvp.microsoft.com/ru-ru/PublicProfile/21194
+        mvp: https://mvp.microsoft.com/ru-ru/PublicProfile/21194
   -
     title: Технологии Резервного копирования в Azure
     description: 
@@ -127,7 +127,7 @@ sessions:
       bio: "MVP (Azure), MCSA, MCTS, MCP, MCT. Основная область экспертизы – Cloud Solutions, Private and Public Clouds, Virtualization, CI/CD, Process Automation, PowerShell. Его конек – это облачные инфраструктуры Azure. Вот уже 8 лет работает в компании EPAM Systems, где разрабатывает и внедряет решения для крупных корпоративных клиентов из финансового и информационного секторов экономики. Активно принимает участие в жизни IT сообщества как докладчик на конференциях, митапах, вебинарах, является ментором. Автор тренингов по PowerShell и Windows Server. Любит делиться знаниями и всегда рад получать новые. В свободное время разрабатывает для Azure платформы IoT и ML."
       photoUrl: /assets/avatar/DDurasov.png
       links:
-        - https://mvp.microsoft.com/ru-ru/PublicProfile/5002607
+        mvp: https://mvp.microsoft.com/ru-ru/PublicProfile/5002607
   -
     title: Преимущества размещения продуктов Microsoft Dynamics в облачной инфраструктуре Azure в сравнении с локальным размещением
     description: 
@@ -136,7 +136,7 @@ sessions:
       bio: "Управляющий партнер компании Awara IT, Microsoft MVP по направлению Business Solutions. Cертифицированный тренер Майкрософт, специализируется на российском бухгалтерском учете, налогообложении и аудите, МСФО. Автор множества проектов внедрения ERP — Microsoft Dynamics 365, Microsoft Dynamics NAV, Microsoft Dynamics AX, 1C, SAP. Автор блога Russian ERP Experience. Ведет курс по системам Dynamics NAV в СПбГУ."
       photoUrl: /assets/avatar/AErmakov.jpg
       links:
-        - https://mvp.microsoft.com/ru-ru/PublicProfile/5002205
+        mvp: https://mvp.microsoft.com/ru-ru/PublicProfile/5002205
   -
     title: Power BI для разработчиков бизнес-приложений 
     description: 
@@ -151,28 +151,28 @@ partners:
     description: "Digital October Center is a place for globally-minded technology entrepreneurship community. The Center is built around two core themes: new technologies and technology entrepreneurship. Key international professional conferences and presentations of new technology products take place in the Center."
     logoUrl: /assets/logo/DO-logo
     links:
-      - http://digitaloctober.ru/
+      www: http://digitaloctober.ru/
   -
     name: IoT Community
     description: One of biggest IoT community in Russia with more than 1500 participants.
     logoUrl: /assets/logo/IoTCommunity.png
     links:
-      - http://iotcommunity.ru/
+      www: http://iotcommunity.ru/
   -
     name: "ITpro News & Reviews"
     description: "Неофициальные заметки от @masyan о Microsoft, Windows Server, System Center, Azure, Office 365, OMS etc."
     logoUrl: /assets/logo/telegramMS.png
     links:
-      - https://t.me/MicrosoftRus
+      www: https://t.me/MicrosoftRus
   -
     name: IT Events Digest
     description: 
     logoUrl: /assets/logo/ITEvents.png
     links:
-      - https://it-events.com
+      www: https://it-events.com
   -
     name: ValueHost
     description: "Профессиональный хостинг сайтов"
     logoUrl: /assets/logo/valuehost.png
     links:
-      - http://www.valuehost.ru/
+      www: http://www.valuehost.ru/
