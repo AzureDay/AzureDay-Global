@@ -16,7 +16,74 @@
     {{> header.hjs }}
 
     {{> banner.hjs }}
-    
+
+    <div class="container-fluid">
+        <div class="row">
+            <div class="col-lg-12 col-md-12 col-sm-12 col-xs-12">
+                <h1>
+                <span class="glyphicon glyphicon-globe" aria-hidden="true"></span> Welcome to AzureDay.Global!
+                </h1>
+                <p>
+                    AzureDAY is a global community effort aimed at spreading knowledge about Microsoft Azure worldwide. AzureDAY is a non-profit conference organized by local Azure communities and enthusiasts for other members of the community. The purpose of AzureDAY is purely educational.
+                </p>
+                <h2>
+                    <span class="glyphicon glyphicon-piggy-bank" aria-hidden="true"></span> Want to help? Join AzureDAY as a partner!
+                </h2>
+                <p>
+                    We're looking for partners - companies or individuals - that would like to help us organize AzureDAYs in different countries and would share some of the burdens of hosting a non-profit conference. Even spreading the word about AzureDAY helps. 
+                </p>
+                <p>
+                    To become a partner of AzureDAY in any country, please contact local organizers for that country or global organizers <span class="glyphicon glyphicon-envelope" aria-hidden="true"></span>&nbsp;<a href="mailto:invite@boykoant.pro">here</a>.
+                </p>
+                <h2>
+                    <span class="glyphicon glyphicon-bullhorn" aria-hidden="true"></span> Want to be a speaker?
+                </h2>
+                <p>
+                    We're always looking for new talented speakers ready to share their experience with AzureDAY attendees. To become a speaker at AzureDAY, please contact local organizers in desired country. We welcome interntaional speakers, therefore you can become a speaker in any country you want, not only your home country.
+                </p>
+                <h2>
+                    <span class="glyphicon glyphicon-user" aria-hidden="true"></span> Want to help out as a volunteer?
+                </h2>
+                <p>
+                    We would be happy to find volunteers that would help us with miscellanous duties ragarding AzureDAY. Please contact local organizers for that country to find out how you can help.
+                </p>
+            </div>
+        </div>
+    </div>
+
+    	<!-- Divider -->
+	<div class="container-fluid marginBetweenContentBlocks">
+		<div class="row">
+			<div class="col-lg-12 col-md-12 col-sm-12 col-xs-12 dividerBlockA">
+				&nbsp;
+			</div>
+		</div>
+	</div>
+
+        <!-- Years and cities -->
+    <div class="container-fluid marginBetweenContentBlocks">
+        <div class="row">
+            <div class="col-lg-12 col-md-12 col-sm-12 col-xs-12">
+                <h2>
+                    2018
+                </h2>
+            </div>
+            <div class="col-lg-4 col-md-4 col-sm-6 col-xs-12">
+                <div>
+                    <img src="{{ Data.countries.ukraine.coverImgSrcA }}" alt="{{ Data.countries.ukraine.name }} {{ Data.conferences.ua2018.name }}" class="img-responsive" />
+                </div>
+                <div>
+                    {{ Data.countries.ukraine.name }} 
+                </div>
+                <div>
+                    {{ Data.conferences.ua2018.date }} - {{ Data.conferences.ua2018.name }}
+                </div>
+            </div>
+        </div>
+    </div>
+
+
+
     <div class="container">
         {{ Page.Content }}
     </div>

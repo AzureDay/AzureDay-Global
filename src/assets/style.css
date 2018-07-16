@@ -227,7 +227,7 @@ h1 {
   /* DIVIDER */
   
   .dividerBlockA {
-      background-image: url(../assets/img/divider02.png);
+      background-image: url(../assets/img/dividerA.jpg);
       background-position: center center;
       background-repeat: no-repeat;
       background-size: cover;
@@ -236,7 +236,7 @@ h1 {
   }
   
   .dividerBlockB {
-      background-image: url(../assets/img/divider03.png);
+      background-image: url(../assets/img/dividerB.png);
       background-position: center center;
       background-repeat: no-repeat;
       background-size: cover;
