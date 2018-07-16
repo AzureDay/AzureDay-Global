@@ -83,7 +83,7 @@ h1 {
       
       border-right: 70px rgb(0, 114, 198) solid;
       
-      min-height: 350px;
+      min-height: 300px;
       
       margin: 0;
   }
@@ -107,7 +107,7 @@ h1 {
       padding: 10px 15px 30px 10px;	
       text-align: justify;
       
-      min-height: 350px;
+      min-height: 300px;
   }
   
   .mainBoardCog {
@@ -128,7 +128,7 @@ h1 {
       text-align: left;
       padding: 0px;
       
-      min-height: 350px;
+      min-height: 300px;
   }
   
   .mainBoardDarkGradientText {
