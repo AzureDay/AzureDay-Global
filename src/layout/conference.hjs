@@ -53,9 +53,17 @@
                                 <li><a target="_blank" href="{{ . }}"><i class="fab fa-linkedin fa-3x"></i></a></li>
                             {{/ links.linkedin }}
 
+                            {{# links.github }}
+                                <li><a target="_blank" href="{{ . }}"><i class="fab fa-github-square fa-3x"></i></a></li>
+                            {{/ links.github }}
+
                             {{# links.mycert }}
                                 <li><a target="_blank" href="{{ . }}"><i class="fas fa-award fa-3x"></i></a></li>
                             {{/ links.mycert }}
+
+                            {{# links.meetup }}
+                                <li><a target="_blank" href="{{ . }}"><i class="fab fa-meetup fa-3x"></i></a></li>
+                            {{/ links.meetup }}
                         </ul>
                     </div>
                     <div class="col-md-6">
@@ -108,9 +116,17 @@
                                     <li><a target="_blank" href="{{ . }}"><i class="fab fa-linkedin fa-3x"></i></a></li>
                                 {{/ speaker.links.linkedin }}
 
+                                {{# speaker.links.github }}
+                                    <li><a target="_blank" href="{{ . }}"><i class="fab fa-github-square fa-3x"></i></a></li>
+                                {{/ speaker.links.github }}
+
                                 {{# speaker.links.mycert }}
                                     <li><a target="_blank" href="{{ . }}"><i class="fas fa-award fa-3x"></i></a></li>
                                 {{/ speaker.links.mycert }}
+
+                                {{# speaker.links.meetup }}
+                                    <li><a target="_blank" href="{{ . }}"><i class="fab fa-meetup fa-3x"></i></a></li>
+                                {{/ speaker.links.meetup }}
                             </ul>
                         </div>
                         <div class="col-md-6">
