@@ -70,7 +70,7 @@
             </div>
             <!-- item starts -->
             <div class="col-lg-4 col-md-4 col-sm-6 col-xs-12">
-                <a href="/conferences/2018/ua.html)">
+                <a href="/conferences/2018/ua.html">
                     <div>
                         <img src="{{ Data.countries.ukraine.coverImgSrcA }}" alt="{{ Data.countries.ukraine.name }} {{ Data.conferences.ua2018.name }}" class="img-responsive" />
                     </div>
@@ -85,7 +85,7 @@
             <!-- item ends -->
             <!-- item starts -->
             <div class="col-lg-4 col-md-4 col-sm-6 col-xs-12">
-                <a href="/conferences/2018/ru.html)">
+                <a href="/conferences/2018/ru.html">
                     <div>
                         <img src="{{ Data.countries.russia.coverImgSrcA }}" alt="{{ Data.countries.russia.name }} {{ Data.conferences.ru2018.name }}" class="img-responsive" />
                     </div>
