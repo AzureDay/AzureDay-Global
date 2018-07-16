@@ -8,10 +8,14 @@
     <link rel="stylesheet" href="/assets/vendor/bootstrap-3.3.7/css/bootstrap-theme.min.css" />
 
     <link rel="stylesheet" href="/assets/vendor/fontawesome-5.1.0/css/all.css" />
+    <!-- custom css -->
+    <link rel="stylesheet" href="/assets/style.css" />
 </head>
 <body>
     
     {{> header.hjs }}
+
+    {{> banner.hjs }}
     
     <div class="container">
         {{ Page.Content }}

@@ -1,0 +1,36 @@
+    <!-- Main Board Container -->
+<div class="container-fluid mainBoardContainer">
+    <div class="row mainBoardCog">
+        <div class="col-lg-5 col-md-5 col-sm-5 col-xs-12" style="padding-left: 0;">
+            <img class="img-responsive" alt="{{ Data.general.info.name }}" src="/assets/img/main_pic01.jpg" />
+        </div>
+        
+        <div class="col-lg-4 col-md-4 col-sm-7 col-xs-12 mainBoardLightGradientContainer"> 
+            <div class="mainBoardHeaderText">
+                {{ Data.general.info.name }}
+            </div>
+            <div class="mainBoardDescriptionBlock">
+                <p>
+                    {{ Data.general.info.banner_p1 }}
+                </p>
+                <p>
+                    {{ Data.general.info.banner_p2 }}
+                </p>
+                <p>
+                    {{ Data.general.info.banner_p3 }}
+                </p>
+            </div>
+        </div>
+        
+        <div class="col-lg-3 col-md-3 col-sm-12 col-xs-12 mainBoardDarkGradientContainer">
+            <div class="mainBoardDarkGradientText">
+                {{# Data.general.info.highlights }}
+                    <p>{{ . }}</p>
+                {{/ Data.general.info.highlights }}
+            </div>	
+        </div>
+        
+    </div>
+    
+    <!-- container ends -->
+</div>
