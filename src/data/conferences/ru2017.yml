@@ -9,11 +9,11 @@ organizers:
     bio: "Microsoft MVP, MCP, MCSE, IoT expert, Blockchain developer, Moscow IoT community organizer and co-leader. He has more than 10 years of experiance in microcontroller firmware, PC software and cloud development. Experianced speaker, article writer and conference organizer."
     photoUrl: /assets/avatar/AOSurkov.png
     links:
-      - https://www.facebook.com/AOSurkov
-      - https://twitter.com/AOSurkov
-      - https://www.linkedin.com/in/aosurkov/
-      - https://mvp.microsoft.com/ru-ru/PublicProfile/5002197
-      - http://www.mycertprofile.com/Profile/4818474492
+      facebook: https://www.facebook.com/AOSurkov
+      twitter: https://twitter.com/AOSurkov
+      linkedin: https://www.linkedin.com/in/aosurkov/
+      mvp: https://mvp.microsoft.com/ru-ru/PublicProfile/5002197
+      mycert: http://www.mycertprofile.com/Profile/4818474492
 sessions:
   -
     title: IoT for Digitalization
@@ -31,7 +31,7 @@ sessions:
       bio: "Cloud Architect at Omada A/S. Founder and animator of Polish Microsoft Azure User Group. Entrepreneur – expert and consultant in the field of adaptation and implementation of Microsoft Azure platform. Open Source Software and interoperability evangelist. Social activist and co-founder of the Aegis Foundation. Privately eternal student, enthusiast and a geek. Organiser and participant in conferences and events related to the integration of the IT community."
       photoUrl: /assets/avatar/MichalSmereczynski.jpg
       links:
-        - https://mvp.microsoft.com/ru-ru/PublicProfile/5001618
+        mvp: https://mvp.microsoft.com/ru-ru/PublicProfile/5001618
   -
     title: Public Cloud adoption in Poland – why clients choosing Microsoft solutions
     description: 
@@ -40,7 +40,7 @@ sessions:
       bio: "Microsoft Azure MVP, Leader of Microsoft Azure User Group Poland, Speaker, Trainer, Consultant. "
       photoUrl: /assets/avatar/EmilWasilewski.jpg
       links:
-       - https://mvp.microsoft.com/ru-ru/PublicProfile/5001765
+       mvp: https://mvp.microsoft.com/ru-ru/PublicProfile/5001765
   -
     title: "The Internet of Things and regulation: the General Data Protection Regulation(GDPR) and ePrivacy Regulation context"
     description: 
@@ -49,7 +49,7 @@ sessions:
       bio: "Mihail Mateev is a Microsoft Regional Director currently living in Sofia, Bulgaria. His interests range from technology to entrepreneurship. He is also interested in programming, web development, and education. Mihail is a Technical Consultant, Community enthusiast, PASS Regional Mentor for Central Eastern Europe, chapter lead, Data Platform and Microsoft Azure MVP, Organizer of SQLSaturday, Azure Bootcamp, IoT and JavaScript conferences. His experience is in various areas related to Microsoft technologies, including Windows Platform, ASP.Net MVC, MS SQL Server and Microsoft Azure. Mihail has a PhD in cloud computing and am a university lecturer on Smart Homes and Smart Energy IoT Solutions."
       photoUrl: /assets/avatar/MMateev.jpg
       links:
-       - https://mvp.microsoft.com/ru-ru/PublicProfile/5000220
+       mvp: https://mvp.microsoft.com/ru-ru/PublicProfile/5000220
   -
     title: Построение корпоративных высоконагруженных инфраструктур в Azure
     description:
@@ -58,7 +58,7 @@ sessions:
       bio: "MVP (Azure), MCSA, MCTS, MCP, MCT. Основная область экспертизы – Cloud Solutions, Private and Public Clouds, Virtualization, CI/CD, Process Automation, PowerShell. Его конек – это облачные инфраструктуры Azure. Вот уже 8 лет работает в компании EPAM Systems, где разрабатывает и внедряет решения для крупных корпоративных клиентов из финансового и информационного секторов экономики. Активно принимает участие в жизни IT сообщества как докладчик на конференциях, митапах, вебинарах, является ментором. Автор тренингов по PowerShell и Windows Server. Любит делиться знаниями и всегда рад получать новые. В свободное время разрабатывает для Azure платформы IoT и ML."
       photoUrl: /assets/avatar/DDurasov.png
       links:
-       - https://mvp.microsoft.com/ru-ru/PublicProfile/5002607
+       mvp: https://mvp.microsoft.com/ru-ru/PublicProfile/5002607
   -
     title: Blockchain and Azure = Best friends. Experience feedback of real projects
     description:
@@ -67,7 +67,7 @@ sessions:
       bio: "Started career as a .Net Developer for a machine building company in Ukraine, in 2013 I became interested in cloud computing and the Microsoft Azure platform. In 2015 struck off in a new direction with the “Creation of Innovative Enterprises” at a French-Ukrainian master’s program in France. Is Lead Architect on all Blockchain projects of Viseo group. Active participant and a regular speaker in Ukrainian Microsoft Azure Community and Azure User Group France. Now living and working as Azure Architect in France. "
       photoUrl: /assets/avatar/ILeontyev.jpg
       links:
-        - https://mvp.microsoft.com/ru-ru/PublicProfile/5002195
+        mvp: https://mvp.microsoft.com/ru-ru/PublicProfile/5002195
   -
     title: Что такое DevOps – модное слово или панацея от всех проблем?
     description:
@@ -76,36 +76,36 @@ sessions:
       bio: Занимается разработкой программного обеспечения в течение 20-ти лет. Он принимал участие в таких проектах как "PDP-11 emulator for Windows NT/DEC Alpha Platform", "AMSD Ariadna – First Russian Internet Browser", "C++ Compiler for DEC Alpha" и других. В настоящее время Владимир руководит московским офисом разработки компании Quest Software. Обладает статусом Microsoft Most Valuable Professional (MVP) со специализацией в области командной разработки ПО c 2010 года. Входит в состав ALM Rangers c 2012 года.
       photoUrl:  /assets/avatar/VGusarov.png
       links:
-        - https://mvp.microsoft.com/ru-ru/PublicProfile/4028927
+        mvp: https://mvp.microsoft.com/ru-ru/PublicProfile/4028927
 partners:
   -
     name: Digital October
     description: "Digital October Center is a place for globally-minded technology entrepreneurship community. The Center is built around two core themes: new technologies and technology entrepreneurship. Key international professional conferences and presentations of new technology products take place in the Center."
     logoUrl: /assets/logo/DO-logo
     links:
-      - http://digitaloctober.ru/
+      www: http://digitaloctober.ru/
   -
     name: IoT Community
     description: One of biggest IoT community in Russia with more than 1500 participants.
     logoUrl: /assets/logo/IoTCommunity.png
     links:
-      - http://iotcommunity.ru/
+      www: http://iotcommunity.ru/
 
   -
     name: Heedbook
     description: Heedbook is the first online AI-based software for evaluating and boosting customer loyalty.
     logoUrl: /assets/logo/heedbook.png
     links:
-      - https://heedbook.com/
+      www: https://heedbook.com/
   -
     name: Quarta technologies
     description: One of the oldest embedded solutions distributor in Eastern Europe.
     logoUrl: /assets/logo/QUARTA.jpg
     links:
-      - http://www.quarta.ru/
+      www: http://www.quarta.ru/
   -
     name: AnvioVR
     description: Full Body Free-Roam VR games.
     logoUrl: /assets/logo/anvio.png
     links:
-      - https://en.anviovr.com/
+      www: https://en.anviovr.com/
