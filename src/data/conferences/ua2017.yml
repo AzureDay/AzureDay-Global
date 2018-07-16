@@ -318,6 +318,8 @@ partners:
     name: Microsoft
     description: Заснована в 1975 році корпорація Microsoft є визнаним світовим лідером у галузі розробки програмного забезпечення, а також у наданні послуг та рішень, які допомагають людям та компаніям повністю реалізувати свій потенціал. З 2003 року в Україні працює компанія «Майкрософт Україна», до завдань якої входить розвиток ринку програмного забезпечення, а також впровадження і локалізація новітніх технологій на території Україні.
     logoUrl: /assets/logo/microsoft.png
+    links:
+      www: https://www.microsoft.com/uk-ua/
   -
     name: EPAM
     description: "Since 1993, EPAM Systems, Inc. (NYSE: EPAM), has leveraged its core engineering expertise to become a leading global product development and digital platform engineering services company. Through its ‘Engineering DNA’ and innovative strategy, consulting, and design capabilities, EPAM works in collaboration with its customers to deliver innovative solutions that turn complex business challenges into real business opportunities. EPAM’s global teams serve customers in over 25 countries across North America, Europe, Asia and Australia. EPAM is a recognized market leader among independent research agencies and was ranked #8 in FORBES 25 Fastest Growing Public Tech Companies, as a top information technology services company on FORTUNE’S 100 Fastest Growing Companies, and as a top UK Digital Design & Build Agency."
@@ -326,4 +328,111 @@ partners:
       www: https://www.epam.com
       facebook: https://www.facebook.com/EPAM.Ukraine
       twitter: https://twitter.com/epam_ukraine
-  
+  -
+    name: Ciklum
+    description: "Ciklum — датская компания, основанная в 2002 году, работающая в сфере аутсорсинга разработки программного обеспечения. Ciklum — это международная компания с офисами продаж в Дании, Швеции, Великобритании, Германии, Швейцарии и Нидерландах, Израиле, Америке и центрами разработки в крупных городах Украины (Киев, Харьков, Днепропетровск, Львов, Одесса и Винница), в Беларуси (Минск) и Пакистане (Лахор, Исламабад). Компания входит в пятерку крупнейших ИТ компаний Украины."
+    logoUrl: /assets/logo/ciklum.jpg
+    links:
+      www: https://www.ciklum.com/
+  -
+    name: CloudMonix
+    description: "CloudMonix is a premier cloud systems monitoring and automation tool-set built for IT managers. With support for a variety of cloud-based platforms, a host of custom automation tools, and a modern intuitive interface, CloudMonix is a powerful solution for achieving cloud-system stability."
+    logoUrl: /assets/logo/CloudMonix.jpg
+    links:
+      www: http://www.cloudmonix.com/
+  -
+    name: JetBrains
+    description: "When it comes down to quality tools for all devs of all languages JetBrains has you covered."
+    logoUrl: /assets/logo/jetbrains.jpg
+    links:
+      www: https://www.jetbrains.com/
+  -
+    name: O'Reilly
+    description: "For almost 40 years, O'Reilly Media has provided technology and business training, knowledge, and insight to help companies succeed. Our unique network of experts and innovators share their knowledge and expertise through the company's Safari training and learning platform and at O'Reilly conferences. As a SaaS learning platform, Safari delivers highly topical and comprehensive technology and business learning solutions to millions of users across enterprise, consumer, and university channels."
+    logoUrl: /assets/logo/ORM.jpg
+    links:
+      www: https://www.oreilly.com/
+  -
+    name: DataArt
+    description: "DataArt is a global technology consultancy that designs, develops and supports unique software solutions, helping clients take their businesses forward. Recognized for their deep domain expertise and superior technical talent, DataArt teams create new products and modernize complex legacy systems that affect technology transformation in select industries.<br/>DataArt has earned the trust of some of the world’s leading brands and most discerning clients, including Nasdaq, S&P, United Technologies, oneworld Alliance, Ocado, artnet, Betfair, and skyscanner. Organized as a global network of technology services firms, DataArt brings together expertise of over 2,200 professionals in 20 locations in the US, Europe, and Latin America."
+    logoUrl: /assets/logo/DA-logo-color-rgb.jpg
+    links:
+      www: http://dataart.ua/
+  -
+    name: Daxx
+    description: "Daxx – это голландская IT компания, которая с 1999 года предоставляет удаленных программистов для клиентов из Европы и США, а так же способствует трудоустройству украинских IT-специалистов в Нидерландах и других европейских странах. В 2015 году компания вошла в пятерку лучших работодателей Украины в категории (200-800 сотрудников) по версии DOU."
+    logoUrl: /assets/logo/daxx.jpg
+    links:
+      www: http://www.daxx.com/
+  -
+    name: DB Best
+    description: "Компания DB Best известна во всем мире благодаря комплексным службам управления данными, разработке и миграции баз данных и созданию высокоэффективных веб-и мобильных систем. Сотни клиентов со всего мира полагаются на наших разработчиков и архитекторов для экономичных стратегий миграции и модернизации своих локальных и облачных активов каждый день.<br/>Будучи Золотым Партнером Microsoft в течение шести последних лет с компетенциями в области Application Development, Data Analytics, Data Platform и Cloud Platform, а также в партнерстве с Amazon Web Services и Google Cloud Platform, у нас есть опыт, чтобы сделать наших клиентов успешными.<br/>Наш опыт охватывает все основные базы данных. В отличие от небольших, узконаправленных конкурентов, наши разработчики оперируют всеми основными платформами разработки, включая iOS, Android, Windows Mobile, PHP, ASP.NET и Java."
+    logoUrl: /assets/logo/dbbest.png
+    links:
+      www: https://www.dbbest.com/
+  -
+    name: Devart
+    description: "Компания Devart была основана в 1997 году и на сегодняшний день является одним из ведущих разработчиков ПО для работы с базами данных, ALM решений, провайдеров для различных серверов баз данных, облачных решений для интеграции и резервного копирования данных. Компания также реализует проекты в области WEB и MOBILE направлений."
+    logoUrl: /assets/logo/devart.jpg
+    links:
+      www: https://www.devart.com/
+  -
+    name: Developex
+    description: "DevelopEx was founded in August 2001 in Kiev, Ukraine by a team with substantial experience in Information Technologies. We have over one hundred of successfully completed projects of different scale and size and 190+ professionals in our team.<br/>Our company has established business relationships with many companies around the world including such countries as Canada, France, Sweden, the UK and the USA. <br/>DevelopEx main focus is being a great partner to our customers and team. Always exceeding expectations. Delivering great projects. Constantly growing and developing.<br/>We all are education fans. We love self-development. We are trying to grow professionally all the time. DevelopEx gives us the great chance to grow and develop to our best.<br/>We love to have fun at work and pay great attention to make DevelopEx a place where everybody is happy and rushes to work in excitement towards new challenges and goals.<br/>We are proud of being reliable and stable partner for our clients and employees. And for over 16 years never falling our commitments and responsibilities."
+    logoUrl: /assets/logo/developex_logo.png
+    links:
+      www: http://developex.com/
+  -
+    name: .NET Core Ukrainian User Group
+    description: "Сообщество посвящено технологии .NET Core – кроссплатформенной реализации платформы .NET Framework, с открытым исходным кодом."
+    logoUrl: /assets/logo/dotNetCoreUA.jpg
+    links:
+      www: http://dot-net.in.ua/
+  -
+    name: EasyPay
+    description: "EasyPay is a payment system that works in Ukrainian since 2007. This is the exclusive payment system that allows consumers to use cash services in the terminal network and card of any Ukrainian banks, electronic wallet or mobile money on their site and mobile app. The company employs around 180 professionals: software developers for the terminal network, online portal easypay.ua, mobile applications for Android, iOS clients. using technologies: .NET, Java, JavaScript + Angular2, MS SQL, Objective C & etc. Also EasyPay use cloud computing Microsoft Azure for data gathering and Microsoft PowerBI analytics services."
+    logoUrl: /assets/logo/easypay.jpg
+    links:
+      www: https://easypay.ua/
+  -
+    name: English Dom
+    description: "Наша Миссия — предоставление качественного обучения онлайн с погружением в языковую среду и возможностью чувствовать себя как дома в любой точке мира, владея английским языком!"
+    logoUrl: /assets/logo/ED.png
+    links:
+      www: https://www.englishdom.com/
+  -
+    name: GlobalLogic
+    description: GlobalLogic — международная IT-компания полного цикла разработки программных продуктов. Компания создает уникальные продукты в таких сферах как цифровые медиа, финансы, медицина, телекоммуникации и др. Среди ее клиентов — как перспективные стартапы, так и лидеры рынков. GlobalLogic в Украине входит в пятерку крупнейших IT-фирм страны. Компания сотрудничает более чем с 2400 специалистами в Киеве, Харькове, Львове и Николаеве.
+    logoUrl: /assets/logo/GlobalLogic.jpg
+    links:
+      www: http://globallogic.com.ua/
+  -
+    name: IT Education Academy
+    description: "ITEA предлагает качественное обучение специалистов по двум направлениям: авторизованное вендорское обучение и авторские курсы лучших специалистов-практиков, работающих в IТ-компаниях – лидерах мирового масштаба. Для лучших выпускников вечерних курсов предлагается помощь в трудоустройстве и возможность прохождения стажировки в компаниях-партнерах IT Education Academy. Более 2500 молодых айтишников начали свой путь с обучения в ITEA, а большинство из них продолжают успешно работать в IT-сфере."
+    logoUrl: /assets/logo/ITEA.jpg
+    links:
+      www: http://itea.ua/
+  -
+    name: Компьютерная Академия ШАГ
+    description: "Компьютерная Академия ШАГ – крупнейшее международное учебное заведение, специализирующееся на компьютерном образовании. Наши преподаватели – это практикующие специалисты с опытом работы в IT-индустрии. Они учат тому, о чем не пишут в учебниках. Программа обучения соответствует требованиям, которые предъявляются к молодым специалистам при трудоустройстве в IT-компанию. Ничего лишнего. Только то, что пригодится в работе."
+    logoUrl: /assets/logo/myget.jpg
+    links:
+      www: http://itstep.org/ua/
+  -
+    name: Trud.com
+    description: "Trud.com - это универсальная поисковая система, специализирующаяся на поиске вакансий и резюме по всем порталам России. Trud.com предоставляет сервис по поиску работы и персонала среди множества Интернет-ресурсов по трудоустройству. Поэтому на запрос, вводимый в строку поиска сайта, Вы всегда получите актуальную информацию о трудоустройстве в интересующем вас регионе."
+    logoUrl: /assets/logo/trud_ua.png
+    links:
+      www: http://kiev.trud.com/
+  -
+    name: Xamarin Ukrainian User Group
+    description: ""
+    logoUrl: /assets/logo/XamarinUA.png
+    links:
+      facebook: https://www.facebook.com/groups/xamarin.ua/
+  -
+    name: Yakaboo.ua
+    description: "Yakaboo.ua – крупнейший в Украине интернет-магазин, имеющий двенадцатилетний опыт работы в области онлайн-маркетинга. Более 200 000 изданий, более 600 000 постоянных клиентов, только качественная, лицензированная продукция, специально разработанная система логистики, позволяющая курьерской службе доставлять заказ \"день в день\", 100% рост дохода в течение нескольких лет подряд – преимущества и достижения Yakaboo.ua, которые выделяют нашу компанию среди других, формируют ее уникальность."
+    logoUrl: /assets/logo/yakaboo.jpg
+    links:
+      www: http://www.yakaboo.ua/
