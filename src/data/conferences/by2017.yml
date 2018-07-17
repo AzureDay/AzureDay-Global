@@ -56,7 +56,7 @@ sessions:
     description: "Learn how to leverage free Microsoft Bot Framework to quickly build bots and plug them into popular channels, such as text/SMS, Skype, Slack, and Office 365."
     speaker:
       name: Viktor Tsykunov
-      bio: "Principal Technical Evangelist at Microsoft Ukraine. Microsoft cloud technologies expert. More than 10 years’ experience in IT. During the last 10 years has been working at Microsoft on different roles in product marketing, corporate sales and technical consulting. Topic: "Creating Intelligent Bots with the Microsoft Bot Framework. "
+      bio: "Principal Technical Evangelist at Microsoft Ukraine. Microsoft cloud technologies expert. More than 10 years’ experience in IT. During the last 10 years has been working at Microsoft on different roles in product marketing, corporate sales and technical consulting."
       photoUrl: /images/speakers/speaker-7.jpg
   -
     title: MICROSERVICE & AZURE ARCHITECTURE. TOUR TO PRODUCTION FIELD
@@ -84,7 +84,7 @@ sessions:
     description: "Virtual machines in Azure - their creation, configuration and capabilities. Comparison with competitors such as Google and AWS. Services: Azure Site Recovery and BackUp Storage - their impact on your company. Real-world Azure use-cases that you'll consider: 1C In The Cloud, A truly fault-tolerant web platform, Backup data center in the Microsoft Cloud."
     speaker:
       name: Dmitry Lappo
-      bio: "Cloud Solutions Architect at ASBIS Belarus. Dmitry is a solid professional in Microsoft and Azure and works with the Microsoft Cloud for the last 3 years. He is a Microsoft Azure Certified Specialist - MCSE: Cloud Platform and Infrastructure, Certified specialist - MCSA: Office 365 - Certified 2017. All MVA certificates for Azure. Dmitry passionate about data and everything related to it. He is focused on the Belarusian companies and their problems. Profile directions: VM, Storage and Security and identification." Topic."Azure is easy. "
+      bio: "Cloud Solutions Architect at ASBIS Belarus. Dmitry is a solid professional in Microsoft and Azure and works with the Microsoft Cloud for the last 3 years. He is a Microsoft Azure Certified Specialist - MCSE: Cloud Platform and Infrastructure, Certified specialist - MCSA: Office 365 - Certified 2017. All MVA certificates for Azure. Dmitry passionate about data and everything related to it. He is focused on the Belarusian companies and their problems. Profile directions: VM, Storage and Security and identification."
       photoUrl: /images/speakers/speaker-12.png
   -
     title: THINK CONNECTED – MODERN IOT SOLUTIONS WITH MICROSOFT AZURE
