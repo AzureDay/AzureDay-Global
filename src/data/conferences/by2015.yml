@@ -61,7 +61,7 @@ sessions:
     speaker:
       name: Александр Лайша
       bio: "Ведущий .NET разработчик в ScienceSoft. За плечами – 6 лет опыта разработки и проектирования коммерческих систем в разных бизнес-областях. Последние 3 года работает с облачной платформой Microsoft Azure на проектах различной сложности. На данный момент занимается высоконагруженным приложением, построенном на платформе Microsoft Azure, которое позволяет пользователям следить и управлять за состоянием своего автомобиля с помощью мобильного телефона или веб-портала из любой точки мира. Основатель и главный доклачик Belarus Azure User Group. С радостью и энтузиазмом проводит свободное время, погружаясь в облако Microsoft Azure."
-      photoUrl: /assets/avatar/ALaysha.png  
+      photoUrl: /assets/avatar/ALaysha.jpg  
       links:
         twitter: https://twitter.com/layshaalexander
         facebook: https://www.facebook.com/alexander.laysha
