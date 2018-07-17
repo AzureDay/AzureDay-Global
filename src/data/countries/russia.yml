@@ -1,3 +1,4 @@
 name: Russia
 capital: Moscow
-coverImgSrcA: ../assets/img/ru01.jpg 
+coverImgSrcA: /assets/img/ru01.jpg
+coverImgSrcB: /assets/img/ru02.jpg
