@@ -9,11 +9,12 @@ organizers:
     bio: "Founder and main speaker at Ukrainian Microsoft Azure Community. 10+ years in application development. Builds apps based on Microsoft Azure platform since 2011. Microsoft Azure technical expert. Microsoft Azure MVP since 2014. Owner and one of the organizers of the most popular Microsoft Azure conferences in Ukraine: Azure Day and Global Azure Bootcamp."
     photoUrl: /assets/avatar/ABoyko.png
     links:
-      - https://www.facebook.com/boyko.ant
-      - https://twitter.com/BoykoAnt
-      - https://www.linkedin.com/in/boykoant/
-      - https://mvp.microsoft.com/en-us/PublicProfile/5000824
-      - http://www.mycertprofile.com/Profile/8861740279
+      facebook: https://www.facebook.com/boyko.ant
+      twitter: https://twitter.com/BoykoAnt
+      linkedin: https://www.linkedin.com/in/boykoant/
+      mvp: https://mvp.microsoft.com/en-us/PublicProfile/5000824
+      mycert: http://www.mycertprofile.com/Profile/8861740279
+      www: http://boykoant.pro
 sessions:
   
 partners:
