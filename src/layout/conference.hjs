@@ -179,9 +179,9 @@
         </div>
 
         {{# Model.conference.partners }}
-            <div class="row list-group">
+            <div class="row list-group" style="padding-bottom: 10px;">
                 <div class="col-md-3 col-lg-3 col-sm-6 col-xs-12">
-                    <img class="img-responsive img-rounded thumbnail" src="{{ logoUrl }}" alt="{{ name }}" />
+                    <img class="img-responsive img-rounded" src="{{ logoUrl }}" alt="{{ name }}" />
                 </div>
                 <div class="col-md-9 col-lg-9 col-sm-6 col-xs-12">
                     <h4>{{ name }}</h4>
