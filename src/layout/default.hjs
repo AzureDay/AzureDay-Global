@@ -1,5 +1,6 @@
 <html>
 <head>
+    <meta charset="UTF-8">
     <link rel="shortcut icon" href="/assets/favicon.ico" />
 
     <title>{{ Page.Title }}</title>
