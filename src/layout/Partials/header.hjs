@@ -3,6 +3,11 @@
 	<div class="row">
 		<div class="col-lg-2 col-md-2 col-sm-6 col-xs-12 mainMenuCell">
 			<a href="/" class="mainMenuLink mainMenuLinkActive">
+				<span class="glyphicon glyphicon-home" aria-hidden="true"></span> Home
+			</a>
+		</div>
+		<div class="col-lg-2 col-md-2 col-sm-6 col-xs-12 mainMenuCell">
+			<a href="/2018.html" class="mainMenuLink">
 				<span class="glyphicon glyphicon-star" aria-hidden="true"></span> 2018
 			</a>
 		</div>
