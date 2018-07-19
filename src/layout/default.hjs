@@ -9,6 +9,8 @@
     <link rel="stylesheet" href="/assets/vendor/bootstrap-3.3.7/css/bootstrap-theme.min.css" />
 
     <link rel="stylesheet" href="/assets/vendor/fontawesome-5.1.0/css/all.css" />
+
+    {{> ai.hjs }}
 </head>
 <body>
     

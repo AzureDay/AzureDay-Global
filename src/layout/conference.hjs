@@ -11,6 +11,8 @@
     <link rel="stylesheet" href="/assets/vendor/fontawesome-5.1.0/css/all.css" />
     <!-- custom css -->
     <link rel="stylesheet" href="/assets/style.css" />
+
+    {{> ai.hjs }}
 </head>
 <body>
     
