@@ -22,12 +22,12 @@
         <div class="row">
             <div class="col-lg-12 col-md-12 col-sm-12 col-xs-12">
                 <div>
-                    <h1><span class="glyphicon glyphicon-fire" aria-hidden="true"></span> Event: {{ Model.conference.name }}</h1>
-                    <h2><span class="glyphicon glyphicon-calendar" aria-hidden="true"></span> Date: {{ Model.conference.date }}</h2>
+                    <h1><span class="glyphicon glyphicon-fire" aria-hidden="true"></span> Event: {{ Page.Model.conference.name }}</h1>
+                    <h2><span class="glyphicon glyphicon-calendar" aria-hidden="true"></span> Date: {{ Page.Model.conference.date }}</h2>
                 </div>
                 <div>
-                    <h2><span class="glyphicon glyphicon-flag" aria-hidden="true"></span> Venue: {{ Model.conference.venue.name }}</h2>
-                    <h4>{{ Model.conference.venue.address }}</h4>
+                    <h2><span class="glyphicon glyphicon-flag" aria-hidden="true"></span> Venue: {{ Page.Model.conference.venue.name }}</h2>
+                    <h4>{{ Page.Model.conference.venue.address }}</h4>
                 </div>
             </div>
         </div>
@@ -36,7 +36,7 @@
     <!-- Divider -->
 	<div class="container-fluid marginBetweenContentBlocks">
 		<div class="row">
-			<div class="col-lg-12 col-md-12 col-sm-12 col-xs-12" style="background-image: url({{ Model.banner }}); background-position: center center; background-repeat: no-repeat; background-size: cover; min-height: 300px;">
+			<div class="col-lg-12 col-md-12 col-sm-12 col-xs-12" style="background-image: url({{ Page.Model.banner }}); background-position: center center; background-repeat: no-repeat; background-size: cover; min-height: 300px;">
 				&nbsp;
 			</div>
 		</div>
@@ -52,7 +52,7 @@
         </div>
         
         <div class="row row-eq-height">
-            {{# Model.conference.organizers }}
+            {{# Page.Model.conference.organizers }}
                 <div class="col-lg-6 col-md-6 col-sm-6 col-xs-12">
                     <div class="col-lg-6 col-md-6 col-sm-6 col-xs-12" style="text-align: center;">
                         <img class="img-responsive img-circle" src="{{ photoUrl }}" alt="{{ name }}" />
@@ -95,7 +95,7 @@
                         <p>{{ bio }}</p>
                     </div>
                 </div>
-            {{/ Model.conference.organizers }}
+            {{/ Page.Model.conference.organizers }}
         </div>
 
         <div class="page-header">
@@ -103,7 +103,7 @@
         </div>
 
         <div class="row row-eq-height">
-            {{# Model.conference.sessions }}
+            {{# Page.Model.conference.sessions }}
                 <div class="col-lg-12 col-md-12 col-sm-12 col-xs-12">
                     <div class="col-lg-6 col-md-6 col-sm-6 col-xs-12">
                         <div class="panel panel-default">
@@ -159,7 +159,7 @@
                         </div>
                     </div>
                 </div>
-            {{/ Model.conference.sessions }}
+            {{/ Page.Model.conference.sessions }}
         </div>
     </div>
 
@@ -179,7 +179,7 @@
             </div>
         </div>
 
-        {{# Model.conference.partners }}
+        {{# Page.Model.conference.partners }}
             <div class="row list-group" style="padding-bottom: 10px;">
                 <div class="col-md-3 col-lg-3 col-sm-6 col-xs-12">
                     <img class="img-responsive img-rounded" src="{{ logoUrl }}" alt="{{ name }}" />
@@ -206,7 +206,7 @@
                     </ul>
                 </div>
             </div>
-        {{/ Model.conference.partners }}
+        {{/ Page.Model.conference.partners }}
 
     </div>
 

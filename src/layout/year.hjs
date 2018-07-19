@@ -26,57 +26,57 @@
                     <span class="glyphicon glyphicon-star" aria-hidden="true"></span> Year {{ Page.Custom.year }}
                 </h2>
             </div>
-            {{# Model.conference1 }}
+            {{# Page.Model.conference1 }}
             <!-- item starts -->
             <div class="col-lg-4 col-md-4 col-sm-6 col-xs-12">
                 <a href="/conferences/2018/ua.html">
                     <div>
-                        <img src="{{ Model.country1.coverImgSrcA }}" alt="{{ Model.country1.name }} {{ Model.country1.name }}" class="img-responsive" />
+                        <img src="{{ Page.Model.country1.coverImgSrcA }}" alt="{{ Page.Model.country1.name }} {{ Page.Model.country1.name }}" class="img-responsive" />
                     </div>
                     <div class="mainConferenceCountryBlock">
-                        {{ Model.country1.name }} 
+                        {{ Page.Model.country1.name }} 
                     </div>
                     <div class="mainConferenceTitleBlock">
-                        {{ Model.conference1.date }} - {{ Model.conference1.name }}
+                        {{ Page.Model.conference1.date }} - {{ Page.Model.conference1.name }}
                     </div>
                 </a>
             </div>
             <!-- item ends -->
-            {{/ Model.conference1 }}
-            {{# Model.conference2 }}
+            {{/ Page.Model.conference1 }}
+            {{# Page.Model.conference2 }}
             <!-- item starts -->
             <div class="col-lg-4 col-md-4 col-sm-6 col-xs-12">
                 <a href="/conferences/2018/ua.html">
                     <div>
-                        <img src="{{ Model.country2.coverImgSrcA }}" alt="{{ Model.country2.name }} {{ Model.country2.name }}" class="img-responsive" />
+                        <img src="{{ Page.Model.country2.coverImgSrcA }}" alt="{{ Page.Model.country2.name }} {{ Page.Model.country2.name }}" class="img-responsive" />
                     </div>
                     <div class="mainConferenceCountryBlock">
-                        {{ Model.country2.name }} 
+                        {{ Page.Model.country2.name }} 
                     </div>
                     <div class="mainConferenceTitleBlock">
-                        {{ Model.conference2.date }} - {{ Model.conference2.name }}
+                        {{ Page.Model.conference2.date }} - {{ Page.Model.conference2.name }}
                     </div>
                 </a>
             </div>
             <!-- item ends -->
-            {{/ Model.conference2 }}
-            {{# Model.conference3 }}
+            {{/ Page.Model.conference2 }}
+            {{# Page.Model.conference3 }}
             <!-- item starts -->
             <div class="col-lg-4 col-md-4 col-sm-6 col-xs-12">
                 <a href="/conferences/2018/ua.html">
                     <div>
-                        <img src="{{ Model.country3.coverImgSrcA }}" alt="{{ Model.country3.name }} {{ Model.country3.name }}" class="img-responsive" />
+                        <img src="{{ Page.Model.country3.coverImgSrcA }}" alt="{{ Page.Model.country3.name }} {{ Page.Model.country3.name }}" class="img-responsive" />
                     </div>
                     <div class="mainConferenceCountryBlock">
-                        {{ Model.country3.name }} 
+                        {{ Page.Model.country3.name }} 
                     </div>
                     <div class="mainConferenceTitleBlock">
-                        {{ Model.conference3.date }} - {{ Model.conference3.name }}
+                        {{ Page.Model.conference3.date }} - {{ Page.Model.conference3.name }}
                     </div>
                 </a>
             </div>
             <!-- item ends -->
-            {{/ Model.conference3 }}
+            {{/ Page.Model.conference3 }}
         </div>
     </div>
 
