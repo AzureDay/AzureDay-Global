@@ -2,7 +2,7 @@
 <div class="container-fluid mainBoardContainer">
     <div class="row mainBoardCog">
         <div class="col-lg-5 col-md-5 col-sm-5 col-xs-12" style="padding-left: 0;">
-            <img class="img-responsive" alt="{{ Data.general.info.name }}" src="/assets/img/main_pic01.jpg" />
+            <img class="img-responsive" alt="{{ Data.general.info.name }}" src="/assets/img/main_pic01.jpg" style="min-height: 300px;" />
         </div>
         
         <div class="col-lg-4 col-md-4 col-sm-7 col-xs-12 mainBoardLightGradientContainer"> 
