@@ -32,7 +32,7 @@
             {{# Page.Model.conference1 }}
             <!-- item starts -->
             <div class="col-lg-4 col-md-4 col-sm-6 col-xs-12">
-                <a href="/conferences/2018/ua.html">
+                <a href="{{ Page.Model.conference1.url }}">
                     <div>
                         <img src="{{ Page.Model.country1.coverImgSrcA }}" alt="{{ Page.Model.country1.name }} {{ Page.Model.country1.name }}" class="img-responsive" />
                     </div>
@@ -49,7 +49,7 @@
             {{# Page.Model.conference2 }}
             <!-- item starts -->
             <div class="col-lg-4 col-md-4 col-sm-6 col-xs-12">
-                <a href="/conferences/2018/ua.html">
+                <a href="{{ Page.Model.conference2.url }}">
                     <div>
                         <img src="{{ Page.Model.country2.coverImgSrcA }}" alt="{{ Page.Model.country2.name }} {{ Page.Model.country2.name }}" class="img-responsive" />
                     </div>
@@ -66,7 +66,7 @@
             {{# Page.Model.conference3 }}
             <!-- item starts -->
             <div class="col-lg-4 col-md-4 col-sm-6 col-xs-12">
-                <a href="/conferences/2018/ua.html">
+                <a href="{{ Page.Model.conference3.url }}">
                     <div>
                         <img src="{{ Page.Model.country3.coverImgSrcA }}" alt="{{ Page.Model.country3.name }} {{ Page.Model.country3.name }}" class="img-responsive" />
                     </div>
