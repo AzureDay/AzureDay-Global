@@ -7,17 +7,17 @@ title:      AzureDay Global Website
 # Welcome to AzureDay.Global!
 
 ## 2018
-- [6th October 2018 - Ukraine](/conferences/2018/ua.html)
-- [25th May 2018 - Russia](/conferences/2018/ru.html)
+- [{{ Data.conferences.ua2018.date }}](/conferences/2018/ua.html)
+- [{{ Data.conferences.ru2018.date }}](/conferences/2018/ru.html)
 
 ## 2017
-- [16th December 2017 - Russia](/conferences/2017/ru.html)
-- [2nd December 2015 - Belarus](/conferences/2017/by.html)
-- [8-9th September 2017 - Ukraine](/conferences/2017/ua.html)
+- [{{ Data.conferences.ru2017.date }}](/conferences/2017/ru.html)
+- [{{ Data.conferences.by2017.date }}](/conferences/2017/by.html)
+- [{{ Data.conferences.ua2017.date }}](/conferences/2017/ua.html)
 
 ## 2016
-- [18th June 2016 - Ukraine](/conferences/2016/ua.html)
+- [{{ Data.conferences.ua2016.date }}](/conferences/2016/ua.html)
 
 ## 2015
-- [13th December 2015 - Belarus](/conferences/2015/by.html)
-- [14th March 2015 - Ukraine](/conferences/2015/ua.html)
+- [{{ Data.conferences.by2015.date }}](/conferences/2015/by.html)
+- [{{ Data.conferences.ua2015.date }}](/conferences/2015/ua.html)
