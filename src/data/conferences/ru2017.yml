@@ -88,14 +88,14 @@ partners:
   -
     name: IoT Community
     description: One of biggest IoT community in Russia with more than 1500 participants.
-    logoUrl: /assets/logo/IoTCommunity.png
+    logoUrl: /assets/logo/IoTCommunity.jpg
     links:
       www: http://iotcommunity.ru/
 
   -
     name: Heedbook
     description: Heedbook is the first online AI-based software for evaluating and boosting customer loyalty.
-    logoUrl: /assets/logo/heedbook.png
+    logoUrl: /assets/logo/heedbook.jpg
     links:
       www: https://heedbook.com/
   -
@@ -107,6 +107,6 @@ partners:
   -
     name: AnvioVR
     description: Full Body Free-Roam VR games.
-    logoUrl: /assets/logo/anvio.png
+    logoUrl: /assets/logo/anvio.jpg
     links:
       www: https://en.anviovr.com/
