@@ -1,5 +1,7 @@
 <html>
 <head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
     <link rel="shortcut icon" href="/assets/favicon.ico" />
 
     <title>{{ Page.Title }}</title>
@@ -10,6 +12,8 @@
     <link rel="stylesheet" href="/assets/vendor/fontawesome-5.1.0/css/all.css" />
     <!-- custom css -->
     <link rel="stylesheet" href="/assets/style.css" />
+
+    {{> ai.hjs }}
 </head>
 <body>
     
@@ -61,6 +65,7 @@
 	</div>
 
         <!-- Years and cities -->
+        <!-- 2018 -->
     <div class="container-fluid marginBetweenContentBlocks">
         <div class="row">
             <div class="col-lg-12 col-md-12 col-sm-12 col-xs-12">
@@ -94,6 +99,132 @@
                     </div>
                     <div class="mainConferenceTitleBlock">
                         {{ Data.conferences.ru2018.date }} - {{ Data.conferences.ru2018.name }}
+                    </div>
+                </a>
+            </div>
+            <!-- item ends -->
+        </div>
+    </div>
+
+    <!-- Years and cities -->
+        <!-- 2017 -->
+    <div class="container-fluid marginBetweenContentBlocks">
+        <div class="row">
+            <div class="col-lg-12 col-md-12 col-sm-12 col-xs-12">
+                <h2>
+                    <span class="glyphicon glyphicon-cloud" aria-hidden="true"></span> Year 2017
+                </h2>
+            </div>
+            <!-- item starts -->
+            <div class="col-lg-4 col-md-4 col-sm-6 col-xs-12">
+                <a href="/conferences/2017/ru.html">
+                    <div>
+                        <img src="{{ Data.countries.russia.coverImgSrcA }}" alt="{{ Data.countries.russia.name }} {{ Data.conferences.ru2017.name }}" class="img-responsive" />
+                    </div>
+                    <div class="mainConferenceCountryBlock">
+                        {{ Data.countries.russia.name }} 
+                    </div>
+                    <div class="mainConferenceTitleBlock">
+                        {{ Data.conferences.ru2017.date }} - {{ Data.conferences.ru2017.name }}
+                    </div>
+                </a>
+            </div>
+            <!-- item ends -->
+            <!-- item starts -->
+            <div class="col-lg-4 col-md-4 col-sm-6 col-xs-12">
+                <a href="/conferences/2017/by.html">
+                    <div>
+                        <img src="{{ Data.countries.belarus.coverImgSrcA }}" alt="{{ Data.countries.belarus.name }} {{ Data.conferences.by2017.name }}" class="img-responsive" />
+                    </div>
+                    <div class="mainConferenceCountryBlock">
+                        {{ Data.countries.belarus.name }} 
+                    </div>
+                    <div class="mainConferenceTitleBlock">
+                        {{ Data.conferences.by2017.date }} - {{ Data.conferences.by2017.name }}
+                    </div>
+                </a>
+            </div>
+            <!-- item ends -->
+            <!-- item starts -->
+            <div class="col-lg-4 col-md-4 col-sm-6 col-xs-12">
+                <a href="/conferences/2017/ua.html">
+                    <div>
+                        <img src="{{ Data.countries.ukraine.coverImgSrcA }}" alt="{{ Data.countries.ukraine.name }} {{ Data.conferences.ua2017.name }}" class="img-responsive" />
+                    </div>
+                    <div class="mainConferenceCountryBlock">
+                        {{ Data.countries.ukraine.name }} 
+                    </div>
+                    <div class="mainConferenceTitleBlock">
+                        {{ Data.conferences.ua2017.date }} - {{ Data.conferences.ua2017.name }}
+                    </div>
+                </a>
+            </div>
+            <!-- item ends -->
+        </div>
+    </div>
+
+    <!-- Years and cities -->
+    <!-- 2016 -->
+    <div class="container-fluid marginBetweenContentBlocks">
+        <div class="row">
+            <div class="col-lg-12 col-md-12 col-sm-12 col-xs-12">
+                <h2>
+                    <span class="glyphicon glyphicon-tower" aria-hidden="true"></span> Year 2016
+                </h2>
+            </div>
+            <!-- item starts -->
+            <div class="col-lg-4 col-md-4 col-sm-6 col-xs-12">
+                <a href="/conferences/2016/ua.html">
+                    <div>
+                        <img src="{{ Data.countries.ukraine.coverImgSrcA }}" alt="{{ Data.countries.ukraine.name }} {{ Data.conferences.ua2016.name }}" class="img-responsive" />
+                    </div>
+                    <div class="mainConferenceCountryBlock">
+                        {{ Data.countries.ukraine.name }} 
+                    </div>
+                    <div class="mainConferenceTitleBlock">
+                        {{ Data.conferences.ua2016.date }} - {{ Data.conferences.ua2016.name }}
+                    </div>
+                </a>
+            </div>
+            <!-- item ends -->
+        </div>
+    </div>
+
+    <!-- Years and cities -->
+    <!-- 2015 -->
+    <div class="container-fluid marginBetweenContentBlocks">
+        <div class="row">
+            <div class="col-lg-12 col-md-12 col-sm-12 col-xs-12">
+                <h2>
+                    <span class="glyphicon glyphicon-leaf" aria-hidden="true"></span> Year 2015
+                </h2>
+            </div>
+            <!-- item starts -->
+            <div class="col-lg-4 col-md-4 col-sm-6 col-xs-12">
+                <a href="/conferences/2015/by.html">
+                    <div>
+                        <img src="{{ Data.countries.belarus.coverImgSrcA }}" alt="{{ Data.countries.belarus.name }} {{ Data.conferences.by2015.name }}" class="img-responsive" />
+                    </div>
+                    <div class="mainConferenceCountryBlock">
+                        {{ Data.countries.belarus.name }} 
+                    </div>
+                    <div class="mainConferenceTitleBlock">
+                        {{ Data.conferences.by2015.date }} - {{ Data.conferences.by2015.name }}
+                    </div>
+                </a>
+            </div>
+            <!-- item ends -->
+            <!-- item starts -->
+            <div class="col-lg-4 col-md-4 col-sm-6 col-xs-12">
+                <a href="/conferences/2015/ua.html">
+                    <div>
+                        <img src="{{ Data.countries.ukraine.coverImgSrcA }}" alt="{{ Data.countries.ukraine.name }} {{ Data.conferences.ua2015.name }}" class="img-responsive" />
+                    </div>
+                    <div class="mainConferenceCountryBlock">
+                        {{ Data.countries.ukraine.name }} 
+                    </div>
+                    <div class="mainConferenceTitleBlock">
+                        {{ Data.conferences.ua2015.date }} - {{ Data.conferences.ua2015.name }}
                     </div>
                 </a>
             </div>

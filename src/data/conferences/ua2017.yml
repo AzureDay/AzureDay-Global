@@ -1,3 +1,4 @@
+url: /conferences/2017/ua.html 
 name: AzureDay 2017 Ukraine
 date: 8-9th of September 2017
 venue:
@@ -317,7 +318,7 @@ partners:
   -
     name: Microsoft
     description: Заснована в 1975 році корпорація Microsoft є визнаним світовим лідером у галузі розробки програмного забезпечення, а також у наданні послуг та рішень, які допомагають людям та компаніям повністю реалізувати свій потенціал. З 2003 року в Україні працює компанія «Майкрософт Україна», до завдань якої входить розвиток ринку програмного забезпечення, а також впровадження і локалізація новітніх технологій на території Україні.
-    logoUrl: /assets/logo/microsoft.png
+    logoUrl: /assets/logo/microsoft.jpg
     links:
       www: https://www.microsoft.com/uk-ua/
   -
@@ -367,7 +368,7 @@ partners:
   -
     name: DB Best
     description: "Компания DB Best известна во всем мире благодаря комплексным службам управления данными, разработке и миграции баз данных и созданию высокоэффективных веб-и мобильных систем. Сотни клиентов со всего мира полагаются на наших разработчиков и архитекторов для экономичных стратегий миграции и модернизации своих локальных и облачных активов каждый день.<br/>Будучи Золотым Партнером Microsoft в течение шести последних лет с компетенциями в области Application Development, Data Analytics, Data Platform и Cloud Platform, а также в партнерстве с Amazon Web Services и Google Cloud Platform, у нас есть опыт, чтобы сделать наших клиентов успешными.<br/>Наш опыт охватывает все основные базы данных. В отличие от небольших, узконаправленных конкурентов, наши разработчики оперируют всеми основными платформами разработки, включая iOS, Android, Windows Mobile, PHP, ASP.NET и Java."
-    logoUrl: /assets/logo/dbbest.png
+    logoUrl: /assets/logo/dbbest.jpg
     links:
       www: https://www.dbbest.com/
   -
@@ -379,7 +380,7 @@ partners:
   -
     name: Developex
     description: "DevelopEx was founded in August 2001 in Kiev, Ukraine by a team with substantial experience in Information Technologies. We have over one hundred of successfully completed projects of different scale and size and 190+ professionals in our team.<br/>Our company has established business relationships with many companies around the world including such countries as Canada, France, Sweden, the UK and the USA. <br/>DevelopEx main focus is being a great partner to our customers and team. Always exceeding expectations. Delivering great projects. Constantly growing and developing.<br/>We all are education fans. We love self-development. We are trying to grow professionally all the time. DevelopEx gives us the great chance to grow and develop to our best.<br/>We love to have fun at work and pay great attention to make DevelopEx a place where everybody is happy and rushes to work in excitement towards new challenges and goals.<br/>We are proud of being reliable and stable partner for our clients and employees. And for over 16 years never falling our commitments and responsibilities."
-    logoUrl: /assets/logo/developex_logo.png
+    logoUrl: /assets/logo/developex_logo.jpg
     links:
       www: http://developex.com/
   -
@@ -397,7 +398,7 @@ partners:
   -
     name: English Dom
     description: "Наша Миссия — предоставление качественного обучения онлайн с погружением в языковую среду и возможностью чувствовать себя как дома в любой точке мира, владея английским языком!"
-    logoUrl: /assets/logo/ED.png
+    logoUrl: /assets/logo/ED.jpg
     links:
       www: https://www.englishdom.com/
   -
@@ -421,13 +422,13 @@ partners:
   -
     name: Trud.com
     description: "Trud.com - это универсальная поисковая система, специализирующаяся на поиске вакансий и резюме по всем порталам России. Trud.com предоставляет сервис по поиску работы и персонала среди множества Интернет-ресурсов по трудоустройству. Поэтому на запрос, вводимый в строку поиска сайта, Вы всегда получите актуальную информацию о трудоустройстве в интересующем вас регионе."
-    logoUrl: /assets/logo/trud_ua.png
+    logoUrl: /assets/logo/trud_ua.jpg
     links:
       www: http://kiev.trud.com/
   -
     name: Xamarin Ukrainian User Group
     description: ""
-    logoUrl: /assets/logo/XamarinUA.png
+    logoUrl: /assets/logo/XamarinUA.jpg
     links:
       facebook: https://www.facebook.com/groups/xamarin.ua/
   -

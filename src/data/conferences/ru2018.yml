@@ -1,3 +1,4 @@
+url: /conferences/2018/ru.html 
 name: AzureDay 2018 Russia
 date: 25th of May 2018
 venue:
@@ -149,30 +150,30 @@ partners:
   -
     name: Digital October
     description: "Digital October Center is a place for globally-minded technology entrepreneurship community. The Center is built around two core themes: new technologies and technology entrepreneurship. Key international professional conferences and presentations of new technology products take place in the Center."
-    logoUrl: /assets/logo/DO-logo
+    logoUrl: /assets/logo/DO-logo.jpg
     links:
       www: http://digitaloctober.ru/
   -
     name: IoT Community
     description: One of biggest IoT community in Russia with more than 1500 participants.
-    logoUrl: /assets/logo/IoTCommunity.png
+    logoUrl: /assets/logo/IoTCommunity.jpg
     links:
       www: http://iotcommunity.ru/
   -
     name: "ITpro News & Reviews"
     description: "Неофициальные заметки от @masyan о Microsoft, Windows Server, System Center, Azure, Office 365, OMS etc."
-    logoUrl: /assets/logo/telegramMS.png
+    logoUrl: /assets/logo/telegramMS.jpg
     links:
       www: https://t.me/MicrosoftRus
   -
     name: IT Events Digest
     description: 
-    logoUrl: /assets/logo/ITEvents.png
+    logoUrl: /assets/logo/ITEvents.jpg
     links:
       www: https://it-events.com
   -
     name: ValueHost
     description: "Профессиональный хостинг сайтов"
-    logoUrl: /assets/logo/valuehost.png
+    logoUrl: /assets/logo/valuehost.jpg
     links:
       www: http://www.valuehost.ru/

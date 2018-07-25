@@ -1,3 +1,4 @@
+url: /conferences/2015/by.html 
 name: Azure Day 2015 Belarus
 date: 13th of December 2015
 venue:
@@ -61,7 +62,7 @@ sessions:
     speaker:
       name: Alexander Laisha
       bio: "He has 6 years of experience in developing and designing commercial systems in different business areas. For the last 3 years he's been working with Microsoft Azure cloud platform on projects of varying complexity. At the moment he is involved in a highload application project based on Microsoft Azure platform, which allows users to monitor and manage the status of their car with a mobile phone or a web portal from anywhere in the world. Leader of Belarus Azure Community and speaker at local and external meetups and conferences. With joy and enthusiasm spends his free time by plunging into the cloud of Microsoft Azure."
-      photoUrl: /assets/avatar/ALaysha.png  
+      photoUrl: /assets/avatar/ALaysha.jpg   
       links:
         twitter: https://twitter.com/layshaalexander
         facebook: https://www.facebook.com/alexander.laysha
@@ -107,18 +108,18 @@ partners:
   -
     name: Microsoft
     description: "Founded in 1975, Microsoft Corporation is a world leader in the software development, services and the development of Internet technologies for personal computers and servers. Capitalization of Microsoft is more than 210 billion US dollars today, and its trademark is one of the most expensive and famous in the world."
-    logoUrl: /assets/logo/microsoft.png
+    logoUrl: /assets/logo/microsoft.jpg
     links:
       www: https://www.microsoft.com
   -
     name: HTP Belarus
     description: "Providing special business environment for IT business, Belarus Hi-Tech Park is one of the leaders among innovative IT clusters in Central and Eastern Europe today."
-    logoUrl: /assets/logo/htp-belarus.png
+    logoUrl: /assets/logo/htp-belarus.jpg
     links:
       www: http://www.park.by/
   -
     name: Dev.by
     description: "dev.by — founded in 2008, a website about information technology and industry in Belarus and the world. In addition to the latest news, exclusive interviews, analytical articles, corporate blogs and expert columns on happenings in the IT industry, dev.by presents unique information about Belarusian IT companies, salaries, vacancies and events."
-    logoUrl: /assets/logo/devby.png
+    logoUrl: /assets/logo/devby.jpg
     links:
       www: https://dev.by/

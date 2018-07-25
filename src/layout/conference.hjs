@@ -1,5 +1,7 @@
 <html>
 <head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
     <link rel="shortcut icon" href="/assets/favicon.ico" />
 
     <title>{{ Page.Title }}</title>
@@ -8,30 +10,55 @@
     <link rel="stylesheet" href="/assets/vendor/bootstrap-3.3.7/css/bootstrap-theme.min.css" />
 
     <link rel="stylesheet" href="/assets/vendor/fontawesome-5.1.0/css/all.css" />
+    <!-- custom css -->
+    <link rel="stylesheet" href="/assets/style.css" />
+
+    {{> ai.hjs }}
 </head>
 <body>
     
     {{> header.hjs }}
 
-    <div class="container">
-        <div class="page-header">
-            <h1>{{ Model.conference.name }}</h1>
-            <h2>{{ Model.conference.date }}</h2>
-        </div>
-        <div class="page-header">
-            <h2>{{ Model.conference.venue.name }}</h2>
-            <h4>{{ Model.conference.venue.address }}</h4>
-        </div>
+    {{> banner.hjs }}
 
-        <div class="page-header">
-            <h3>Organizers</h3>
+    <div class="container-fluid">
+        <div class="row">
+            <div class="col-lg-12 col-md-12 col-sm-12 col-xs-12">
+                <div>
+                    <h1><span class="glyphicon glyphicon-fire" aria-hidden="true"></span> Event: {{ Page.Model.conference.name }}</h1>
+                    <h2><span class="glyphicon glyphicon-calendar" aria-hidden="true"></span> Date: {{ Page.Model.conference.date }}</h2>
+                </div>
+                <div>
+                    <h2><span class="glyphicon glyphicon-flag" aria-hidden="true"></span> Venue: {{ Page.Model.conference.venue.name }}</h2>
+                    <h4>{{ Page.Model.conference.venue.address }}</h4>
+                </div>
+            </div>
         </div>
+    </div>
 
+    <!-- Divider -->
+	<div class="container-fluid marginBetweenContentBlocks">
+		<div class="row">
+			<div class="col-lg-12 col-md-12 col-sm-12 col-xs-12" style="background-image: url({{ Page.Model.banner }}); background-position: center center; background-repeat: no-repeat; background-size: cover; min-height: 300px;">
+				&nbsp;
+			</div>
+		</div>
+	</div>
+        
+    <div class="container-fluid">
+        <div class="row">
+            <div class="col-lg-12 col-md-12 col-sm-12">
+                <div class="page-header">
+                    <h2><span class="glyphicon glyphicon-user" aria-hidden="true"></span> Organizers</h2>
+                </div>
+            </div>
+        </div>
+        
         <div class="row row-eq-height">
-            {{# Model.conference.organizers }}
-                <div class="col-md-6">
-                    <div class="col-md-6">
-                        <img class="img-responsive img-rounded thumbnail" src="{{ photoUrl }}" alt="{{ name }}" />
+            {{# Page.Model.conference.organizers }}
+                <div class="col-lg-6 col-md-6 col-sm-6 col-xs-12">
+                    <div class="col-lg-6 col-md-6 col-sm-6 col-xs-12" style="text-align: center;">
+                        <img class="img-responsive img-circle" src="{{ photoUrl }}" alt="{{ name }}" />
                         <ul class="list-inline">
                             {{# links.www }}
                                 <li><a target="_blank" href="{{ . }}"><i class="fas fa-globe-americas fa-3x"></i></a></li>
@@ -66,22 +93,22 @@
                             {{/ links.meetup }}
                         </ul>
                     </div>
-                    <div class="col-md-6">
+                    <div class="col-lg-6 col-md-6 col-sm-6 col-xs-12">
                         <h5>{{ name }}</h5>
                         <p>{{ bio }}</p>
                     </div>
                 </div>
-            {{/ Model.conference.organizers }}
+            {{/ Page.Model.conference.organizers }}
         </div>
 
         <div class="page-header">
-            <h3>Sessions</h3>
+            <h2><span class="glyphicon glyphicon-list" aria-hidden="true"></span> Sessions</h2>
         </div>
 
         <div class="row row-eq-height">
-            {{# Model.conference.sessions }}
-                <div class="col-md-12">
-                    <div class="col-md-6">
+            {{# Page.Model.conference.sessions }}
+                <div class="col-lg-12 col-md-12 col-sm-12 col-xs-12">
+                    <div class="col-lg-6 col-md-6 col-sm-6 col-xs-12">
                         <div class="panel panel-default">
                             <div class="panel-heading">
                                 <h5>{{ title }}</h5>
@@ -92,8 +119,8 @@
                         </div>
                     </div>
 
-                    <div class="col-md-6">
-                        <div class="col-md-6">
+                    <div class="col-lg-6 col-md-6 col-sm-6 col-xs-12">
+                        <div class="col-lg-6 col-md-6 col-sm-6 col-xs-12" style="text-align: center;">
                             <img class="img-responsive img-rounded thumbnail" src="{{ speaker.photoUrl }}" alt="{{ speaker.name }}" />
                             <ul class="list-inline">
                                 {{# speaker.links.www }}
@@ -129,27 +156,43 @@
                                 {{/ speaker.links.meetup }}
                             </ul>
                         </div>
-                        <div class="col-md-6">
-                            <h5>{{ speaker.name }}</h5>
+                        <div class="col-lg-6 col-md-6 col-sm-6 col-xs-12">
+                            <h4>{{ speaker.name }}</h4>
                             <p>{{ speaker.bio }}</p>
                         </div>
                     </div>
                 </div>
-            {{/ Model.conference.sessions }}
+            {{/ Page.Model.conference.sessions }}
+        </div>
+    </div>
+
+    <!-- Divider -->
+	<div class="container-fluid marginBetweenContentBlocks">
+		<div class="row">
+			<div class="col-lg-12 col-md-12 col-sm-12 col-xs-12 dividerBlockB">
+				&nbsp;
+			</div>
+		</div>
+	</div>
+
+    <div class="container-fluid">
+        <div class="row">
+            <div class="col-lg-12 col-md-12 col-sm-12 col-xs-12">
+                <h2>Partners</h2>
+            </div>
         </div>
 
-        <div class="page-header">
-            <h3>Partners</h3>
-        </div>
-
-        {{# Model.conference.partners }}
-            <div class="row list-group">
-                <div class="col-md-3 col-lg-3">
-                    <img class="img-responsive img-rounded thumbnail" src="{{ logoUrl }}" alt="{{ name }}" />
-
+        {{# Page.Model.conference.partners }}
+            <div class="row list-group" style="padding-bottom: 10px;">
+                <div class="col-md-3 col-lg-3 col-sm-6 col-xs-12">
+                    <img class="img-responsive img-rounded" src="{{ logoUrl }}" alt="{{ name }}" />
+                </div>
+                <div class="col-md-9 col-lg-9 col-sm-6 col-xs-12">
+                    <h4>{{ name }}</h4>
+                    <p>{{ description }}</p>
                     <ul class="list-inline">
                         {{# links.www }}
-                            <li><a target="_blank" href="{{ . }}"><i class="fas fa-globe-americas fa-3x"></i></a></li>
+                            <li><a target="_blank" href="{{ . }}"><i class="fa fa-link fa-3x"></i></a></li>
                         {{/ links.www }}
 
                         {{# links.facebook }}
@@ -165,12 +208,8 @@
                         {{/ links.linkedin }}
                     </ul>
                 </div>
-                <div class="col-md-9 col-lg-9">
-                    <h5>{{ name }}</h5>
-                    <p>{{ description }}</p>
-                </div>
             </div>
-        {{/ Model.conference.partners }}
+        {{/ Page.Model.conference.partners }}
 
     </div>
 

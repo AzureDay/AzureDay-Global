@@ -1,3 +1,4 @@
+url: /conferences/2017/by.html 
 name: Azure Day 2017 Belarus
 date: 2nd of December 2017
 venue:
@@ -103,18 +104,18 @@ partners:
   -
     name: Microsoft
     description: "Founded in 1975, Microsoft Corporation is a world leader in the production of software, services and the development of Internet technologies for personal computers and servers. Capitalization of Microsoft is today more than 210 billion US dollars, and its trademark is one of the most expensive and famous in the world."
-    logoUrl: /assets/logo/microsoft.png
+    logoUrl: /assets/logo/microsoft.jpg
     links:
       www: https://www.microsoft.com
   -
     name: EPAM
     description: "Our teams of technologists, strategists and designers deliver powerful digital experiences. We specialize in 11 industries in 25 countries, delivering innovative solutions to our customers’ most challenging problems. The numbers speak for themselves."
-    logoUrl: /assets/logo/Epam_Gray.svg
+    logoUrl: /assets/logo/Epam.jpg
     links:
       www: https://www.epam.com/
   -
     name: HTP Belarus
     description: "Providing special business environment for IT business, Belarus Hi-Tech Park is one of the leaders among innovative IT clusters in Central and Eastern Europe today."
-    logoUrl: /assets/logo/htp-belarus.png
+    logoUrl: /assets/logo/htp-belarus.jpg
     links:
       www: http://www.park.by/
