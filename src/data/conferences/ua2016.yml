@@ -3,7 +3,10 @@ name: AzureDay 2016 Ukraine
 date: 18th of June 2016
 venue:
   name: President Hotel
-  address:  12, Hospitalna street, Kyiv, 01601, Ukraine
+  address: 12, Hospitalna street, Kyiv, 01601, Ukraine
+  coordinates:
+    latitude: 50.4362315
+    longitude: 30.5231677
 organizers:
   -
     name: Anton Boyko

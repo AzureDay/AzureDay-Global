@@ -4,6 +4,9 @@ date: 14th of March 2015
 venue:
   name: Microsoft Ukraine
   address: Бізнес-центр “Євразія”, вул. Жилянська 75, Київ, 01032 Україна
+  coordinates:
+    latitude: 50.4389784
+    longitude: 30.4964262
 organizers:
   -
     name: Anton Boyko

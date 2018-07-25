@@ -4,6 +4,9 @@ date: 25th of May 2018
 venue:
   name: Petrocongress
   address: 197110, Санкт-Петербург, ул. Лодейнопольская, д. 5
+  coordinates:
+    latitude: 59.9638708
+    longitude: 30.2888011
 organizers:
   -
     name: Alexandr Surkov

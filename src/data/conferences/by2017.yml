@@ -4,6 +4,9 @@ date: 2nd of December 2017
 venue:
   name: HTP Belarus (Coworking)
   address: 1/5 Kuprevicha Str., Minsk, Belarus
+  coordinates:
+    latitude: 53.9270616
+    longitude: 27.6797629
 organizers:
   -
     name: Alexander Laisha

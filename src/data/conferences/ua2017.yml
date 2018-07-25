@@ -3,7 +3,10 @@ name: AzureDay 2017 Ukraine
 date: 8-9th of September 2017
 venue:
   name: President Hotel
-  address:  12, Hospitalna street, Kyiv, 01601, Ukraine
+  address: 12, Hospitalna street, Kyiv, 01601, Ukraine
+  coordinates:
+    latitude: 50.4362315
+    longitude: 30.5231677
 organizers:
   -
     name: Anton Boyko

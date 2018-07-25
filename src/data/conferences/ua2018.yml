@@ -3,7 +3,10 @@ name: AzureDay 2018 Ukraine
 date: 10th of November 2018
 venue:
   name: Mercure Kyiv Congress
-  address: Kyiv, 6 Vadyma Hetmana Str., 03057
+  address: Kyiv, 6 Vadyma Hetmana Str., 03057, Ukraine
+  coordinates:
+    latitude: 50.45012
+    longitude: 30.4416997
 organizers:
   -
     name: Anton Boyko

@@ -4,6 +4,9 @@ date: 16th of December 2017
 venue:
   name: Digital October
   address: 119072, Moscow, Bersenevskaya Naberezhnaya, 6/3
+  coordinates:
+    latitude: 55.7408187
+    longitude: 37.6067363
 organizers:
   -
     name: Alexandr Surkov

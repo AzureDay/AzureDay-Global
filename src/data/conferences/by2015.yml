@@ -4,6 +4,9 @@ date: 13th of December 2015
 venue:
   name: Бизнес-инкубатор (Коворкинг) ПВТ
   address: г.Минск, ул.Купревича В.Ф., д.1, корп.5
+  coordinates:
+    latitude: 53.9270616
+    longitude: 27.6797629
 organizers:
   -
     name: АЛЕКСАНДР Laisha

@@ -1,0 +1,19 @@
+<div id="map">
+    <script>
+        var MapsAccountKey = "piSaqv-oImTWipGyMzWdFlKesui7W58XQuFH94JtCvA";
+
+        var mapCenterPosition = [{{ Page.Model.conference.venue.coordinates.longitude }}, {{ Page.Model.conference.venue.coordinates.latitude }}];
+            var map = new atlas.Map("map", {
+            "subscription-key": MapsAccountKey,
+            center: mapCenterPosition,
+            zoom: 15
+        });
+
+        /* Create a custom html*/
+        var msStorePin = document.createElement('div');
+        msStorePin.classList.add("azureday-pin");
+
+        /* Add the custom html to the map*/
+        map.addHtml(msStorePin, mapCenterPosition);
+    </script>
+</div>
