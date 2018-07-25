@@ -6,7 +6,8 @@
             var map = new atlas.Map("map", {
             "subscription-key": MapsAccountKey,
             center: mapCenterPosition,
-            zoom: 15
+            zoom: 15,
+            scrollZoomInteraction: false
         });
 
         /* Create a custom html*/
