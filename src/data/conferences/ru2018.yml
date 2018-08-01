@@ -68,7 +68,7 @@ sessions:
     description: 
     speaker:
       name: Vladimir Gusarov
-      bio: "Has been engaged in software development for 20 years. He took part in such projects as "PDP-11 emulator for Windows NT/DEC Alpha Platform", "AMSD Ariadna - First Russian Internet Browser", "C++ Compiler for DEC Alpha" and others. Currently, Vladimir is a head of development in Moscow office at Quest Software. Has the status of Microsoft Most Valuable Professional (MVP) with a specialization in the field of team development software since 2010. It is part of ALM Rangers since 2012."
+      bio: "Has been engaged in software development for 20 years. He took part in such projects as \"PDP-11 emulator for Windows NT/DEC Alpha Platform\", \"AMSD Ariadna - First Russian Internet Browser\", \"C++ Compiler for DEC Alpha\" and others. Currently, Vladimir is a head of development in Moscow office at Quest Software. Has the status of Microsoft Most Valuable Professional (MVP) with a specialization in the field of team development software since 2010. It is part of ALM Rangers since 2012."
       photoUrl:  /assets/avatar/VGusarov.png
       links:
         mvp: https://mvp.microsoft.com/ru-ru/PublicProfile/4028927
