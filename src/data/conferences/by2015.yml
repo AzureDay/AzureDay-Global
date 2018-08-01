@@ -2,15 +2,15 @@ url: /conferences/2015/by.html
 name: Azure Day 2015 Belarus
 date: 13th of December 2015
 venue:
-  name: Бизнес-инкубатор (Коворкинг) ПВТ
-  address: г.Минск, ул.Купревича В.Ф., д.1, корп.5
+  name: HTP Belarus (Coworking)
+  address: 1/5 Kuprevicha Str., Minsk, Belarus
   coordinates:
     latitude: 53.9270616
     longitude: 27.6797629
 organizers:
   -
-    name: АЛЕКСАНДР Laisha
-    bio: "За плечами – 6 лет опыта разработки и проектирования коммерческих систем в разных бизнес-областях. Последние 3 года работает с облачной платформой Microsoft Azure на проектах различной сложности. На данный момент занимается высоконагруженным приложением, построенном на платформе Microsoft Azure, которое позволяет пользователям следить и управлять за состоянием своего автомобиля с помощью мобильного телефона или веб-портала из любой точки мира. Основатель и главный доклачик Belarus Azure User Group. С радостью и энтузиазмом проводит свободное время, погружаясь в облако Microsoft Azure."
+    name: Alexander Laisha
+    bio: "He has 6 years of experience in developing and designing commercial systems in different business areas. For the last 3 years he's been working with Microsoft Azure cloud platform on projects of varying complexity. At the moment he is involved in a highload application project based on Microsoft Azure platform, which allows users to monitor and manage the status of their car with a mobile phone or a web portal from anywhere in the world. Leader of Belarus Azure Community and speaker at local and external meetups and conferences. With joy and enthusiasm spends his free time by plunging into the cloud of Microsoft Azure."
     photoUrl: /assets/avatar/ALaysha.jpg
     links:
       twitter: https://twitter.com/layshaalexander
@@ -18,31 +18,31 @@ organizers:
       linkedin: https://www.linkedin.com/in/layshaalexander
 sessions:
   -
-    title: Тюнинг Azure Service Bus
-    description: "Вы узнаете, какие сервисы предоставляет служебная шина и зачем их несколько. А также о пропускной способности, скорости доступа и о том, что можно сделать, если настроек по умолчанию недостаточно."
+    title: Tuning Azure Service Bus
+    description: "You will find out what services the service bus provides and why there are several of them. You will also find out about bandwidth, access speed and what can be done if the default settings are not enough."
     speaker:
-      name: Павел Соколов
-      bio: "Разработчик в Juno Lab Ltd. С 2005 года работает с технологиями Майкрософт: сначала WinForms, потом ASP.Net и чем дальше, тем глубже в бездну. Два года работал с Data Warehouse на основе SQL Server в компании ISSoft. Позже в Ciklum руководил разработкой проекта theMobileHub (themobilehub.net), wannabe-highload'а, польностью построенного на инфраструктуре Azure. Сейчас работает в качестве консультанта по базам данных и облачным технологиям на нескольких проектах, аквтино использовующих Microsoft Azure."
+      name: Pavel Sokolov
+      bio: "Developer in Juno Lab Ltd. Since 2005 working with Microsoft technologies: first WinForms, then ASP.Net and the further, the deeper into the abyss. Two years of experience working with Data Warehouse based on SQL Server in the company called ISSoft. Later in Ciklum he led the development of the project MobileHub (themobilehub.net), a wannabe-highload, fully built on Azure infrastructure. Now he works as a consultant in databases and cloud technologies on several projects, actively using Microsoft Azure"
       photoUrl: /assets/avatar/PSokolov.png
       links:
         linkedin: https://www.linkedin.com/pub/pavel-sokolov/87/a23/82b  
   -
-    title: Знакомство с Azure Application Insights. Тюнинг Azure Service Bus
-    description: "Различные сервисы Azure имеют встроенные возможности сбора диагностической информации и мониторинга. Перед нами стоит задача извлечь из сырой информации метрики и знания о том, как эффективно работают те или иные компоненты и подсистемы. Цель выступления – дать общее представление об Azure Application Insights и о том, как он может помочь в решении упомянутой задачи."
+    title: Getting familiar with Azure Application Insights.
+    description: "Various Azure services have built-in capabilities for collecting diagnostic information and monitoring. We are faced with the task of extracting data from raw information of metrics and knowledge about how effectively these or other components and subsystems work. The main goal of the speech is to give an overview of Azure Application Insights and how they can help in solving the abovementioned problem."
     speaker:
-      name: Андрей Димчук
-      bio: "Архитектор ПО в ScienceSoft. Начал программировать на Синклере в начале 1990-х. Дело тогда дошло до написания дисковой оболочки в обход операционной системы. После небольшого перерыва, где-то в начале 2002-го года, увлекся C++ и программированием под Windows. Интересно было все: мультипоточность, толстые клиенты, COM, сеть, базы данных, DirectShow. Начал тогда писать первую версию Power Video Player, которую скоро портировал на Windows Forms, а позже на WPF. В 2004 Microsoft отменила сертификацию по C++ и MFC. Немного погоревав, прочел книгу Прозиса Programming .NET Framework и с тех пор не оглядывался назад. Достаточно плотный обзор ASP.NET в той книге вызвал у Андрея интерес к веб-разработке. В том же году пришел в ScienceSoft, где разрабатывал мультиплатформенную систему диагностики и мониторинга безопансоти информационных систем.  В 2007 году, после перехода продукта к IBM, портировал продукт на WebSphere, DB2, Linux и AIX. В последние годы плотно работает с Microsoft Azure. Создает систему, позволяющую «подключать» автомобили к облаку и в какой-то степени контролировать их, используя мобильные и веб-приложения."
+      name: Andrei Dzimchuk
+      bio: "Software Architect in ScienceSoft. He started programming on Sinclair in the early 1990s. Then he came down to writing the disk shell bypassing the operation system. After a short break, in the beginning of 2002, he got carried away by C++ and Windows programming. He was interested in: multithreading, thick clients, COM, network, databases, DirectShow. He started writing the first version of Power Video Player, which was soon ported to Windows Forms, and later to WPF. In 2004, Microsoft abolished C++ and MFC certification. After a bit of a grief, he read the Proses's Programming .NET Framework and since then has not looked back. A fairly tight review of ASP.NET in that book caused Andrei's interest in the web development. In the same year he joined ScienceSoft, where he developed a multi-platform system for diagnostics and monitoring the security of information systems. In 2007, after this product moved to IBM, he ported the product to WebSphere, DB2, Linux, and AIX. In recent years he worked closely with Microsoft Azure. Now he creates a system that allows you to \"connect\" cars to the cloud and in some way to control them using mobile and web applications"
       photoUrl: /assets/avatar/ADzimchuk.png
       links:  
         twitter: http://twitter.com/dzimchuk
         linkedin: http://www.linkedin.com/in/andreidzimchuk 
         www: https://dzimchuk.net/
   -
-    title: Azure Storage - как выжать максимум скорости и производительности.
-    description: "Доклад будет состоять из двух частей. В первой части мы поговорим про Azure Storage в целом, рассмотрим из каких сервисов он состоит (Blobs, Disks, Files, Tables, Queues) и поговорим о том, для каких задач мы можем использовать каждый сервис. Мы узнаем лучшие практики и рекомендации по использованию каждого сервиса для получения максимальной производительности. Эта часть доклада  будет ориентирована на слушателей, которые только начинают свое знакомство с облачными технологиями. Во второй части доклада мы более подробно обсудим Azure Table Storage - сервис для хранения структурированных данных в облаке. Вокруг этого сервиса сложилось множество мифов касательно разных его аспектов, во время доклада мы развеем некоторые из них. Также, с годами опыта, у разработчиков могут складываться некоторые предубеждения относительно систем хранения данных. Многие, когда слышат формулировку \"хранение данных\", сразу начинают представлять MS SQL, MySQL, Oracle и т.д. Но нужно ли нам это в проекте на самом деле? Представьте, что мы занимаемся разработкой высоконагруженой системы обмена сообщениями - нужна ли нам в этом проекте реляционная база данных? Данная часть доклада будет интересна тем, кто хочет погрузиться в Azure Table Storage максимально глубоко, узнать где закопаны грабли и как правильно \"готовить\" этот сервис. Также, во время данного доклада, мы постараемся сделать упор на то, что не нужно выбирать технологию и подгонять под нё свои задачи, правильный путь - это, получив задачи, определить правильную технологию для их решения."
+    title: Azure Storage - how to maximize speed and performance.
+    description: "The speech will contain two parts. In the first part, we'll talk about Azure Storage generally, consider what services it consists of (Blobs, Disks, Files, Tables, Queues) and talk about which tasks we can use each service for. We'll learn the best practices and recommendations for using each service for maximum performance. This part of the speech will be aimed at listeners who are just beginning their acquaintance with cloud technologies. In the second part of the speech, we will discuss Azure Table Storage in more detail - a service for storing structured data in the cloud. There are many myths about different aspects of this service, during the speech we will dispel some of them. Also, with years of experience, developers may have some prejudices about storage systems. Many people upon hearing the wording \"data storage\" immediately begin to think about MS SQL, MySQL, Oracle, etc. But do we really need this in the project? Imagine that we are developing a highload messaging system - do we need a relational database in this project? This part of the speech will be of interest to those who want to immerse themselves into Azure Table Storage as deep as possible, to find out where the rake is buried and how to properly \"cook\" this service. Also, during this speech, we will try to emphasize that you do not need to choose technology depending on your tasks, the right way is when you get the tasks, then choose the right technology to solve them."
     speaker:
-      name: Антон Бойко
-      bio: "Microsoft Azure MVP. Основатель и главный докладчик Ukrainian Microsoft Azure Community. Является разработчиком Microsoft Azure со стажем более 4 лет и техническим экспертом по платформе Microsoft Azure. Суммарный опыт в разработке програмного обеспечения - 10 лет. В свободное время активно наполняет свой YouTube канал интересными видео на тему облачных технологий. Интересуется всем, что связано с Microsoft Azure. С 2014 года обладатель почетного звания Microsoft Azure MVP."
+      name: Anton Boyko
+      bio: "Microsoft Azure MVP. Founder and main speaker of the Ukrainian Microsoft Azure Community. He is a Microsoft Azure developer with more than 4 years of experience and a Microsoft Azure platform technical expert. The total experience in the software development is 10 years. In his free time he actively fills his YouTube channel with interesting videos based on the cloud technologies. Interested in everything related to Microsoft Azure. Since 2014, the owner of the honorary title of Microsoft Azure MVP."
       photoUrl: /assets/avatar/ABoyko.png
       links:
         twitter: https://twitter.com/BoykoAnt
@@ -50,54 +50,54 @@ sessions:
         facebook: https://www.facebook.com/boyko.ant
         googleplus: https://plus.google.com/+AntonBoyko85/posts
   -
-    title: Visual Studio 2015 для веба, облака, контейнеров и любого из вас
-    description: "С выходом .NET 2015 и Visual Studio 2015, а так же с развитием ASP.NET5 у разработчиков появляется все больше эффективных инструментов для создания кросс-платформенных веб-приложений, способных запускаться как на Windows, так на Linux и OSX.Новые инструменты Visual Studio 2015 позволяют строить веб-приложения быстрее, публиковать их в «облако» и контейнеры Docker, управлять все большим числом функций облачного окружения прямо из среды разработки. В рамках доклада мы рассмотрим множество новинок, которые приносит нам Visual Studio 2015: от Entity Framework 7 до ASP.NET5, от новых возможностей Azure до контейнеров Docker, от новых инструментов тестирования до механизмов защиты и обеспечения безопасности."
+    title: Visual Studio 2015 for the web, cloud, containers and any of you
+    description: "With the release of .NET 2015 and Visual Studio 2015, as well as the development of ASP.NET 5, developers start to use increasingly more effective tools for creating cross-platform web applications that can run on Windows, as well as Linux and OSX. New tools in Visual Studio 2015 allow you to build web applications faster, publish them to the cloud and Docker containers, manage the increasing number of cloud-based environment functions directly from the development environment. As part of the speech, we'll look at the many new features that Visual Studio 2015 brought us: from Entity Framework 7 to ASP.NET 5, from new Azure capabilities to Docker containers, from new testing tools to security mechanisms and security in general."
     speaker:
-      name: Владимир Юнев
-      bio: "Старший эксперт по стратегическим технологиям Microsoft Russia. Сертифицированный разработчик приложений с более чем 12-летним стажем. Отвечает за применение облачных технологий в веб-приложениях, сервисах и мобильных клиентах в Департаменте стратегических технологий Майкрософт Россия. Постоянный участник и организатор множества российских ИТ-конференций, автор книги по разработке веб-приложений на платформе ASP.NET. В сообществе разработчиков известен под ником XaocCPS."
+      name: Vladimir Yunev
+      bio: "Senior Expert in Strategic Technologies Microsoft Russia. Certified application developer with more than 12 years of experience. Responsible for usage of cloud technologies in web applications, services and mobile clients in the Department of Strategic Technologies Microsoft Russia. A constant participant and organizer of many Russian IT conferences, author of the developing Web applications in the ASP.NET platform book. In the development community is known by the nickname XaocCPS."
       photoUrl: /assets/avatar/VYunev.png
       links:
         linkedin: https://ru.linkedin.com/in/vyunev
         facebook: https://www.facebook.com/yunev
   -
-    title: Реализация микросервисной архитектуры с использованием Azure Service Fabric
-    description: "Во второй декаде 2015 года Microsoft анонсировал появление превью-версию нового сервиса – Azure Service Fabric, который ориентирован на разработку приложений с использованием подхода микросервисной архитектуры. Микросервисная архитектура – один из трендов последних лет. Многие слышали о данном подходе, но, к сожалению, мало кто имеет представление о преимуществах и решаемых проблемах. В ходе доклада мы разберемся, что такое микросервисная архитектура и с чем ее едят. А также спроектируем и реализуем конкретный пример с помощью Azure Service Fabric."
+    title: Implementation of a micro-service architecture using Azure Service Fabric
+    description: "In the second decade of 2015, Microsoft announced the preview version of the new service - Azure Service Fabric, which is focused on developing applications using microservice architecture approach. Microservice architecture is one of the trends of recent years. Many have heard about this approach, but, unfortunately, very few people have an idea of its advantages and problems to be solved. During the speech we will understand what a microservice architecture. And also we will design and implement an example using Azure Service Fabric."
     speaker:
-      name: Александр Лайша
-      bio: "Ведущий .NET разработчик в ScienceSoft. За плечами – 6 лет опыта разработки и проектирования коммерческих систем в разных бизнес-областях. Последние 3 года работает с облачной платформой Microsoft Azure на проектах различной сложности. На данный момент занимается высоконагруженным приложением, построенном на платформе Microsoft Azure, которое позволяет пользователям следить и управлять за состоянием своего автомобиля с помощью мобильного телефона или веб-портала из любой точки мира. Основатель и главный доклачик Belarus Azure User Group. С радостью и энтузиазмом проводит свободное время, погружаясь в облако Microsoft Azure."
-      photoUrl: /assets/avatar/ALaysha.jpg  
+      name: Alexander Laisha
+      bio: "He has 6 years of experience in developing and designing commercial systems in different business areas. For the last 3 years he's been working with Microsoft Azure cloud platform on projects of varying complexity. At the moment he is involved in a highload application project based on Microsoft Azure platform, which allows users to monitor and manage the status of their car with a mobile phone or a web portal from anywhere in the world. Leader of Belarus Azure Community and speaker at local and external meetups and conferences. With joy and enthusiasm spends his free time by plunging into the cloud of Microsoft Azure."
+      photoUrl: /assets/avatar/ALaysha.jpg   
       links:
         twitter: https://twitter.com/layshaalexander
         facebook: https://www.facebook.com/alexander.laysha
         linkedin: https://www.linkedin.com/in/layshaalexander
   -
-    title: Высокая доступность в гибридном облаке на базе Azure Traffic Manager
-    description: "В докладе расскажем про апробацию различных архитектурных паттернов высокой доступности и отказоустойчивости в многоцодовой конфигурации, а также про реализацию итогового решения на базе Azure Traffic Manager. Мы пытались решить задачу организации максимальной доступности и отказоустойчивости приложений в гибридном облаке, а также миграции комплексных приложений без downtime из одного ЦОД в другой.Решая ее мы перепробовали несколько архитектурных вариантов: Anycast IP, Global IP, Anycast DNS на базе Nginx и bind, а также Azure Traffic Manager. Jelastic – контейнерная платформа, которая может быть установлена и в частный ЦОД, и в глобальное облако, например Microsoft Azure. Также возможен гибридный сценарий, когда часть приложения размещается в частном ЦОД, а другая часть – в одном или нескольких регионов Azure. "
+    title: High availability in a hybrid cloud based on the Azure Traffic Manager
+    description: "During the speech, we will talk about the testing of various high availability and fault-tolerant architectural patterns in a multi-chord configuration, as well as the implementation of the final solution based on Azure Traffic Manager. We tried to find the solution for organization of maximum availability and fault tolerance of applications in a hybrid cloud, as well as the migration of complex applications without downtime from one data center to another. By solving it we have tried several architectural options: Anycast IP, Global IP, Anycast DNS based on Nginx and bind, as well as Azure Traffic Manager. Jelastic is a container platform that can be installed in a private data center as well as in the global cloud, such as Microsoft Azure. A hybrid scenario is also possible, when part of the application is located in a private data center, and the other part is located in one or several Azure regions."
     speaker:
-      name: Дмитрий Лазаренко
-      bio: "Директор по развитию бизнеса в Jelastic. В Jelastic ведет направление бизнес-развития в странах СНГ, ранее был CTO российского офиса. Опыт промышленной разработки больше десяти лет, эксперт в построении распределенных масштабируемых веб-сервисов и промышленных платформ на Java."
+      name: Dmitriy Lazarenko
+      bio: "Director of Business Development in Jelastic. In Jelastic leads the direction of business development in the CIS countries, previously was the CTO of the Russian office. Experience in industrial development more than ten years, an expert in building distributed scalable Web services and industrial platforms in Java."
       photoUrl: /assets/avatar/DLazarenko.png
       links:
         twitter: https://twitter.com/lazarenkod
         linkedin: https://ru.linkedin.com/in/lazarenkod
         facebook: https://www.facebook.com/dmitry.a.lazarenko
   -
-    title: Технологии контейнеризации Microsoft
-    description: "Все чаще мы слышим про контейнеры: в подкастах, на конференциях, возможно, кто-то уже активно использует их в своих проектах или только собирается узнать о них больше. Инновации добрались и до Microsoft, уже в следующем выпуске Windows Server 2016 нам представлены Windows Server Containers. Контейнеры формируют свою экосистему и дают возможность разработчикам создавать приложения нового поколения. Цель доклада – познакомить слушателей с новейшей технологией контейнеризации от Microsoft. Вы узнаете о теории и практике работы с контейнерами под управлением Windows Server 2016 в on premise и облачной среде Microsoft Azure, познакомитесь с основными сценариями использования технологии и увидите реальную работу контейнеризации. Доклад основан на предварительной версии ОС Windows Server 2016 Technical Preview 3. "
+    title: Microsoft containerization technologies
+    description: "We hear about containers more and more: in podcasts, at conferences, it is possible that someone already actively uses them in their projects or is just going to learn more about them. Innovations have reached Microsoft, in the next release of Windows Server 2016 we are presented with Windows Server Containers. Containers form their ecosystem and enable developers to create the new generation applications. The main goal of the speech is to introduce the audience to the latest containerization technology from Microsoft. You will learn about theory and practice of working with containers running Windows Server 2016 in on-premise and Microsoft Azure cloud environment, get familiar with the main scenarios of using the technology and see the real work of containerization. The speech is based on the preliminary version of Windows Server 2016 Technical Preview 3."
     speaker:
-      name: Дмитрий Дурасов
-      bio: "Solution Architect в EPAM Systems. MCT, MCSA, MCTS, MCP, основная область экспертизы – Cloud Solutions, Private and Public Clouds, Virtualization, Continuous Integration, Process Automation, PowerShell. Свой путь в информационных технологиях начал с MK-52, сейчас занимается облачными энтерпрайз решениями. Последние 6 лет работает в компании EPAM Systems, где разрабатывает и внедряет различные решения для крупных заказчиков из финансового и информационного секторов. Активно участвует в жизни белорусского ИT-сообщества, выступает на на конференциях, митапах, семинарах. Автор тренингов по PowerShell и Windows Server. Любит делиться своими знаниями и с удовольствием приобретает новые. В свободное время разрабатывает под мобильные платформы (iOS, Windows Phone)."
+      name: Dmitriy Durasov
+      bio: "Solution Architect at EPAM Systems. MCT, MCSA, MCTS, MCP, The main area of expertise is Cloud Solutions, Private and Public Clouds, Virtualization, Continuous Integration, Process Automation, PowerShell. He started in information technology with the MK-52, now he is engaged in cloud-based enterprise solutions. For the last 6 years he has been working for EPAM Systems, where he develops and implements various solutions for large customers from financial and information sectors. Actively participates in Belarusian IT community, speaks at conferences, meetings, seminars. Author of PowerShell and Windows Server trainings. He likes to share his knowledge and with pleasure learns something new. In his free time he develops for mobile platforms (iOS, Windows Phone)."
       photoUrl: /assets/avatar/DDurasov.png
       links:
         twitter: https://twitter.com/azuregeek
         linkedin: https://www.linkedin.com/in/ddurasau
         facebook: https://www.facebook.com/dzmitry.durasau
   -
-    title: Персонализация мобильных приложений с помощью Azure Mobile Engagement
-    description: "Здесь рассматриваются возможности Azure для персонализации мобильных приложений, сегментации пользователей, глубокой аналитики использования приложения и взаимодействия с пользователями. Доклад ориентирован на мобильных разработчиков. "
+    title: Personalize mobile applications with Azure Mobile Engagement
+    description: "Here we discuss Azure capabilities for personalizing mobile applications, segmenting users, deep analysis of application usage and interaction with users. The speech is targeted to mobile developers."
     speaker:
-      name: Антон Шунков
-      bio: "Эксперт по стратегическим технологиям Microsoft Belarus. Отвечает за работу со стартапами, студентами и профессиональными разработчиками в Беларуси. До Microsoft 2 года разрабатывал в DreamTeam Mobile Windows Phone, специализируется на Universal-приложениях для Windows. Работал Microsoft Student Partner и Xamarin Student Ambassador."
+      name: Anton Shunkov
+      bio: "Expert in strategic technologies at Microsoft Belarus. Responsible for working with the start-ups, students and professional developers in Belarus. Prior to Microsoft, he developed in DreamTeam Mobile for Windows Phone for two years, specialized in Universal-applications for Windows. Worked as Microsoft Student Partner and Xamarin Student Ambassador."
       photoUrl: /assets/avatar/AShunkov.png
       links:
         linkedin: https://www.linkedin.com/in/shunkov
@@ -110,19 +110,19 @@ partners:
       www: https://www.facebook.com/groups/AzureBelarus/
   -
     name: Microsoft
-    description: "Основанная в 1975 году, корпорация Microsoft является мировым лидером в производстве программного обеспечения, предоставлении услуг и разработке Интернет-технологий для персональных компьютеров и серверов. Капитализация Microsoft составляет на сегодня более 210 миллиардов долларов США, а его товарный знак является одним из самых дорогих и известных в мире."
+    description: "Founded in 1975, Microsoft Corporation is a world leader in the software development, services and the development of Internet technologies for personal computers and servers. Capitalization of Microsoft is more than 210 billion US dollars today, and its trademark is one of the most expensive and famous in the world."
     logoUrl: /assets/logo/microsoft.jpg
     links:
       www: https://www.microsoft.com
   -
     name: HTP Belarus
-    description: "Создавая благоприятные условия для развития ИТ-бизнеса, белорусский Парк высоких технологий является одним из крупнейших ИТ-кластеров в Центральной и Восточной Европе."
+    description: "Providing special business environment for IT business, Belarus Hi-Tech Park is one of the leaders among innovative IT clusters in Central and Eastern Europe today."
     logoUrl: /assets/logo/htp-belarus.jpg
     links:
       www: http://www.park.by/
   -
     name: Dev.by
-    description: "dev.by — основанный в 2008 году сайт об индустрии информационных технологий в Беларуси и мире. Помимо свежих новостей, эксклюзивных интервью, аналитических статей, корпоративных блогов и экспертных колонок о происходящем в ИТ-сфере, dev.by представляет уникальную информацию о белорусских ИТ-компаниях, зарплатах, вакансиях и мероприятиях."
+    description: "dev.by — founded in 2008, a website about information technology and industry in Belarus and the world. In addition to the latest news, exclusive interviews, analytical articles, corporate blogs and expert columns on happenings in the IT industry, dev.by presents unique information about Belarusian IT companies, salaries, vacancies and events."
     logoUrl: /assets/logo/devby.jpg
     links:
       www: https://dev.by/
