@@ -47,7 +47,7 @@ sessions:
     description: "During this session we will look at: Microcontrollers, modules and sensors, IoT Hub to gather data and identify devices, Stream Analytics & Storage, WebApp to visualize telemetry data."
     speaker:
       name: Sergey Poplavskiy 
-      bio: "Sergey is responsible for the development of the Microsoft Azure platform and development tools in Ukraine. Over the course of his work he managed to conduct more than 40 deep technical trainings, participated in the development of several projects on the Microsoft Azure platform, and has practical experience in implementing and deployment solutions based on it. For many years he been programming on the .Net platform using Visual Studio, I've implemented several of my own applications for Windows Phone, Windows and Azure platforms. One of the founders of the Laboratory of Internet Things in Microsoft Ukraine"
+      bio: "Sergey is responsible for the development of the Microsoft Azure platform and development tools in Ukraine. Over the course of his work he managed to conduct more than 40 deep technical trainings, participated in the development of several projects on the Microsoft Azure platform, and has practical experience in implementing and deployment solutions based on it. He has been programming on the .Net platform using Visual Studio for many years, he has implemented several applications for Windows Phone, Windows and Azure platforms. One of the founders of the Internet of Things Laboratory at Microsoft Ukraine"
       photoUrl: /assets/avatar/SPoplavskiy.png
       links:
         facebook: https://www.facebook.com/sergey.poplavskiy.35
@@ -69,7 +69,7 @@ sessions:
       links:
   -
     title: Data security in Azure
-    description: "In this report, we will talk about Microsoft Azure technologies that help secure data and restore it in case of damage. The lecture is of an exploratory nature, so it will be interesting to a wide range of listeners, ranging from developers and administrators, to managers and business owners."
+    description: "In this session, we will talk about Microsoft Azure technologies that help secure data and restore it in case of damage. The session is an overview, so it will be interesting to a wide range of listeners, starting from developers and administrators, to managers and business owners."
     speaker:
       name: Eugen Niedaszkowski
       bio: ""
@@ -105,11 +105,11 @@ sessions:
       photoUrl: /assets/avatar/OChorny.jpg
       links:
   -
-    title: Managing devices and mobile applications with Azure Intune
+    title: Managing devices and mobile applications using Azure Intune
     description: "Intune is a cloud-based enterprise mobility management service. With Intune, you can manage mobile devices, Windows workstations and mobile applications that employees use to access company data. At this session you will learn about the possibilities of Azure Intune and see a series of live demonstrations."
     speaker:
       name: Ievgen Liashov  
-      bio: "He have 15 years of experience in IT, the last six of which - as an engineer-architect SCCM, SCOM, MDT and Intune. He worked in Ukraine, USA and Poland. At the moment he work with large customers in France. Five-time winner of the award Microsoft MVP and a number of profile certificates. The author of the blog, Youtube-channel, a series of training events and an active speaker."
+      bio: "He has 15 years of experience in IT, the last six of which - as an engineer-architect SCCM, SCOM, MDT and Intune. He worked in Ukraine, USA and Poland. At the moment he works with large customers in France. Five-time winner of the Microsoft MVP award and a number of profile certificates. The author of the blog, Youtube-channel, a series of training events and an active speaker."
       photoUrl: /assets/avatar/ILiashov.jpg
       links:
         www: http://liashov.com/
@@ -170,7 +170,7 @@ sessions:
     description: ""
     speaker: 
       name: Sergiy Korzh 
-      bio: "Sergiy develops and sells its own software based on the shareware model under the Korzh.com trademark. Korzh.com releases EasyQuery, a set of .NET components for building user-friendly search and filtering interfaces, a member of the iForum organizing committee Technology"
+      bio: "Sergiy develops and sells his own software based on the shareware model under the Korzh.com trademark. Korzh.com releases EasyQuery, a set of .NET components for building user-friendly interfaces for search and filtering data, a member of the iForum organizing team, lead the Technology stream"
       photoUrl: /assets/avatar/SKorzh.jpeg
       links:
         facebook: https://www.facebook.com/sergiy.korzh
@@ -197,7 +197,7 @@ sessions:
         mvp: https://mvp.microsoft.com/en-us/PublicProfile/5002168
   -
     title: Easy life with Azure
-    description: "How for 2 minutes to add monitoring of your application and forget about everything, how to feel like Dr. House and all day to look at the cardiogram of your application sipping coffee, how to draw beautiful graphics and to drive managers crazy, how to get a letter at 2 am that everything was gone and fix bugs before the director calls. During the report, we'll set up a viable model for monitoring application status using Azure Application Insights. We will get acquainted with rialtime telemetry, and on the collected data we will display the analyst for managers. In addition, we learn how to implement the rules of notification within the Smart Detection, to wake up the notorious manager and support, when you find an abnormal behavior of your application. The report will focus on those who plan to use App Insights to monitor an existing application or system, and does not want to collect such a solution from the zoo of various third-party solutions."
+    description: "How to spend 2 minutes to add monitoring for your application and forget about everything, how to feel like Dr. House and to look all day at the cardiogram of your application sipping coffee, how to draw beautiful charts to make managers crazy, how to get an email at 2 AM that everything was gone and fix bugs before the manager's calls. During the session, we'll set up a viable model for monitoring application status using Azure Application Insights. We will get familiar with realtime telemetry, and on the collected data we will display the analytics for managers. In addition, we learn how to implement the notification rules within the Smart Detection, to wake up the notorious manager and support, when you find an abnormal behavior of your application. The report will focus on those who plan to use App Insights to monitor an existing application or system, and doesn't want to collect such a solution from the zoo of various third-party solutions."
     speaker: 
       name: Alexey Yurchenko 
       bio: ""
@@ -247,11 +247,11 @@ sessions:
         facebook: https://www.facebook.com/denis.reznik.5
         twitter: https://twitter.com/DenisReznik
   - 
-    title: Organization of development processes based on VSTS / TFS
-    description: "The variety of software development technologies is increasing every year. There are new opportunities for containerization, the transfer of infrastructure to the cloud, monitoring applications, etc. But the core, which integrates / integrates the team, the technology to achieve the set goals, is VSTS / TFS. In the process of the report, we will discuss what tools VSTS / TFS provides to date to organize an effective development process for teams of different size and focus."
+    title: Development processes organization based on VSTS/TFS
+    description: "The variety of software development technologies is increasing every year. There are new opportunities for containerization, the transfer of infrastructure to the cloud, monitoring applications, etc. But the core, which collaborates/integrates the team, technology to achieve the set of goals is VSTS/TFS. During the session, we will discuss what tools VSTS/TFS currently provides to organize an effective development process for teams of different size and focus."
     speaker: 
       name: Alexander Shamray
-      bio: "Alexander has been working on software development issues for more than 10 years. The main areas of professional activity: project management, configuration and change management, description and adaptation of development processes on the basis of flexible and formal methodologies. The main implementation tools are a group of Microsoft Visual Studio and Project Server products. He has the status of MVP, and is also a certified specialist in the field of Application Lifecycle Management."
+      bio: "Alexander has been working on software development issues for more than 10 years. The main areas of professional activity: project management, configuration and change management, description and adaptation of development processes on the basis of flexible and formal methodologies. The main implementation tools are a group of Microsoft Visual Studio and Project Server products. He has the MVP status, and is also a certified specialist in the field of Application Lifecycle Management."
       photoUrl: /assets/avatar/AShamray.jpg
       links:
   -
@@ -297,18 +297,18 @@ sessions:
         twitter: https://twitter.com/mihailmateev
   -
     title: Building corporate highload infrastructure in Azure
-    description: "The speech will consider the experience of building highly-loaded infrastructure in Azure. First-hand, you will learn how the leading world corporations work with the Microsoft Azure platform, how to deploy thousands of servers in Microsoft Azure, store in the cloud dozens of terabytes of data and millions of files, how cloud infrastructure is built in large companies, how to bypass the pitfalls and bottlenecks and with what architects face when planning to migrate data to the cloud. The speech is aimed at experienced system administrators, architects and engineers DevOps and is based on real practices of working with Azure in the company, which is part of Top 10 Azure Enterprise Customer."
+    description: "The session will consider the experience of building highly-loaded infrastructure in Azure. From the first-hand, you will learn how the leading world corporations work with the Microsoft Azure platform, how to deploy thousands of servers in Microsoft Azure, store in the cloud dozens of terabytes of data and millions of files, how cloud infrastructure is built in large companies, how to bypass the pitfalls and bottlenecks and with what isses the architects face when planning to migrate data to the cloud. The session is aimed at experienced system administrators, architects and DevOps engineers and is based on real working practices with Azure in the company, which is part of Top 10 Azure Enterprise Customer."
     speaker: 
       name: Dzmitry Durasau 
       bio: ""
       photoUrl: /assets/avatar/DDurasau.jpg
       links:
   -
-    title: Protect corporate resources and information with Azure
-    description: "In the mobile and cloud era, Azure Active Directory provides a single sign-on for devices, applications and services from any location. In connection with the increase in the number of devices (including BYOD) and third-party SaaS applications, as well as the growing popularity of work outside corporate networks, IT professionals are increasingly confronted with the task of protecting corporate information. In this session, you will learn how to protect access to company resources using Azure AD Conditional Access and Azure Information Protection."
+    title: Corporate resources and information protection with Azure
+    description: "In the mobile and cloud era, Azure Active Directory provides a single sign-on for devices, applications and services from any location. In connection with the increase of the number of devices (including BYOD) and third-party SaaS applications, as well as the growing popularity of work outside corporate networks, IT professionals are increasingly confronted with the task of corporate information protection. In this session, you will learn how to protect access to company resources using Azure AD Conditional Access and Azure Information Protection."
     speaker:
       name: Ievgen Liashov  
-      bio: "He has 15 years of experience in IT, the last six of which - as an engineer-architect SCCM, SCOM, MDT and Intune. He worked in Ukraine, USA and Poland. At the moment he work with large customers in France. Five-time winner of the award Microsoft MVP and a number of profile certificates. The author of the blog, Youtube-channel, a series of training events and an active speaker."
+      bio: "He has 15 years of experience in IT, the last six of which - as an engineer-architect SCCM, SCOM, MDT and Intune. He worked in Ukraine, USA and Poland. At the moment he works with large customers in France. Five-time winner of the Microsoft MVP award and a number of profile certificates. The author of the blog, Youtube-channel, a series of training events and an active speaker."
       photoUrl: /assets/avatar/ILiashov.jpg
       links:
         www: http://liashov.com/
@@ -367,7 +367,7 @@ partners:
       www: http://www.daxx.com/
   -
     name: DB Best
-    description: "DB Best is known all over the world for its comprehensive data management services, the development and migration of databases and the creation of high-performance web and mobile systems. Hundreds of customers from around the world rely on our developers and architects for cost-effective migration strategies and upgrading their local and cloud assets every day. As Microsoft Gold Partner for the last six years with competencies in Application Development, Data Analytics, Data Platform and Cloud Platform, and in partnership with Amazon Web Services and Google Cloud Platform, we have the experience to make our customers successful. Our experience covers all major databases. Unlike small, narrowly focused competitors, our developers operate with all major development platforms, including iOS, Android, Windows Mobile, PHP, ASP.NET and Java."
+    description: "DB Best is known all over the world for its comprehensive data management services, the development and migration of databases and the creation of high-performance web and mobile systems. Hundreds of customers from all around the world rely on our developers and architects for cost-effective migration strategies and upgrading their local and cloud assets every day. As Microsoft Gold Partner for the last six years with competencies in Application Development, Data Analytics, Data Platform and Cloud Platform, and in partnership with Amazon Web Services and Google Cloud Platform, we have the experience to make our customers successful. Our experience covers all major databases. Unlike small, narrowly focused competitors, our developers operate with all major development platforms, including iOS, Android, Windows Mobile, PHP, ASP.NET and Java."
     logoUrl: /assets/logo/dbbest.jpg
     links:
       www: https://www.dbbest.com/
@@ -385,7 +385,7 @@ partners:
       www: http://developex.com/
   -
     name: .NET Core Ukrainian User Group
-    description: "The community is dedicated to the technology. NET Core - cross-platform implementation of the .NET Framework, open source."
+    description: "The community is dedicated to the .NET Core technology - cross-platform implementation of the .NET Framework, open source."
     logoUrl: /assets/logo/dotNetCoreUA.jpg
     links:
       www: http://dot-net.in.ua/
@@ -403,7 +403,7 @@ partners:
       www: https://www.englishdom.com/
   -
     name: GlobalLogic
-    description: GlobalLogic is an international IT company with a full cycle of software development. The company creates unique products in such areas as digital media, finance, medicine, telecommunications, etc. Among its customers are both promising start-ups and market leaders. GlobalLogic in Ukraine is one of the five largest IT-firms in the country. The company cooperates with more than 2,400 specialists in Kiev, Kharkov, Lviv and Nikolaev.
+    description: GlobalLogic is an international IT company with a full cycle of software development. The company creates unique products in such areas as digital media, finance, medicine, telecommunications, etc. Among its customers are both promising start-ups as well as market leaders. GlobalLogic in Ukraine is one of the five largest IT-firms in the country. The company cooperates with more than 2,400 specialists in Kiev, Kharkov, Lviv and Nikolaev.
     logoUrl: /assets/logo/GlobalLogic.jpg
     links:
       www: http://globallogic.com.ua/
@@ -415,13 +415,13 @@ partners:
       www: http://itea.ua/
   -
     name: STEP Computer Academy
-    description: "Computer Academy STEP is the largest international educational institution specializing in computer education. Our teachers are practicing specialists with experience in the IT industry. They teach what they do not write about in textbooks. The training program meets the requirements that are imposed on young professionals when working for an IT company. Nothing extra. Only that which is useful in work."
+    description: "Computer Academy STEP is the largest international educational institution specializing in computer education. Our teachers are practicing specialists with experience in the IT industry. They teach what you will never read about in textbooks. The training program meets the requirements that are imposed on young professionals to start working for an IT company. Nothing extra. Only what is useful at work."
     logoUrl: /assets/logo/myget.jpg
     links:
       www: http://itstep.org/ua/
   -
     name: Trud.com
-    description: "Trud.com is a universal search engine, specializing in job search and resume on all Russian portals. Trud.com provides a service to find work and staff among a variety of Internet resources for employment. Therefore, for the query entered in the search bar of the site, you always receive up-to-date information on employment in the region of interest to you."
+    description: "Trud.com is a universal search engine, specializing in job and resume search on all Russian portals. Trud.com provides a service to find work and staff among a variety of Internet resources for employment. Therefore, for the query entered in the search bar in the site, you always receive up-to-date information on employment in the region you are interested in."
     logoUrl: /assets/logo/trud_ua.jpg
     links:
       www: http://kiev.trud.com/
@@ -433,7 +433,7 @@ partners:
       facebook: https://www.facebook.com/groups/xamarin.ua/
   -
     name: Yakaboo.ua
-    description: "Yakaboo.ua is the largest online store in Ukraine, having twelve years of experience in the field of online marketing. More than 200 000 publications, more than 600 000 regular customers, only high-quality, licensed products, a specially developed logistics system that allows courier service to deliver the order \"day to day\", 100% revenue growth for several years in a row - the benefits and achievements of Yakaboo. ua, which distinguish our company among others, form its uniqueness."
+    description: "Yakaboo.ua is the largest online store in Ukraine, having twelve years of experience in the field of online marketing. More than 200 000 publications, more than 600 000 regular customers, only high-quality, licensed products, a specially developed logistics system that allows courier service to deliver the order day to day, 100% revenue growth for several years in a row - the benefits and achievements of Yakaboo.ua, which distinguish our company among others, form its uniqueness."
     logoUrl: /assets/logo/yakaboo.jpg
     links:
       www: http://www.yakaboo.ua/
