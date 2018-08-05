@@ -19,7 +19,7 @@ organizers:
 sessions:
   -
     title: Abusing Azure Functions.
-    description: Many of us had at least heard, someone maybe even tried to work with Azure Functions - a serverless platform in Microsoft Azure cloud. From the first glimpse it looks great and even I started to feel a strong desire to rewrite all my Web API`s using my new "favorite framework of the day". At some point it may seem like a lot of benefits, but Azure Functions is just a tool. As any other tool it has usage scenario for which it was designed. And, to benefit from it, you need to know what those scenarios are and to use the tool properly. During this talk I will go through common mistakes of misusing Azure Functions, misunderstanding serverless architecture and suffering from continuous pain till the end of times.
+    description: "Many of us had at least heard, someone maybe even tried to work with Azure Functions - a serverless platform in Microsoft Azure cloud. From the first glimpse it looks great and even I started to feel a strong desire to rewrite all my Web API`s using my new "favorite framework of the day". At some point it may seem like a lot of benefits, but Azure Functions is just a tool. As any other tool it has usage scenario for which it was designed. And, to benefit from it, you need to know what those scenarios are and to use the tool properly. During this talk I will go through common mistakes of misusing Azure Functions, misunderstanding serverless architecture and suffering from continuous pain till the end of times."
     speaker:
       name: Anton Boyko
       bio: "Founder and main speaker at Ukrainian Microsoft Azure Community. 10+ years in application development. Builds apps based on Microsoft Azure platform since 2011. Microsoft Azure technical expert. Microsoft Azure MVP since 2014. Owner and one of the organizers of the most popular Microsoft Azure conferences in Ukraine: Azure Day and Global Azure Bootcamp."
@@ -33,7 +33,7 @@ sessions:
         www: http://boykoant.pro
   -
     title: "Microsoft and AI: how Azure services will help your apps to become smart."
-    description: In this topic, we will speak about Microsoft Cognitive Services, LUIS and Azure Machine Learning tool allowing to add artificial intelligence component to your software.
+    description: "In this topic, we will speak about Microsoft Cognitive Services, LUIS and Azure Machine Learning tool allowing to add artificial intelligence component to your software."
     speaker:
       name: Oleksandr Krakovetskyi
       bio: "I am CEO of DevRain Solutions, IT company from Ukraine. We specialize in web, cloud and mobile solutions (.NET, Xamarin, iOS, Android). In 2013 my company got 'Lead partner in creating mobile solutions on Windows Phone 8 platform' award from Microsoft Ukraine. I am a Microsoft Regional Director during last 8 years and Microsoft Most Valuable Professional during last 6 years. Also I was nominated as Telerik Developer Expert for several years and got 'The Best Professional in Software Architecture' Ukrainian IT award."
@@ -53,7 +53,7 @@ sessions:
         facebook: https://www.facebook.com/sergey.poplavskiy.35
   -
     title: How Far Can ‘Serverless’ Actually Go?
-    description: Azure Functions is getting a lot of traction, which is completely understandable in the fast-paced world of applications developed using Agile methodologies. Comparing the world of IT and software development today with the one 10 years ago, when we knew not only what operating system our application was going to run on but also the exact part number of the server that was running the workload, we can only conclude that PaaS infrastructures have gone a far way! But how far? How far can you go and is actually advisable to go when it comes to externalizing your infrastructure, anyway? Throughout this fast-paced advanced talk we will take the real micro-services way and develop a full application, top-to-bottom using Azure Functions. Seatbelt buckled yet?
+    description: "Azure Functions is getting a lot of traction, which is completely understandable in the fast-paced world of applications developed using Agile methodologies. Comparing the world of IT and software development today with the one 10 years ago, when we knew not only what operating system our application was going to run on but also the exact part number of the server that was running the workload, we can only conclude that PaaS infrastructures have gone a far way! But how far? How far can you go and is actually advisable to go when it comes to externalizing your infrastructure, anyway? Throughout this fast-paced advanced talk we will take the real micro-services way and develop a full application, top-to-bottom using Azure Functions. Seatbelt buckled yet?"
     speaker:
       name: Alex Mang  
       bio: ""
@@ -61,7 +61,7 @@ sessions:
       links:
   -
     title: "Containers in Azure: from infrastructure to deployment"
-    description: In this topic we will learn how to start building and deploying containerized applications in Azure using existing Continuous Integration and Continuous Delivery tools like Visual Studio Team Services and Octopus Deploy. Target audience is developers, system engineers and solution/system architects who has some experience in Docker and interested in how Azure helps to accelerate adoption of containers and microservice architecture.
+    description: "In this topic we will learn how to start building and deploying containerized applications in Azure using existing Continuous Integration and Continuous Delivery tools like Visual Studio Team Services and Octopus Deploy. Target audience is developers, system engineers and solution/system architects who has some experience in Docker and interested in how Azure helps to accelerate adoption of containers and microservice architecture."
     speaker:
       name: Sergii Kryshtop  
       bio: ""
@@ -92,7 +92,7 @@ sessions:
     description: "What is Azure SSAS? Analysis Services is an analytical data engine used in decision support and business analytics, providing the analytical data for business reports and client applications such as Power BI, Excel, Reporting Services reports, and other data visualisation tools."
     speaker:
       name: Eugene Polonychko
-      bio: Eugene Polonichko has over 6 years of experience with SQL Server. He mainly focuses on BI projects (SSAS, SSIS, PowerBI, Azure DWH, Azure SSAS). Eugene is a passionate speaker and SQL community volunteer presenting regularly at PASS SQL Saturday events and local user groups around Ukraine and Europe. Eugene is PASS Chapter Leader. He leads SQL Server User Group Donetsk and he is Data Platform MVP
+      bio: "Eugene Polonichko has over 6 years of experience with SQL Server. He mainly focuses on BI projects (SSAS, SSIS, PowerBI, Azure DWH, Azure SSAS). Eugene is a passionate speaker and SQL community volunteer presenting regularly at PASS SQL Saturday events and local user groups around Ukraine and Europe. Eugene is PASS Chapter Leader. He leads SQL Server User Group Donetsk and he is Data Platform MVP"
       photoUrl: /assets/avatar/EPolonychko.jpg
       links:
         facebook: https://www.facebook.com/mydjeki
@@ -317,7 +317,7 @@ sessions:
 partners:
   -
     name: Microsoft
-    description: Founded in 1975, Microsoft Corporation is a world leader in the production of software, services and the development of Internet technologies for personal computers and servers. Capitalization of Microsoft is today more than 210 billion US dollars, and its trademark is one of the most expensive and famous in the world. Since 2003, Microsoft Ukraine has been operating in Ukraine, whose tasks include the development of the software market, as well as the introduction and localization of the latest technologies in Ukraine.
+    description: "Founded in 1975, Microsoft Corporation is a world leader in the production of software, services and the development of Internet technologies for personal computers and servers. Capitalization of Microsoft is today more than 210 billion US dollars, and its trademark is one of the most expensive and famous in the world. Since 2003, Microsoft Ukraine has been operating in Ukraine, whose tasks include the development of the software market, as well as the introduction and localization of the latest technologies in Ukraine."
     logoUrl: /assets/logo/microsoft.jpg 
     links:
       www: https://www.microsoft.com/uk-ua/
@@ -403,7 +403,7 @@ partners:
       www: https://www.englishdom.com/
   -
     name: GlobalLogic
-    description: GlobalLogic is an international IT company with a full cycle of software development. The company creates unique products in such areas as digital media, finance, medicine, telecommunications, etc. Among its customers are both promising start-ups as well as market leaders. GlobalLogic in Ukraine is one of the five largest IT-firms in the country. The company cooperates with more than 2,400 specialists in Kiev, Kharkov, Lviv and Nikolaev.
+    description: "GlobalLogic is an international IT company with a full cycle of software development. The company creates unique products in such areas as digital media, finance, medicine, telecommunications, etc. Among its customers are both promising start-ups as well as market leaders. GlobalLogic in Ukraine is one of the five largest IT-firms in the country. The company cooperates with more than 2,400 specialists in Kiev, Kharkov, Lviv and Nikolaev."
     logoUrl: /assets/logo/GlobalLogic.jpg
     links:
       www: http://globallogic.com.ua/
