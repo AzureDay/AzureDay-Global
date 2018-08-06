@@ -18,7 +18,7 @@ organizers:
       www: http://boykoant.pro
 sessions:
   -
-    title: 6 полезных привычек разрабочика в команде ИТ Стартапа.
+    title: 6 useful habits of developer in the IT team Startup.
     description: 
     speaker:
       name: Sergey Psekha
@@ -26,7 +26,7 @@ sessions:
       photoUrl: /assets/avatar/_Person.png
       links:
   -
-    title: Кто такие DevOps и какая их миссия?
+    title: Who are DevOps and what is their mission?
     description: 
     speaker:
       name: Viktor Tsykunov
@@ -45,8 +45,8 @@ sessions:
         twitter: https://twitter.com/smereczynski
         linkedin: https://www.linkedin.com/in/smereczynski
   -
-    title: JavaScript и Azure - от идеи к прототипу за 60 минут.
-    description: "Во время данной сессии мы познакомимся с фреймворком Ionic, который позволяет нам очень быстро разрабатывать кросс-платформенные мобильные приложения используя JavaScript. Для того, чтобы приложения могли обмениваться данными, мы будем разрабатывать серверную часть на базе Node.JS и Azure Mobile Apps."
+    title: JavaScript and Azure - from idea to prototype in 60 minutes.
+    description: "During this session we will get acquainted with the Ionic framework, which allows us to very quickly develop cross-platform mobile applications using JavaScript. In order for applications to exchange data, we will develop a server part based on Node.JS and Azure Mobile Apps."
     speaker:
       name: Anton Boyko
       bio: "Founder and main speaker at Ukrainian Microsoft Azure Community. 10+ years in application development. Builds apps based on Microsoft Azure platform since 2011. Microsoft Azure technical expert. Microsoft Azure MVP since 2014. Owner and one of the organizers of the most popular Microsoft Azure conferences in Ukraine: Azure Day and Global Azure Bootcamp."
@@ -59,11 +59,11 @@ sessions:
         mycert: http://www.mycertprofile.com/Profile/8861740279
         www: http://boykoant.pro
   -
-    title: Azure Data Factory - ваш комбайн данных.
-    description: "Что такое Data Factory? Почему данный сервис называют комбайном данных? Облачный ETL? В докладе отвечу на все эти вопросы. Расскажу как использовать фабрику для передачи данных, как проанализировать данные пропущенные через него."
+    title: Azure Data Factory - your data harvester.
+    description: "What is Data Factory? Why is this service called a data harvester? Cloud ETL? In the report, he will answer all these questions. He will tell you how to use the factory for data transfer, how to analyze the data passed through it."
     speaker:
       name: E Polonichko
-      bio: "PASS Chapter Leader. 6 лет работы с MSSQL. В основном занимаюсь BI проектами(SSAS, SSIS, PowerBI, Cognos, Informatica PowerCenter, Pentaho, Tableau). На данный момент работаю Data Warehouse/BI architect."
+      bio: "PASS Chapter Leader. 6 years of working with MSSQL. He mainly deal with BI projects (SSAS, SSIS, PowerBI, Cognos, Informatica PowerCenter, Pentaho, Tableau). At the moment he works Data Warehouse / BI architect."
       photoUrl: /assets/avatar/EPolonichko.jpg
       links:
         twitter: https://twitter.com/EvgenPolonichko
@@ -73,7 +73,7 @@ sessions:
     description: ""
     speaker:
       name: Valentine Radchuk
-      bio: ".NET Technical Lead в компании Cogniance. Профессионально занимается разработкой с 2007 года. Имеет большой опыт с .NET технологиями для разработки десктоп, бэкенд и веб приложений."
+      bio: ". NET Technical Lead at Cogniance. Professionally engaged in development since 2007. Has extensive experience with. NET technologies for desktop development, backend and web applications."
       photoUrl: /assets/avatar/VRadchuk.jpg
       links:
   -
@@ -81,7 +81,7 @@ sessions:
     description: ""
     speaker:
       name: Vladimir Bezmaly
-      bio: "Автор более 250 статей, изданных в Украине и России. Обладатель статуса Microsoft Most Valuable Professional в области Consumer Security Microsoft Security Trusted Advisor. Kaspersky Certified Consultant. Kaspersky Certified Trainer. Опыт работы в ИТ почти 40 лет. В ИБ порядка 25 лет."
+      bio: "Author of more than 250 articles published in Ukraine and Russia. The holder of Microsoft Most Valuable Professional status in the field of Consumer Security Microsoft Security Trusted Advisor. Kaspersky Certified Consultant. Kaspersky Certified Trainer. Experience in IT almost 40 years. In the IS about 25 years of experience."
       photoUrl: /assets/avatar/VBezmaly.jpg
       links:
         facebook: https://www.facebook.com/vlad.bezmaly
@@ -107,11 +107,11 @@ sessions:
         linkedin: https://bg.linkedin.com/in/mmateev
         twitter: https://twitter.com/mihailmateev
   -
-    title: Введение в Cross-Platform Mobile DevOps.
-    description: "Современные средства управления разработкой позволяют покрыть полный цикл выпуска мобильных приложений от разработки до тестирования и публикации в магазин. Во время мастер класса мы проделаем путь от создания мобильного приложения, подключим в него аналитику HokeyApps, настроим автоматизированное построение и тестирование в Xamarin Test Cloud используя Visual Studio Team Services."
+    title: Introduction to Cross-Platform Mobile DevOps.
+    description: "Modern development management tools allow you to cover the full cycle of release of mobile applications from development to testing and publishing to the store. During the master class, we will go through the creation of a mobile application, connect the HokeyApps analytics into it, configure automated building and testing in the Xamarin Test Cloud using Visual Studio Team Services."
     speaker:
       name: Ihor Leontiev
-      bio: "С 2012 .Net разработчик в Украине, с 2013 работаю с платформой Microsoft Azure. В 2014 получил статус Microsoft Student Partner и в это же время начал активно участвовать в технических конференциях. Сегодня вовлечен в процесс правильного построения процесса разработки и использования DevOps практик в качестве Communicative Intelligence and Innovation Development на предприятии iafoo.com, Монпелье, Франция."
+      bio: "Since 2012.Net developer in Ukraine, since 2013 he has been working with the Microsoft Azure platform. In 2014 received the status of Microsoft Student Partner and at the same time began to actively participate in technical conferences. Today is involved in the process of properly building the process of developing and using DevOps practices as Communicative Intelligence and Innovation Development at iafoo.com, Montpellier, France."
       photoUrl: /assets/avatar/ILeontyev.jpg
       links:
         twitter: https://twitter.com/LeontievIhor
@@ -130,7 +130,7 @@ sessions:
         twitter: https://twitter.com/WasilewskiEmil
         www: http://zapytajemila.pl/
   -
-    title: Нагрузочное тестирование веб приложения из облака.
+    title: Load testing of web applications from the cloud.
     description: ""
     speaker:
       name: Anton Boyko
@@ -144,11 +144,11 @@ sessions:
         mycert: http://www.mycertprofile.com/Profile/8861740279
         www: http://boykoant.pro
   -
-    title: Жизнь без хлопот в мире IoT.
+    title: Life without the hassle in the world of IoT.
     description: ""
     speaker:
       name: Sergey Poplavskiy
-      bio: "Cотрудник компании Microsoft, который отвечает за развитие платформы Microsoft Azure в Украине. За время своей работы он успел провести более 30 глубоких технических тренингов по этой тематике, участвовал в разработке множества проектов на платформе Microsoft Azure."
+      bio: "The employee of Microsoft, which is responsible for the development of the Microsoft Azure platform in Ukraine. During his work, he managed to conduct more than 30 deep technical trainings on this topic, participated in the development of many projects on the platform Microsoft Azure."
       photoUrl: /assets/avatar/SPoplavskiy.png
       links:
         linkedin: https://www.linkedin.com/profile/view?id=137759362
@@ -163,11 +163,11 @@ sessions:
       links:
         facebook: https://www.facebook.com/sergii.kryshtop
   -
-    title: Практики построения файловых хранилищ в Azure.
-    description: "Дмитрий Дурасов делится опытом построения высоконагруженных хранилищ в Azure. Только реальные продакшн практики: вы узнаете из первых рук, как хранить в облаке десятки террабат и миллионы файлов, как обойти подводные камни и с чем сталкиваются архитекторы при планировании миграции данных в облако. Никакого маркетингового булшита, доклад уровня 300-400 и ориентирован на опытных системных администраторов, архитекторов и девопсов."
+    title: Practice of building file storages in Azure.
+    description: "Dmitry Durasov shares his experience of building highly loaded storage facilities in Azure. Only real production practices: you will learn first-hand how to store dozens of terrabats and millions of files in the cloud, how to bypass the pitfalls and what architects face when planning to migrate data to the cloud. There is no marketing shit, session is 300-400 level and is oriented to experienced system administrators, architects and devops."
     speaker:
       name: Dmitriy Durasov
-      bio: "MCT, MCSA, MCTS, MCP, основная область экспертизы – Cloud Solutions, Private and Public Clouds, Virtualization, Continuous Integration, Process Automation, PowerShell. Свой путь в информационных технологиях начал с MK-52, сейчас занимается облачными энтерпрайз решениями. Последние 6 лет работает в компании EPAM Systems, где разрабатывает и внедряет различные решения для крупных заказчиков из финансового и информационного секторов."
+      bio: "MCT, MCSA, MCTS, MCP, the main area of expertise is Cloud Solutions, Private and Public Clouds, Virtualization, Continuous Integration, Process Automation, PowerShell. His path in information technology began with the MK-52, now he is engaged in cloud-based enterprise solutions. For the last 6 years he has been working for EPAM Systems, where he develops and implements various solutions for large customers from the financial and information sectors."
       photoUrl: /assets/avatar/DDurasov.png
       links:
         twitter: https://twitter.com/azuregeek
@@ -175,19 +175,19 @@ sessions:
         facebook: https://www.facebook.com/dzmitry.durasau
   -
     title: SQL Server Stretch Database.
-    description: "Технология Stretch Database позволяет динамически переносить 'горячие' и 'холодные' данные из SQL Server 2016 в Azure. В рамках лабораторной работы, мы посмотрим как настраивать Stretch Database и какие возможные проблемы нас ожидают при использовании данной технологии."
+    description: "Stretch Database technology allows you to dynamically transfer 'hot' and 'cold' data from SQL Server 2016 to Azure. In the framework of laboratory work, we will look at how to customize the Stretch Database and what possible problems await us when using this technology."
     speaker:
       name: Sergey Syrovatchenko
-      bio: "Работаю в компании Devart на позиции SQL Server DBA. Сейчас за плечами 5 лет опыта работы с SQL Server. Профессиональный круг интересов - оптимизация запросов и разработка архитектуры баз данных."
+      bio: "He works at Devart at the SQL Server DBA position. Now he has 5 years experience working with SQL Server. Professional interests - optimization of queries and development of database architecture."
       photoUrl: /assets/avatar/SSyrovatchenko.jpg
       links:
         linkedin: https://www.linkedin.com/in/sergeysyrovatchenko
   -
-    title: Разработка ботов с помощью Bot Framework и Azure Cognitive Services.
-    description: "Хотя боты существуют уже давно, сейчас их использование получает колоссальный интерес. CUI (Conversational User Interface) становится популярнее приложений и веб-сервисов: ведь можно заказать пиццу или вызвать такси просто початившись с ботов в любимом мессенджере. В рамках доклада мы рассмотрим использование BotFramework - нового фреймворка от Microsoft для написания ботов на C#, и интеграции готового бота с мессенджерами. Также, мы рассмотрим LUIS из Azure Cognitive Services - сервис, позволяющий распознавать произвольные сообщения от пользователя, определять намерения по сообщению и выделять из него значимую информацию."
+    title: Bot development using Bot Framework and Azure Cognitive Services.
+    description: "Although the bots have existed for a long time, now their use is of enormous interest. CUI (Conversational User Interface) is becoming more popular than applications and web services: after all, you can order a pizza or call a taxi just by chatting with bots in your favorite instant messenger. Within the framework of the report, we will look at the use of BotFramework - a new framework from Microsoft for writing bots in C #, and integrating a ready bot with instant messengers. Also, we will look at LUIS from Azure Cognitive Services, a service that allows you to recognize arbitrary messages from a user, determine intentions on a message, and extract meaningful information from it."
     speaker:
       name: Anton Vidishchev
-      bio: "Антон - Microsoft MVP по Azure и активный спикер на технических конференциях. Его специализация -  облако Microsoft Azure. Антон руководит технической командой из 90 человек в Украине, разрабатывающий комплекс финансовых систем для американского рынка. Также Антон является одним из организаторов одесского .NET сообщества."
+      bio: "Anton - Microsoft MVP for Azure and active speaker at technical conferences. His specialization is the Microsoft Azure cloud. Anton leads a technical team of 90 people in Ukraine, developing a set of financial systems for the US market. He is also one of the organizers of the Odessa .NET community."
       photoUrl: /assets/avatar/AVidishchev.jpg
       links:
         linkedin: https://www.linkedin.com/in/antonvidishchev
@@ -221,29 +221,29 @@ sessions:
       photoUrl: /assets/avatar/MMateev.jpg
       links:
   -
-    title: Миграция в Azure Service Fabric.
-    description: "На конференции Build2016 Microsoft анонсировал выход в GA нового сервиса – Azure Service Fabric, который ориентирован на разработку приложений с использованием подхода микросервисной архитектуры. В рамках доклада мы познакомимся с Azure Service Fabric, а также рассмотрим пример переноса небольшого IoT приложения, построенного с использованием Azure Cloud Service на новую архитектуру на базе Azure Service Fabric."
+    title: Migration to Azure Service Fabric.
+    description: "At the Build2016 conference, Microsoft announced the release of a new service in GA - Azure Service Fabric, which is focused on developing applications using the approach of micro-service architecture. As part of the report, we will get acquainted with Azure Service Fabric, and also consider an example of the transfer of a small IoT application built using Azure Cloud Service to a new architecture based on Azure Service Fabric."
     speaker:
-      name: АЛЕКСАНДР Laisha
-      bio: "За плечами – 7 лет опыта разработки и проектирования коммерческих систем в разных бизнес областях. Последние 3 года работает с облачной платформой Microsoft Azure на проектах различной сложности. Работает в компании EPAM Systems на позиции Chief Software Engineer и занимается миграцией выскоконагруженного eBilling приложения в облако Microsoft Azure. Microsoft Azure MVP, лидер и постоянный докладчик Azure сообщества в РБ - Belarus Azure User Group."
+      name: Alexander Laisha
+      bio: "Behind him - 7 years of experience in the development and design of commercial systems in different business areas. The last 3 years working with the Microsoft Azure cloud platform on projects of varying complexity. He works for EPAM Systems as Chief Software Engineer and is engaged in the migration of a highly eBilling application to the Microsoft Azure cloud. Microsoft Azure MVP, leader and permanent speaker of the Azure community in Belarus - Belarus Azure User Group."
       photoUrl: /assets/avatar/ALaisha.png
       links:
         twitter: https://twitter.com/layshaalexander
         facebook: https://www.facebook.com/alexander.laysha
   -
     title: SQL Server AlwaysOn & Azure IaaS.
-    description: "Во время данного доклада слушатели будут ознакомлены с технологией SQL Server Always On и историей её развития начиная с момента появления и заканчивая анонсированным SQL Server 2016. Докладчик расскажет и продемонстрирует создание групп доступности (High Availability Groups) в среде виртуальных машин, созданных с помощью менеджера ресурсов (Resource Manager). Будут рассмотрены отличия от машин, созданных с помощью классического портала (Classic Portal) и от сред, построенных на собственном оборудовании. Отдельное внимание будет уделенно территориально распределённым кластерам, вопросам отказоустойчивости и балансирования нагрузки. Доклад предназначен для специалистов со средним и высоким уровнем подготовки в области баз данных и облачных технологий."
+    description: "During this sessions, students will be introduced to SQL Server Always On technology and its development history from the time it was launched to the announced SQL Server 2016. The speaker will explain and demonstrate the creation of High Availability Groups in a virtual machine environment created with the resource manager (Resource Manager). The differences from the machines created with the help of the classical portal (Classic Portal) and from the environments built on own equipment will be considered. Separate attention will be paid to territorially distributed clusters, issues of fault tolerance and load balancing. The report is intended for specialists with medium and high level of training in the field of databases and cloud technologies."
     speaker:
       name: Eugen Niedaszkowski
-      bio: "Евгений Недашковский – администратор баз данных, получивший свой опыт в таких гигантах как УкрАВТО, Укртелеком и КПМГ. В данный момент Евгений работает в американской компании где занимается сопровождением нескольких тысяч баз данных в геораспределённых кластерах."
+      bio: "Eugen Niedaszkowski is a database administrator who has gained experience in such giants as UkrAVTO, Ukrtelecom and KPMG. At the moment Evgeniy works in an American company where he is responsible for tracking several thousand databases in geographically distributed clusters."
       photoUrl: /assets/avatar/ENiedaszkowski.jpg
       links:
         linkedin: https://ua.linkedin.com/in/nedash
   -
     title: Azure Active Directory Application Proxy.
-    description: "Трек будет рассматривать возможности публикации корпоративных ресурсов при помощи Azure Active Directory Application Proxy."
+    description: "The track will consider the ability to publish corporate resources using the Azure Active Directory Application Proxy."
     speaker:
-      name: АЛЕКСАНДР ТКАЧЕНКО
+      name: Alexander Tkachenko
       bio: ""
       photoUrl: /assets/avatar/_Person.png
       links:
@@ -252,7 +252,7 @@ sessions:
 partners:
   -
     name: Microsoft
-    description: Заснована в 1975 році корпорація Microsoft є визнаним світовим лідером у галузі розробки програмного забезпечення, а також у наданні послуг та рішень, які допомагають людям та компаніям повністю реалізувати свій потенціал. З 2003 року в Україні працює компанія «Майкрософт Україна», до завдань якої входить розвиток ринку програмного забезпечення, а також впровадження і локалізація новітніх технологій на території Україні.
+    description: Founded in 1975, Microsoft is recognized as the world leader in software development, as well as in providing services and solutions that help people and companies to fully realize their potential. Since 2003, Microsoft Ukraine has been operating in Ukraine, whose tasks include the development of the software market, as well as the introduction and localization of the latest technologies in Ukraine.
     logoUrl: /assets/logo/microsoft.jpg
   -
     name: EPAM
@@ -268,13 +268,13 @@ partners:
       www: http://onlizer.com/
   -
     name: Ciklum
-    description: "Ciklum — датская компания, основанная в 2002 году, работающая в сфере аутсорсинга разработки программного обеспечения. Ciklum — это международная компания с офисами продаж в Дании, Швеции, Великобритании, Германии, Швейцарии и Нидерландах, Израиле, Америке и центрами разработки в крупных городах Украины (Киев, Харьков, Днепропетровск, Львов, Одесса и Винница), в Беларуси (Минск) и Пакистане (Лахор, Исламабад). Компания входит в пятерку крупнейших ИТ компаний Украины."
+    description: "Ciklum is a Danish company, founded in 2002, working in the field of software development outsourcing. Ciklum is an international company with sales offices in Denmark, Sweden, Great Britain, Germany, Switzerland and the Netherlands, Israel, America and development centers in major cities of Ukraine (Kiev, Kharkiv, Dnepropetrovsk, Lviv, Odessa and Vinnitsa), Belarus (Minsk) and Pakistan (Lahore, Islamabad). The company is one of the five largest IT companies in Ukraine."
     logoUrl: /assets/logo/ciklum.jpg
     links:
       www: https://www.ciklum.com/
   -
     name: UCloud
-    description: "Национальное публичное облако."
+    description: "National Public Cloud."
     logoUrl: /assets/logo/UCloud.jpg
     links:
       www: http://ucloud.ua/
@@ -298,7 +298,7 @@ partners:
       www: https://myget.org/
   -
     name: Devart
-    description: "Devart – одна из ведущих компаний по разработке программного обеспечения для работы с базами данных, ALM решений, провайдеров для различных серверов баз данных, облачных решений для интеграции и резервного копирования данных. Линейка инструментов для работы с базами данных включает в себя самостоятельные приложения и расширения для интегрированных сред разработки, такие как: плагины для SSMS; ADO.NET провайдеры; ODBC драйверы; SSIS DataFlow компоненты; надстройки для Excel; компоненты доступа к базам данных для Delphi; dbExpress драйверы; Skyvia — облачное решение для интеграции, резервного копирования облачных данных и управления данными. Skyvia обеспечивает легко настраиваемую интеграцию облачных и реляционных данных без необходимости писать код, предоставляет надежный бэкап облачных данных с быстрым восстановлением и позволяет работать с данными при помощи SQL запросов."
+    description: "Devart was founded in 1997 and today it is one of the leading developers of database software, ALM solutions, providers for various database servers, cloud solutions for integration and data backup. The company also implements projects in the field of WEB and MOBILE directions."
     logoUrl: /assets/logo/devart.jpg
     links:
       www: https://www.devart.com/
@@ -309,32 +309,32 @@ partners:
     links:
       www: http://cloudmonix.com/
   -
-    name: Компьютерная Академия ШАГ
-    description: "Компьютерная Академия ШАГ – крупнейшее международное учебное заведение, специализирующееся на компьютерном образовании. Наши преподаватели – это практикующие специалисты с опытом работы в IT-индустрии. Они учат тому, о чем не пишут в учебниках. Программа обучения соответствует требованиям, которые предъявляются к молодым специалистам при трудоустройстве в IT-компанию. Ничего лишнего. Только то, что пригодится в работе."
+    name: STEP Computer Academy
+    description: "Computer Academy STEP is the largest international educational institution specializing in computer education. Our teachers are practicing specialists with experience in the IT industry. They teach what you will never read about in textbooks. The training program meets the requirements that are imposed on young professionals that start working for an IT company. Nothing extra. Only what is useful at work."
     logoUrl: /assets/logo/myget.jpg
     links:
       www: http://itstep.org/ua/
   -
-    name: ИТ сообщество Украины
-    description: Проект «ИТ сообщество Украины» основан в начале 2014 года c целью создания ресурса, на котором ИТ-специалисты разного уровня смогут получить актуальную информацию о различных продуктах, а также особенностях их конфигурирования. На данный момент сообщество поддерживается усилиями 10-ти авторов, которые представляют различные направления информационных технологий. Это дает возможность проекту охватить много направлений, что в конечном итоге будет более интересно читателю.
+    name:  IT community of Ukraine
+    description: The project "IT community of Ukraine" was founded in early 2014 with the goal of creating a resource in which IT specialists at different levels will be able to obtain up-to-date information about various products and the features of their configuration. At the moment, the community is supported by the efforts of 10 authors who represent various areas of information technology. This allows the project to cover many areas, which will be more interesting for the reader as result.
     logoUrl: /assets/logo/it-community.jpg
     links:
       www: https://it-community.in.ua/
   -
     name: DataArt
-    description: Мы — американская компания DataArt, профессионалы и при этом хорошие люди, которые с 97-го года занимаются разработкой ПО и стараются радовать им многочисленных заказчиков, среди которых — технологические компании и инвестиционные фонды, представители рынка мобильных технологий, онлайн-путешествий, масс-медиа, медицины, Интернет-проектов (подробности — на www.dataart.com). Штаб-квартира расположена в Нью-Йорке, центры разработки находятся в Воронеже, Днепропетровске, Киеве, Львове, Люблине, Одессе, Санкт-Петербурге, Харькове и Херсоне. У компании есть представительский офис в Лондоне (Великобритания) и представительство в Цуге (Швейцария). Мы все очень разные, поэтому составляем настоящую команду, где каждый может реализовать себя. Мы — во всех смыслах сервисная компания, наша главная задача — находить пути, чтобы делать счастливыми и коллег, и заказчиков. В наших офисах удобно и приятно работать, мы всегда готовы поделиться друг с другом знаниями, поддержать и помочь не только в профессиональных, но и в личных вопросах.
+    description: We are an American company - DataArt, professionals and at the same time are good people who since 1997 are engaged in software development and try to please numerous customers, including technology companies and investment funds, representatives of the mobile technology market, online travel, mass media, medicine, Internet projects (details - on www.dataart.com). Headquartered is in New York, development centers are located in Voronezh, Dnipropetrovsk, Kiev, Lviv, Lublin, Odessa, St. Petersburg, Kharkov and Kherson. The company has a representative office in London (UK) and a representative office in Zug (Switzerland). We are all very different, so we are a real team, where everyone can realize themselves. We are in all senses a service company, our main task is to find ways to make our colleagues and customers happy. In our offices it is convenient and pleasant to work, we are always ready to share knowledge, support and help not only in professional, but also in personal matters.
     logoUrl: /assets/logo/dataart.jpg
     links:
       www: http://www.dataart.com/
   -
     name: HotWork
-    description: "Трудоустройство и поиск работы в Украине."
+    description: "Employment and job search in Ukrainе."
     logoUrl: /assets/logo/hotwork.jpg
     links:
       www: http://hotwork.com.ua/
   -
     name: Daxx
-    description: "Daxx – это голландская IT компания, которая с 1999 года предоставляет удаленных программистов для клиентов из Европы и США, а так же способствует трудоустройству украинских IT-специалистов в Нидерландах и других европейских странах. В 2015 году компания вошла в пятерку лучших работодателей Украины в категории (200-800 сотрудников) по версии DOU."
+    description: "Daxx is a Dutch IT company that has been providing remote programmers for clients from Europe and USA since 1999, and it also facilitates the employment of Ukrainian IT specialists in the Netherlands and other European countries. In 2015, the company entered the top five employers of Ukraine in the category (200-800 employees) according to DOU.ua."
     logoUrl: /assets/logo/daxx.jpg
     links:
       www: http://www.daxx.com/
@@ -346,13 +346,13 @@ partners:
       www: http://www.infopulse.com/
   -
     name: Startup Network
-    description: "Инвестиционная платформа для предпринимателей, инвесторов и профессионалов. Инвестируйте в выдающиеся стартапы, находите инвестиции и кредиты для своего бизнеса, вовлекайте в свои идеи лучших профессионалов."
+    description: "Investment platform for entrepreneurs, investors and professionals. Invest in outstanding start-ups, find investments and loans for your business, involve the best professionals in your ideas."
     logoUrl: /assets/logo/StartupNetwork.jpg
     links:
       www: https://startup.ua/
   -
     name: IT Education Academy
-    description: "ITEA предлагает качественное обучение специалистов по двум направлениям: авторизованное вендорское обучение и авторские курсы лучших специалистов-практиков, работающих в IТ-компаниях – лидерах мирового масштаба. Для лучших выпускников вечерних курсов предлагается помощь в трудоустройстве и возможность прохождения стажировки в компаниях-партнерах IT Education Academy. Более 2500 молодых айтишников начали свой путь с обучения в ITEA, а большинство из них продолжают успешно работать в IT-сфере."
+    description: "ITEA offers high-quality training of specialists in two areas: authorized Vendor training and author's courses from the best practitioners working in world-class IT companies. For the best graduates of the evening courses, assistance in employment and the possibility of internship in partner companies of IT Education Academy is offered. More than 2500 young IT people started their way from ITEA training, and most of them continue to work successfully in the IT field."
     logoUrl: /assets/logo/ITEA.jpg
     links:
       www: http://itea.ua/
