@@ -7,7 +7,7 @@ venue:
 organizers:
   -
     name: Anton Boyko
-    bio: "Founder and main speaker at Ukrainian Microsoft Azure Community. 10+ years in application development. Builds apps based on Microsoft Azure platform since 2011. Microsoft Azure technical expert. Microsoft Azure MVP since 2014. Owner and one of the organizers of the most popular Microsoft Azure conferences in Ukraine: Azure Day and Global Azure Bootcamp."
+    bio: "Founder and main speaker of Ukrainian Microsoft Azure Community. 10+ years in application development. Builds apps based on Microsoft Azure platform since 2011. Microsoft Azure technical expert. Microsoft Azure MVP since 2014. Owner and one of the organizers of the most popular Microsoft Azure conferences in Ukraine: Azure Day and Global Azure Bootcamp."
     photoUrl: /assets/avatar/ABoyko.png
     links:
       facebook: https://www.facebook.com/boyko.ant
@@ -19,10 +19,10 @@ organizers:
 sessions:
   -
     title: Abusing Azure Functions.
-    description: "Many of us had at least heard, someone maybe even tried to work with Azure Functions - a serverless platform in Microsoft Azure cloud. From the first glimpse it looks great and even I started to feel a strong desire to rewrite all my Web API`s using my new "favorite framework of the day". At some point it may seem like a lot of benefits, but Azure Functions is just a tool. As any other tool it has usage scenario for which it was designed. And, to benefit from it, you need to know what those scenarios are and to use the tool properly. During this talk I will go through common mistakes of misusing Azure Functions, misunderstanding serverless architecture and suffering from continuous pain till the end of times."
+    description: "Many of us had at least heard, someone maybe even tried to work with Azure Functions - a serverless platform in Microsoft Azure cloud. From the first glimpse it looks great and even I started to feel a strong desire to rewrite all my Web APIs using my new "favorite framework of the day". At some point it may seem like a lot of benefits, but Azure Functions is just a tool. As any other tool it has usage scenario for which it was designed. And, to benefit from it, you need to know what those scenarios are and to be able to use the tool properly. During this talk I will go through common mistakes of misusing Azure Functions, misunderstanding serverless architecture and suffering from continuous pain till the end of times."
     speaker:
       name: Anton Boyko
-      bio: "Founder and main speaker at Ukrainian Microsoft Azure Community. 10+ years in application development. Builds apps based on Microsoft Azure platform since 2011. Microsoft Azure technical expert. Microsoft Azure MVP since 2014. Owner and one of the organizers of the most popular Microsoft Azure conferences in Ukraine: Azure Day and Global Azure Bootcamp."
+      bio: "Founder and main speaker of Ukrainian Microsoft Azure Community. 10+ years in application development. Builds apps based on Microsoft Azure platform since 2011. Microsoft Azure technical expert. Microsoft Azure MVP since 2014. Owner and one of the organizers of the most popular Microsoft Azure conferences in Ukraine: Azure Day and Global Azure Bootcamp."
       photoUrl: /assets/avatar/ABoyko.png
       links:
         facebook: https://www.facebook.com/boyko.ant
@@ -32,7 +32,7 @@ sessions:
         mycert: http://www.mycertprofile.com/Profile/8861740279
         www: http://boykoant.pro
   -
-    title: "Microsoft and AI: how Azure services will help your apps to become smart."
+    title: "Microsoft and AI: how Azure services will help your apps become smart."
     description: "In this topic, we will speak about Microsoft Cognitive Services, LUIS and Azure Machine Learning tool allowing to add artificial intelligence component to your software."
     speaker:
       name: Oleksandr Krakovetskyi
@@ -47,13 +47,13 @@ sessions:
     description: "During this session we will look at: Microcontrollers, modules and sensors, IoT Hub to gather data and identify devices, Stream Analytics & Storage, WebApp to visualize telemetry data."
     speaker:
       name: Sergey Poplavskiy 
-      bio: "Sergey is responsible for the development of the Microsoft Azure platform and development tools in Ukraine. Over the course of his work he managed to conduct more than 40 deep technical trainings, participated in the development of several projects on the Microsoft Azure platform, and has practical experience in implementing and deployment solutions based on it. He has been programming on the .Net platform using Visual Studio for many years, he has implemented several applications for Windows Phone, Windows and Azure platforms. One of the founders of the Internet of Things Laboratory at Microsoft Ukraine"
+      bio: "Sergey is responsible for the development of Microsoft Azure platform and development tools in Microsoft Ukraine. Over the course of his work he managed to conduct more than 40 deep technical trainings, participated in the development of several projects on Microsoft Azure platform, and has practical experience in deployment of solutions based on it. He has been working with .Net platform using Visual Studio for many years, he has implemented several applications for Windows Phone, Windows and Azure platforms. One of the founders of the Internet of Things Laboratory at Microsoft Ukraine"
       photoUrl: /assets/avatar/SPoplavskiy.png
       links:
         facebook: https://www.facebook.com/sergey.poplavskiy.35
   -
     title: How Far Can ‘Serverless’ Actually Go?
-    description: "Azure Functions is getting a lot of traction, which is completely understandable in the fast-paced world of applications developed using Agile methodologies. Comparing the world of IT and software development today with the one 10 years ago, when we knew not only what operating system our application was going to run on but also the exact part number of the server that was running the workload, we can only conclude that PaaS infrastructures have gone a far way! But how far? How far can you go and is actually advisable to go when it comes to externalizing your infrastructure, anyway? Throughout this fast-paced advanced talk we will take the real micro-services way and develop a full application, top-to-bottom using Azure Functions. Seatbelt buckled yet?"
+    description: "Azure Functions are getting a lot of traction, which is completely understandable in the fast-paced world of applications developed using Agile methodologies. Comparing the world of IT and software development today with the one 10 years ago, when we knew not only what operating system our application was going to run on but also the exact part number of the server that was running the workload, we can only conclude that PaaS infrastructures have made great progress and moved far ahead! But how far? How far can you go and how far is actually advisable to go when it comes to externalizing your infrastructure, anyway? Throughout this fast-paced advanced talk we will take the real microservices approach and develop a full application, top-to-bottom using Azure Functions. Seatbelt buckled yet?"
     speaker:
       name: Alex Mang  
       bio: ""
@@ -61,7 +61,7 @@ sessions:
       links:
   -
     title: "Containers in Azure: from infrastructure to deployment"
-    description: "In this topic we will learn how to start building and deploying containerized applications in Azure using existing Continuous Integration and Continuous Delivery tools like Visual Studio Team Services and Octopus Deploy. Target audience is developers, system engineers and solution/system architects who has some experience in Docker and interested in how Azure helps to accelerate adoption of containers and microservice architecture."
+    description: "In this topic we will learn how to start building and deploying containerized applications in Azure using existing Continuous Integration and Continuous Delivery tools like Visual Studio Team Services and Octopus Deploy. Target audience is developers, system engineers and solution/system architects who have some experience in Docker and interested in how Azure helps to accelerate adoption of containers and microservice architecture."
     speaker:
       name: Sergii Kryshtop  
       bio: ""
@@ -69,7 +69,7 @@ sessions:
       links:
   -
     title: Data security in Azure
-    description: "In this session, we will talk about Microsoft Azure technologies that help secure data and restore it in case of damage. The session is an overview, so it will be interesting to a wide range of listeners, starting from developers and administrators, to managers and business owners."
+    description: "In this session, we will talk about Microsoft Azure technologies that help us secure data and restore it in case of damage. The session is an overview, so it will be interesting to a wide range of listeners, starting from developers and administrators, to managers and business owners."
     speaker:
       name: Eugen Niedaszkowski
       bio: ""
@@ -92,7 +92,7 @@ sessions:
     description: "What is Azure SSAS? Analysis Services is an analytical data engine used in decision support and business analytics, providing the analytical data for business reports and client applications such as Power BI, Excel, Reporting Services reports, and other data visualisation tools."
     speaker:
       name: Eugene Polonychko
-      bio: "Eugene Polonichko has over 6 years of experience with SQL Server. He mainly focuses on BI projects (SSAS, SSIS, PowerBI, Azure DWH, Azure SSAS). Eugene is a passionate speaker and SQL community volunteer presenting regularly at PASS SQL Saturday events and local user groups around Ukraine and Europe. Eugene is PASS Chapter Leader. He leads SQL Server User Group Donetsk and he is Data Platform MVP"
+      bio: "Eugene Polonichko has over 6 years of experience with SQL Server. He mainly focuses on BI projects (SSAS, SSIS, PowerBI, Azure DWH, Azure SSAS). Eugene is a passionate speaker and a SQL community volunteer presenting regularly at PASS SQL Saturday events and local user groups around Ukraine and Europe. Eugene is PASS Chapter Leader. He leads SQL Server User Group Donetsk and he is a Data Platform MVP"
       photoUrl: /assets/avatar/EPolonychko.jpg
       links:
         facebook: https://www.facebook.com/mydjeki
@@ -106,20 +106,20 @@ sessions:
       links:
   -
     title: Managing devices and mobile applications using Azure Intune
-    description: "Intune is a cloud-based enterprise mobility management service. With Intune, you can manage mobile devices, Windows workstations and mobile applications that employees use to access company data. At this session you will learn about the possibilities of Azure Intune and see a series of live demonstrations."
+    description: "Intune is a cloud-based enterprise mobility management service. With Intune, you can manage mobile devices, Windows workstations and mobile applications that employees use to access company data. At this session you will learn about features and possible usages of Azure Intune and see a series of live demonstrations."
     speaker:
       name: Ievgen Liashov  
-      bio: "He has 15 years of experience in IT, the last six of which - as an engineer-architect SCCM, SCOM, MDT and Intune. He worked in Ukraine, USA and Poland. At the moment he works with large customers in France. Five-time winner of the Microsoft MVP award and a number of profile certificates. The author of the blog, Youtube-channel, a series of training events and an active speaker."
+      bio: "He has 15 years of experience in IT, the last six of which as an engineer-architect SCCM, SCOM, MDT and Intune. He worked in Ukraine, USA and Poland. At the moment he works with large customers in France. Five-time winner of the Microsoft MVP award and a number of professional certificates. Author of a blog, a Youtube-channel, a series of training events and an active speaker."
       photoUrl: /assets/avatar/ILiashov.jpg
       links:
         www: http://liashov.com/
         linkedin: https://www.linkedin.com/in/ievgen-liashov-05412145/
   -
     title: "Applied Microsoft Azure: Cloud Cost Optimization Techniques and Hacks For Enterprise Apps"
-    description: "The promise of “the cloud” is that you can get as much as you want, when you want it, and only pay for what you use. But is that the reality? The reality is an inconsiderate usage that leads to exorbitant costs is more common than you think. That is why in this session you will see techniques and even some hacks that bring the promise of the cloud to reality. This presentation is a practical look at real world Azure stories that will answer many of the questions people have about moving to the cloud and getting the best configuration for optimal performance at the lowest possible cost."
+    description: "The promise of “the cloud” is that you can get as much as you want, when you want it, and only pay for what you use. But is that the reality? The reality of inconsiderate usage that leads to exorbitant costs is more common than you think. That is why at this session you will see techniques - and even some hacks - that bring the promise of the cloud to life. This presentation is a practical look at real world Azure stories that will answer many of the questions people have about moving to the cloud and getting the best configuration for optimal performance at the lowest possible cost."
     speaker:
       name: Igor Fesenko 
-      bio: "I am Microsoft Most Valuable Professional and Application Architect at SoftServe Inc. I am passionate about designing and developing scalable, flexible, cloud-ready software solutions, utilizing state of art security practices. I am proficient in C#, JavaScript & Azure and has managed and assessed multiple projects focusing on high performance and large data solutions. My current focus is on building and improvement of scalable and secure web applications, cloud-enabled applications and operations, and identity & access management."
+      bio: "I am Microsoft Most Valuable Professional and Application Architect at SoftServe Inc. I am passionate about designing and developing scalable, flexible, cloud-ready software solutions, utilizing state of art security practices. I am proficient in C#, JavaScript & Azure and have managed and assessed multiple projects focusing on high performance and large data solutions. My current focus is on building and improvement of scalable and secure web applications, cloud-enabled applications and operations, and identity & access management."
       photoUrl: /assets/avatar/IFesenko.jpg
       links:
         www: https://www.ifesenko.com/
@@ -131,7 +131,7 @@ sessions:
     description: "There is only one standard that exists worldwide for Industrial IoT: OPC UA. Germany is well ahead. We will illustrate through architecture examples and Industry 4.0 usecases why this is important, and how to work with existing communication protocols."
     speaker:
       name: Vincent Thavonekham 
-      bio: "Azure MVP and Microsoft Regional Director at VISEO. Provides consulting and training; working on large IoT projects and Cloud Azure projects. Design Innovative IT offers for VISEO (Cloud OPEX/CAPEX/Architecture, IoT, Blockchain, Industry 4.0), and develop strategic partnership."
+      bio: "Azure MVP and Microsoft Regional Director at VISEO. Provides consulting and training; working on large IoT projects and Cloud Azure projects. Designs Innovative IT offers for VISEO (Cloud OPEX/CAPEX/Architecture, IoT, Blockchain, Industry 4.0), and develops strategic partnerships."
       photoUrl: /assets/avatar/VThavonekham.jpg
       links:
         www: http://thavonekham.me/
@@ -139,17 +139,17 @@ sessions:
         twitter: https://twitter.com/vThavo
   -
     title: High-throughput data streaming in Azure
-    description: "The session will be focused on solutions that require high-throughput ingestion & streaming of data in real-time. You'll get familiar with different business uses-cases and architecture examples to get a common idea as well as understand the concepts of stream processing systems. Next you'll get deep insights into functional and non-functional capabilities of Azure Event Hub service to see how it fits into the whole picture. Moreover you'll learn current constraints of this service to be able to qualify it's usage for your particular scenario."
+    description: "The session will be focused on solutions that require high-throughput ingestion and streaming of data in real-time. You'll get familiar with different business usecases and architecture examples to get a common idea as well as to understand the concepts of stream processing systems. Next you'll get deep insights into functional and non-functional capabilities of Azure Event Hub service to see how it fits into the whole picture. Moreover you'll learn current constraints of this service to be able to adjust its usage for your particular scenario."
     speaker:
       name: Alexander Laysha 
-      bio: "Solution Architect from EPAM Systems & Microsoft Azure MVP, focused on cloud solutions and distributed systems. Has more then 5 years of hands-on experience in Microsoft Azure based on production projects from variety of business domains. Leader of Belarus Azure Community and speaker at local and external meetups and conferences."
+      bio: "Solution Architect from EPAM Systems and Microsoft Azure MVP, focused on cloud solutions and distributed systems. Has more than 5 years of hands-on experience in Microsoft Azure based on production projects from a variety of business domains. Leader of Belarus Azure Community and speaker at local and external meetups and conferences."
       photoUrl: /assets/avatar/ALaysha.jpg
       links:
         facebook: https://www.facebook.com/alexander.laysha
         twitter: https://twitter.com/layshaalexander
   -
     title: Site Reliability Engineering in Azure (part 2)
-    description: "Let's discuss Site Reliability Engineering principles and practices applied to Software as Service application hosted in Azure. Such topics will be covered: Infrastructure as a Code, Release Engineering, Monitoring, Chaos Engineering, Disaster Recovery Plan Also, we'll discuss real production incidents and analyze real postmortems which will be useful for anyone who wants to leverage Azure in Prod."
+    description: "Let's discuss Site Reliability Engineering principles and practices applied to Software as Service application hosted in Azure. The following topics will be covered: Infrastructure as a Code, Release Engineering, Monitoring, Chaos Engineering, Disaster Recovery Plan. Also, we'll discuss real production incidents and analyze real postmortems which will be useful for anyone who wants to leverage Azure in Prod."
     speaker:
       name: Oleg Chorny  
       bio: 
@@ -170,7 +170,7 @@ sessions:
     description: ""
     speaker: 
       name: Sergiy Korzh 
-      bio: "Sergiy develops and sells his own software based on the shareware model under the Korzh.com trademark. Korzh.com releases EasyQuery, a set of .NET components for building user-friendly interfaces for search and filtering data, a member of the iForum organizing team, lead the Technology stream"
+      bio: "Sergiy develops and sells his own software based on the shareware model under the Korzh.com trademark. Korzh.com releases EasyQuery, a set of .NET components for building user-friendly interfaces for search and filtering data, a member of the iForum organizing team, lead of the Technology stream"
       photoUrl: /assets/avatar/SKorzh.jpeg
       links:
         facebook: https://www.facebook.com/sergiy.korzh
@@ -179,7 +179,7 @@ sessions:
     description: "Demonstration of Cognitive services with several examples based on an open source robot project."
     speaker: 
       name: Estelle Auberix 
-      bio: "Experienced Chief Executive Officer with a demonstrated history of working in the Information Technology and services industry. Skilled in Communication, User Experience, Web, E-commerce, System Administration and Cloud Computing. Strong entrepreneurship professional with a DESE (Master in International Trade) from Conservatoire National des Arts et Métiers focused in emerging markets in Asia."
+      bio: "Experienced Chief Executive Officer with a demonstrated history of work in the Information Technology and services industry. Skilled in Communication, User Experience, Web, E-commerce, System Administration and Cloud Computing. Strong entrepreneurship professional with a DESE (Master in International Trade) from Conservatoire National des Arts et Métiers focused in emerging markets in Asia."
       photoUrl: /assets/avatar/EAuberix.jpg
       links:
         facebook: https://www.facebook.com/estelle.inomniaparatus
@@ -197,7 +197,7 @@ sessions:
         mvp: https://mvp.microsoft.com/en-us/PublicProfile/5002168
   -
     title: Easy life with Azure
-    description: "How to spend 2 minutes to add monitoring for your application and forget about everything, how to feel like Dr. House and to look all day at the cardiogram of your application sipping coffee, how to draw beautiful charts to make managers crazy, how to get an email at 2 AM that everything was gone and fix bugs before the manager's calls. During the session, we'll set up a viable model for monitoring application status using Azure Application Insights. We will get familiar with realtime telemetry, and on the collected data we will display the analytics for managers. In addition, we learn how to implement the notification rules within the Smart Detection, to wake up the notorious manager and support, when you find an abnormal behavior of your application. The report will focus on those who plan to use App Insights to monitor an existing application or system, and doesn't want to collect such a solution from the zoo of various third-party solutions."
+    description: "How to spend 2 minutes to add monitoring to your application and forget about everything, how to feel like Dr. House and to look all day at the cardiogram of your application while sipping coffee, how to draw beautiful charts that drive managers crazy, how to get an email at 2 AM that everything is gone and fix bugs before your manager calls. During this session we'll set up a viable model for monitoring application status using Azure Application Insights. We will get familiar with real-time telemetry, and using the data collected we will display the analytics for managers. In addition, we will learn how to implement notification rules within Smart Detection, to wake up the notorious managers and support guys when you find some abnormal behavior of your application. The presentation will focus on those who plan to use App Insights to monitor existing applications or systems and don't want to assemble such a solution as a zoo of various third-party solutions."
     speaker: 
       name: Alexey Yurchenko 
       bio: ""
@@ -211,7 +211,7 @@ sessions:
       links:
   -
     title: Microsoft PowerApps and Flow better together
-    description: "During my session I will show you how easily you can create powerful business flow using SharePoint Online list, PowerApps, Flow and Azure AD. All integration without any line of code."
+    description: "During my session I will show you how easily you can create a powerful business flow using SharePoint Online list, PowerApps, Flow and Azure AD. All integrated without a single line of code."
     speaker: 
       name: Emil Wasilewski 
       bio: "Microsoft Azure MVP, Leader of Microsoft Azure User Group Poland, Speaker, Trainer, Consultant."
@@ -221,10 +221,10 @@ sessions:
         twitter: https://twitter.com/WasilewskiEmil
   -
     title: Blockchain as a Service on Azure
-    description: "Talk about different blockchain systems which are available on Azure Marketplace. Deep dive into decentralized application architecture. Sharing the experience about real project."
+    description: "Talk about different blockchain systems which are available on Azure Marketplace. Deep dive into decentralized application architecture. Sharing the experience about a real project."
     speaker: 
       name: Ihor Leontiev
-      bio: "Started career as a .Net Developer for a machine building company in Ukraine, in 2013 I became interested in cloud computing and the Microsoft Azure platform. In 2015 struck off in a new direction with the “Creation of Innovative Enterprises” at a French-Ukrainian master’s program in France. Is Lead Architect on all Blockchain projects of Viseo group. Active participant and a regular speaker in Ukrainian Microsoft Azure Community and Azure User Group France. Now living and working as Azure Architect in France."
+      bio: "Started career as a .Net Developer for a machine building company in Ukraine, in 2013 I became interested in cloud computing and Microsoft Azure platform. In 2015 struck off in a new direction with the “Creation of Innovative Enterprises” at a French-Ukrainian MA program in France. Is Lead Architect on all Blockchain projects of Viseo group. Active participant and a regular speaker of Ukrainian Microsoft Azure Community and Azure User Group France. Now living and working as Azure Architect in France."
       photoUrl: /assets/avatar/ILeontyev.jpg
       links:
         linkedin: https://www.linkedin.com/in/leontievihor/
@@ -233,33 +233,33 @@ sessions:
     description: "All the big companies are making huge investments in AI personal assistants. Amazon has Alexa, Google has Google assistant, Apple has Siri and Microsoft has Cortana to name a few. For most people talking to their devices still feels a bit strange. According to Comscore, 50% of all searches will be made by voice by the year 2020. Today 40% of adults use voice once per day. Designing a natural language interface can be difficult, is the interface supposed to be able to interpret every single nuance of speech and how about slang? Or should we aim more towards forced language and make our users learn how to interact with simple commands?"
     speaker: 
       name: Jessica Engström 
-      bio: "Being a geek shows in all parts of her life, whether it be organizing hackathons, running a user group and a podcast with her husband, game nights (retro or VR/MR) with friends, just catching the latest superhero movie or speaking internationally at conferences. Her favorite topics is UX/UI and Mixed reality and other futuristic tech. She's a Windows Development MVP. Together with her husband she runs a company called 'AZM dev' which is focused on HoloLens and Windows development. Occasionally blogs at www.catoholic.se which kind of shows her love for cats... and pink.. mostly pink."
+      bio: "Being a geek shows in all parts of her life, whether it be organizing hackathons, running a user group and a podcast with her husband, game nights (retro or VR/MR) with friends, just catching the latest superhero movie or speaking internationally at conferences. Her favorite topics are UX/UI and Mixed reality and other futuristic tech. She's a Windows Development MVP. Together with her husband she runs a company called 'AZM dev' which is focused on HoloLens and Windows development. Occasionally blogs at www.catoholic.se which kind of shows her love for cats... and pink.. mostly pink."
       photoUrl: /assets/avatar/JEngstrom.jpg
       links:
   - 
     title: Azure SQL Database, Data Warehouse, Data Lake, HDInsight, Storage, Cosmos DB, what the heck should I choose?
-    description: "Well, yeah, there are so many options to store and operate your data in Azure that it is very easy to get lost in a crowd of technologies. The purpose of this session is to give you a glimpse about the scenarios where each of these Azure services will be better suited than the others."
+    description: "Well, yeah, there are so many options to store and operate your data in Azure that it is very easy to get lost in the crowd of technologies. The purpose of this session is to give you a glimpse at the scenarios where each of these Azure services will be better-suited than the others."
     speaker: 
       name: Denis Reznik 
-      bio: "Denis is a Data Architect at Intapp, Inc. He has more than ten years experience in software development, database design and performance tuning for cloud and on-premises solutions. In 2010 Denis became Microsoft Data Platform MVP and maintains the MVP status till now. Apart from his professional career, Denis actively participates in the development of Ukrainian SQL Community and holds the status of PASS Regional Mentor for Central and Eastern Europe"
+      bio: "Denis is a Data Architect at Intapp, Inc. He has more than ten years of experience in software development, database design and performance tuning for cloud and on-premises solutions. In 2010 Denis became Microsoft Data Platform MVP and maintains the MVP status till now. Apart from his professional career, Denis actively participates in the development of Ukrainian SQL Community and holds the status of PASS Regional Mentor for Central and Eastern Europe"
       photoUrl: /assets/avatar/DReznik.jpg
       links:     
         facebook: https://www.facebook.com/denis.reznik.5
         twitter: https://twitter.com/DenisReznik
   - 
     title: Development processes organization based on VSTS/TFS
-    description: "The variety of software development technologies is increasing every year. There are new opportunities for containerization, the transfer of infrastructure to the cloud, monitoring applications, etc. But the core, which collaborates/integrates the team, technology to achieve the set of goals is VSTS/TFS. During the session, we will discuss what tools VSTS/TFS currently provides to organize an effective development process for teams of different size and focus."
+    description: "The variety of software development technologies is increasing every year. There are new opportunities for containerization, transfer of infrastructure to the cloud, monitoring applications, etc. But the core technology to achieve the set of goals is VSTS/TFS, which collaborates/integrates the team. During the session, we will discuss what tools VSTS/TFS currently provides to organize an effective development process for teams of different size and focus."
     speaker: 
       name: Alexander Shamray
-      bio: "Alexander has been working on software development issues for more than 10 years. The main areas of professional activity: project management, configuration and change management, description and adaptation of development processes on the basis of flexible and formal methodologies. The main implementation tools are a group of Microsoft Visual Studio and Project Server products. He has the MVP status, and is also a certified specialist in the field of Application Lifecycle Management."
+      bio: "Alexander has been working on software development issues for more than 10 years. The main areas of his professional activity are: project management, configuration and change management, description and adaptation of development processes on the basis of flexible and formal methodologies. The main implementation tools are a group of Microsoft Visual Studio and Project Server products. He has Microsoft MVP status and is also a certified specialist in the field of Application Lifecycle Management."
       photoUrl: /assets/avatar/AShamray.jpg
       links:
   -
-    title: "GDPR: Be prepared with a major IT change similar to Y2K bug. How Azure can help?"
-    description: "The European Union has enforced a regulation that will protect the personal data privacy. It has got a MAJOR impact on companies in Europe with a HEAVY fine (>10 million €). This session will present the work done by Microsoft in this area, and how the Microsoft Cloud WILL help"
+    title: "GDPR: Be prepared to a major IT change similar to Y2K bug. How Azure can help?"
+    description: "European Union has enforced a regulation that will protect the privacy of personal data. It will have a MAJOR impact on companies in Europe with HEAVY fines (>10 million €) possible for non-compliance. This session will present the work done by Microsoft in this area, and how the Microsoft Cloud WILL help"
     speaker:
       name: Vincent Thavonekham 
-      bio: "Azure MVP and Microsoft Regional Director at VISEO. Provides consulting and training; working on large IoT projects and Cloud Azure projects. Design Innovative IT offers for VISEO (Cloud OPEX/CAPEX/Architecture, IoT, Blockchain, Industry 4.0), and develop strategic partnership."
+      bio: "Azure MVP and Microsoft Regional Director at VISEO. Provides consulting and training; works on large IoT projects and Cloud Azure projects. Designs Innovative IT offers for VISEO (Cloud OPEX/CAPEX/Architecture, IoT, Blockchain, Industry 4.0), and develops strategic partnerships."
       photoUrl: /assets/avatar/VThavonekham.jpg
       links:
         www: http://thavonekham.me/
@@ -267,10 +267,10 @@ sessions:
         twitter: https://twitter.com/vThavo   
   -
     title: Decentralize Authentication with BaaS
-    description: "Presentation of a PoC which demonstrate that Blockchain is a great soluce to build a decentralized identity model, enabling user entities to manage their own identity and profile attributes."
+    description: "Presentation of a PoC which demonstrate that Blockchain is a great solution for building a decentralized identity model, enabling user entities to manage their own identity and profile attributes."
     speaker: 
       name: Estelle Auberix 
-      bio: "Experienced Chief Executive Officer with a demonstrated history of working in the Information Technology and services industry. Skilled in Communication, User Experience, Web, E-commerce, System Administration and Cloud Computing. Strong entrepreneurship professional with a DESE (Master in International Trade) from Conservatoire National des Arts et Métiers focused in emerging markets in Asia."
+      bio: "Experienced Chief Executive Officer with a demonstrated history of work in the Information Technology and services industry. Skilled in Communication, User Experience, Web, E-commerce, System Administration and Cloud Computing. Strong entrepreneurship professional with a DESE (Master in International Trade) from Conservatoire National des Arts et Métiers focused in emerging markets in Asia."
       photoUrl: /assets/avatar/EAuberix.jpg
       links:
         facebook: https://www.facebook.com/estelle.inomniaparatus
@@ -278,18 +278,18 @@ sessions:
         twitter: https://twitter.com/FollowEstelle
   -
     title: Holo world - create your first HoloLens app with Unity
-    description: "HoloLens breached a barrier, a barrier between the digital and the real world, bringing digital content into our world. Over the past year the HoloLens has continued to create new ways to visualize, to change education and the medical industry. HoloLens is not only for games it is a Business platform (that is game enabled). Using Unity we can create an experience that lets you bring digital content and interact with the real world. During this session we will take a look at the HoloLens hardware, the possibilities, the limitations and tooling. We will take a look at the basics of Unity and also create a HoloLens app from scratch complete with Gaze, Air Tap, Spatial mapping and Voice using HoloToolkit."
+    description: "HoloLens breached a barrier, a barrier between the digital and the real world, bringing digital content into our world. Over the past year the HoloLens has continued to create new ways to visualize, to change education and the medical industry. HoloLens is not only for games, it is a Business platform (that is game-enabled). Using Unity we can create an experience that lets you bring digital content and interact with it in the real world. During this session we will take a look at the HoloLens hardware, the possibilities, the limitations and tooling. We will take a look at the basics of Unity and also create a HoloLens app from scratch complete with Gaze, Air Tap, Spatial mapping and Voice using HoloToolkit."
     speaker: 
       name: Jimmy Engström 
-      bio: "Ever since Jimmy got his first ZX Spectrum at the age of 7 he hasn't stopped programming. During the day he is a .NET developer and he does all the fun stuff during his spare time. Together with his wife he also runs a company 'AZM dev' which is focused on HoloLens and Windows development. He is really passionate about Windows development, HoloLens or well you could say the .NET platform really. He and his wife also runs a code intensive user group (Coding After Work) that focuses on helping participants with code and design problems, and a podcast with the same name. Back in 2011 he received the 'geek of the year' award, a title well deserved. He is certainly living up to the title with everything from developing and gadgets to superheroes and cosplaying at the sci-fi faire. He speaks at various types of events including NDC, Devsum, hackathons, Swetugg and TechDays which led to him becoming a Microsoft MVP in Windows Development. He occasionally blogs at www.apeoholic.se Podcast - www.codingafterwork.se"
+      bio: "Ever since Jimmy got his first ZX Spectrum at the age of 7 he hasn't stopped programming. During the day he is a .NET developer and he does all the fun stuff during his spare time. Together with his wife he also runs a company 'AZM dev' which is focused on HoloLens and Windows development. He is really passionate about Windows development, HoloLens or well you could say the .NET platform really. He and his wife also run a code-intensive user group (Coding After Work) that focuses on helping participants with code and design problems, and a podcast with the same name. Back in 2011 he received the 'geek of the year' award, a title well deserved. He is certainly living up to the title with everything from developing and gadgets to superheroes and cosplaying at the sci-fi fair. He speaks at various types of events including NDC, Devsum, hackathons, Swetugg and TechDays which led to him becoming a Microsoft MVP in Windows Development. He occasionally blogs at www.apeoholic.se Podcast - www.codingafterwork.se"
       photoUrl: /assets/avatar/JmEngstrom.jpg
       links:
   -
     title: Dealing with CosmosDB
-    description: "CosmosDB service is a NoSQL is a globally distributed, multi-model database database service designed for scalable and high performance modern applications. CosmosDB is delivered as a fully managed service with an enterprise grade SLA. It supports querying of documents using a familiar SQL over hierarchical JSON documents. Azure Cosmos DB is a superset of the DocumentDB service. It allows you to store and query noSQL data, regardless of schema. In this presentation, you will learn: How to get started with DocumentDB you provision a new database account. How to index documents. How to create applications using CosmosDb (using REST API or programming libraries for several popular language). Best practices designing applications with CosmosDB. Best practices creating queries."
+    description: "CosmosDB service is a NoSQL that is a globally distributed, multi-model database service designed for scalable and high performance modern applications. CosmosDB is delivered as a fully managed service with an enterprise grade SLA. It supports querying of documents using a familiar SQL over hierarchical JSON documents. Azure Cosmos DB is a superset of the DocumentDB service. It allows you to store and query noSQL data, regardless of schema. In this presentation, you will learn: how to get started with DocumentDB in a new database account; how to index documents; how to create applications using CosmosDb (using REST API or programming libraries for several popular languages); best practices for designing applications with CosmosDB; best practices for creating queries."
     speaker: 
       name: Mihail Mateev 
-      bio: "Mihail Mateev is a Microsoft Regional Director currently living in Sofia, Bulgaria. His interests range from technology to entrepreneurship. He is also interested in programming, web development, and education. Mihail is a Technical Consultant, Community enthusiast, PASS Regional Mentor for Central Eastern Europe, chapter lead, Data Platform and Microsoft Azure MVP, Organizer of SQLSaturday, Azure Bootcamp, IoT and JavaScript conferences. His experience is in various areas related to Microsoft technologies, including Windows Platform, ASP.Net MVC, MS SQL Server and Microsoft Azure. Mihail has a PhD in cloud computing and am a university lecturer on Smart Homes and Smart Energy IoT Solutions"
+      bio: "Mihail Mateev is a Microsoft Regional Director currently living in Sofia, Bulgaria. His interests range from technology to entrepreneurship. He is also interested in programming, web development, and education. Mihail is a Technical Consultant, Community enthusiast, PASS Regional Mentor for Central Eastern Europe, chapter lead, Data Platform and Microsoft Azure MVP, Organizer of SQLSaturday, Azure Bootcamp, IoT and JavaScript conferences. His experience is in various areas related to Microsoft technologies, including Windows Platform, ASP.Net MVC, MS SQL Server and Microsoft Azure. Mihail has a PhD in cloud computing and is a university lecturer on Smart Homes and Smart Energy IoT Solutions"
       photoUrl: /assets/avatar/MMateev.jpg
       links:
         facebook: https://www.facebook.com/mihail.mateev
@@ -297,7 +297,7 @@ sessions:
         twitter: https://twitter.com/mihailmateev
   -
     title: Building corporate highload infrastructure in Azure
-    description: "The session will consider the experience of building highly-loaded infrastructure in Azure. From the first-hand, you will learn how the leading world corporations work with the Microsoft Azure platform, how to deploy thousands of servers in Microsoft Azure, store in the cloud dozens of terabytes of data and millions of files, how cloud infrastructure is built in large companies, how to bypass the pitfalls and bottlenecks and with what isses the architects face when planning to migrate data to the cloud. The session is aimed at experienced system administrators, architects and DevOps engineers and is based on real working practices with Azure in the company, which is part of Top 10 Azure Enterprise Customer."
+    description: "The session will consider the experience of building highly-loaded infrastructure in Azure. You will learn from first-hand experiece of leading world corporations that work with Microsoft Azure platform about deployment of thousands of servers in Microsoft Azure, storing dozens of terabytes of data and millions of files in the cloud, how cloud infrastructure is built in large companies, how to bypass the pitfalls and bottlenecks and with what isses the architects are faced when planning to migrate data to the cloud. The session is aimed at experienced system administrators, architects and DevOps engineers and is based on real working practices implemented in the company that is a part of Top 10 Azure Enterprise Customers List."
     speaker: 
       name: Dzmitry Durasau 
       bio: ""
@@ -308,7 +308,7 @@ sessions:
     description: "In the mobile and cloud era, Azure Active Directory provides a single sign-on for devices, applications and services from any location. In connection with the increase of the number of devices (including BYOD) and third-party SaaS applications, as well as the growing popularity of work outside corporate networks, IT professionals are increasingly confronted with the task of corporate information protection. In this session, you will learn how to protect access to company resources using Azure AD Conditional Access and Azure Information Protection."
     speaker:
       name: Ievgen Liashov  
-      bio: "He has 15 years of experience in IT, the last six of which - as an engineer-architect SCCM, SCOM, MDT and Intune. He worked in Ukraine, USA and Poland. At the moment he works with large customers in France. Five-time winner of the Microsoft MVP award and a number of profile certificates. The author of the blog, Youtube-channel, a series of training events and an active speaker."
+      bio: "He has 15 years of experience in IT, the last six of which as an engineer-architect SCCM, SCOM, MDT and Intune. He worked in Ukraine, USA and Poland. At the moment he works with large customers in France. Five-time winner of the Microsoft MVP award and has a number of professional certificates. Author of a blog, a Youtube-channel, a series of training events and an active speaker."
       photoUrl: /assets/avatar/ILiashov.jpg
       links:
         www: http://liashov.com/
@@ -317,7 +317,7 @@ sessions:
 partners:
   -
     name: Microsoft
-    description: "Founded in 1975, Microsoft Corporation is a world leader in the production of software, services and the development of Internet technologies for personal computers and servers. Capitalization of Microsoft is today more than 210 billion US dollars, and its trademark is one of the most expensive and famous in the world. Since 2003, Microsoft Ukraine has been operating in Ukraine, whose tasks include the development of the software market, as well as the introduction and localization of the latest technologies in Ukraine."
+    description: "Founded in 1975, Microsoft Corporation is a world leader in the production of software, services and the development of Internet technologies for personal computers and servers. Today capitalization of Microsoft is more than 210 billion US dollars, and its trademark is one of the most expensive and famous in the world. Since 2003, Microsoft Ukraine has been operating in Ukraine, its tasks include development of the software market, as well as introduction and localization of the latest technologies in Ukraine."
     logoUrl: /assets/logo/microsoft.jpg 
     links:
       www: https://www.microsoft.com/uk-ua/
@@ -337,7 +337,7 @@ partners:
       www: https://www.ciklum.com/
   -
     name: CloudMonix
-    description: "CloudMonix is a premier cloud systems monitoring and automation tool-set built for IT managers. With support for a variety of cloud-based platforms, a host of custom automation tools, and a modern intuitive interface, CloudMonix is a powerful solution for achieving cloud-system stability."
+    description: "CloudMonix is a premier cloud systems monitoring and automation toolset built for IT managers. With support for a variety of cloud-based platforms, a host of custom automation tools, and a modern intuitive interface, CloudMonix is a powerful solution for achieving cloud-system stability."
     logoUrl: /assets/logo/CloudMonix.jpg
     links:
       www: http://www.cloudmonix.com/
@@ -355,13 +355,13 @@ partners:
       www: https://www.oreilly.com/
   -
     name: DataArt
-    description: "DataArt is a global technology consultancy that designs, develops and supports unique software solutions, helping clients take their businesses forward. Recognized for their deep domain expertise and superior technical talent, DataArt teams create new products and modernize complex legacy systems that affect technology transformation in select industries.<br/>DataArt has earned the trust of some of the world’s leading brands and most discerning clients, including Nasdaq, S&P, United Technologies, oneworld Alliance, Ocado, artnet, Betfair, and skyscanner. Organized as a global network of technology services firms, DataArt brings together expertise of over 2,200 professionals in 20 locations in the US, Europe, and Latin America."
+    description: "DataArt is a global technology consultancy that designs, develops and supports unique software solutions, helping clients take their businesses forward. Recognized for their deep domain expertise and superior technical talent, DataArt teams create new products and modernize complex legacy systems that affect technology transformation in select industries. DataArt has earned the trust of some of the world’s leading brands and most discerning clients, including Nasdaq, S&P, United Technologies, oneworld Alliance, Ocado, artnet, Betfair, and skyscanner. Organized as a global network of technology services firms, DataArt brings together expertise of over 2,200 professionals in 20 locations in the US, Europe, and Latin America."
     logoUrl: /assets/logo/DA-logo-color-rgb.jpg
     links:
       www: http://dataart.ua/
   -
     name: Daxx
-    description: "Daxx is a Dutch IT company that has been providing remote programmers for clients from Europe and the USA since 1999, and it also facilitates the employment of Ukrainian IT specialists in the Netherlands and other European countries. In 2015, the company entered the top five employers of Ukraine in the category (200-800 employees) according to DOU."
+    description: "Daxx is a Dutch IT company that has been providing remote programmers for clients from Europe and USA since 1999, and it also facilitates the employment of Ukrainian IT specialists in the Netherlands and other European countries. In 2015, the company entered the top five employers of Ukraine in the category (200-800 employees) according to DOU.ua."
     logoUrl: /assets/logo/daxx.jpg
     links:
       www: http://www.daxx.com/
@@ -379,43 +379,43 @@ partners:
       www: https://www.devart.com/
   -
     name: Developex
-    description: "DevelopEx was founded in August 2001 in Kiev, Ukraine by a team with substantial experience in Information Technologies. We have over one hundred of successfully completed projects of different scale and size and 190+ professionals in our team.<br/>Our company has established business relationships with many companies around the world including such countries as Canada, France, Sweden, the UK and the USA. <br/>DevelopEx main focus is being a great partner to our customers and team. Always exceeding expectations. Delivering great projects. Constantly growing and developing.<br/>We all are education fans. We love self-development. We are trying to grow professionally all the time. DevelopEx gives us the great chance to grow and develop to our best.<br/>We love to have fun at work and pay great attention to make DevelopEx a place where everybody is happy and rushes to work in excitement towards new challenges and goals.<br/>We are proud of being reliable and stable partner for our clients and employees. And for over 16 years never falling our commitments and responsibilities."
+    description: "DevelopEx was founded in August 2001 in Kyiv, Ukraine by a team with substantial experience in Information Technologies. We have over one hundred of successfully completed projects of different scale and size and 190+ professionals in our team.<br/>Our company has established business relationships with many companies around the world including such countries as Canada, France, Sweden, UK and USA. Main focus of DevelopEx is being a great partner to our customers and team. Always exceeding expectations. Delivering great projects. Constantly growing and developing. We all are education fans. We love self-development. We are trying to grow professionally all the time. DevelopEx gives us the great chance to grow and develop to our best."
     logoUrl: /assets/logo/developex_logo.jpg
     links:
       www: http://developex.com/
   -
     name: .NET Core Ukrainian User Group
-    description: "The community is dedicated to the .NET Core technology - cross-platform implementation of the .NET Framework, open source."
+    description: "The community is dedicated to the .NET Core technology - cross-platform implementation of the .NET Framework, open-source."
     logoUrl: /assets/logo/dotNetCoreUA.jpg
     links:
       www: http://dot-net.in.ua/
   -
     name: EasyPay
-    description: "EasyPay is a payment system that works in Ukrainian since 2007. This is the exclusive payment system that allows consumers to use cash services in the terminal network and card of any Ukrainian banks, electronic wallet or mobile money on their site and mobile app. The company employs around 180 professionals: software developers for the terminal network, online portal easypay.ua, mobile applications for Android, iOS clients. using technologies: .NET, Java, JavaScript + Angular2, MS SQL, Objective C & etc. Also EasyPay use cloud computing Microsoft Azure for data gathering and Microsoft PowerBI analytics services."
+    description: "EasyPay is a payment system that operates in Ukrainian market since 2007. This is the only payment system that allows consumers to use cash services in the network of terminals and cards of any Ukrainian banks, electronic wallet or mobile money on their site and in mobile app. The company employs around 180 professionals: software developers for the network of terminals, online portal easypay.ua, mobile applications for Android, iOS clients. Technologies used: .NET, Java, JavaScript + Angular2, MS SQL, Objective C & etc. Also EasyPay uses cloud computing Microsoft Azure for data gathering and Microsoft PowerBI analytics services."
     logoUrl: /assets/logo/easypay.jpg
     links:
       www: https://easypay.ua/
   -
-    name: English Dom
+    name: English House
     description: "Our Mission is to provide quality online training with immersion in the language environment and the opportunity to feel at home anywhere in the world, knowing English!"
     logoUrl: /assets/logo/ED.jpg
     links:
       www: https://www.englishdom.com/
   -
     name: GlobalLogic
-    description: "GlobalLogic is an international IT company with a full cycle of software development. The company creates unique products in such areas as digital media, finance, medicine, telecommunications, etc. Among its customers are both promising start-ups as well as market leaders. GlobalLogic in Ukraine is one of the five largest IT-firms in the country. The company cooperates with more than 2,400 specialists in Kiev, Kharkov, Lviv and Nikolaev."
+    description: "GlobalLogic is an international IT company with a full cycle of software development. The company creates unique products in such areas as digital media, finance, medicine, telecommunications, etc. Among its customers are both promising startups as well as market leaders. GlobalLogic is one of the five largest IT firms in Ukraine. The company cooperates with more than 2,400 specialists in Kyiv, Kharksv, Lviv and Nikolaiv."
     logoUrl: /assets/logo/GlobalLogic.jpg
     links:
       www: http://globallogic.com.ua/
   -
     name: IT Education Academy
-    description: "ITEA offers high-quality training of specialists in two areas: authorized Vendor training and author's courses of the best practitioners working in IT companies - world-class leaders. For the best graduates of the evening courses, assistance in employment and the possibility of internship in partner companies IT Education Academy is offered. More than 2500 young IT people started their way from ITEA training, and most of them continue to work successfully in the IT field."
+    description: "ITEA offers high-quality training of specialists in two areas: authorized Vendor training and author's courses from the best practitioners working in world-class IT companies. For the best graduates of the evening courses, assistance in employment and the possibility of internship in partner companies of IT Education Academy is offered. More than 2500 young IT people started their way from ITEA training, and most of them continue to work successfully in the IT field."
     logoUrl: /assets/logo/ITEA.jpg
     links:
       www: http://itea.ua/
   -
     name: STEP Computer Academy
-    description: "Computer Academy STEP is the largest international educational institution specializing in computer education. Our teachers are practicing specialists with experience in the IT industry. They teach what you will never read about in textbooks. The training program meets the requirements that are imposed on young professionals to start working for an IT company. Nothing extra. Only what is useful at work."
+    description: "Computer Academy STEP is the largest international educational institution specializing in computer education. Our teachers are practicing specialists with experience in the IT industry. They teach what you will never read about in textbooks. The training program meets the requirements that are imposed on young professionals that start working for an IT company. Nothing extra. Only what is useful at work."
     logoUrl: /assets/logo/myget.jpg
     links:
       www: http://itstep.org/ua/
@@ -433,7 +433,7 @@ partners:
       facebook: https://www.facebook.com/groups/xamarin.ua/
   -
     name: Yakaboo.ua
-    description: "Yakaboo.ua is the largest online store in Ukraine, having twelve years of experience in the field of online marketing. More than 200 000 publications, more than 600 000 regular customers, only high-quality, licensed products, a specially developed logistics system that allows courier service to deliver the order day to day, 100% revenue growth for several years in a row - the benefits and achievements of Yakaboo.ua, which distinguish our company among others, form its uniqueness."
+    description: "Yakaboo.ua is the largest online store in Ukraine, having twelve years of experience in the field of online marketing. More than 200 000 publications, more than 600 000 regular customers, only high-quality, licensed products, a specially developed logistics system that allows courier one-day shipping service, 100% revenue growth for several years in a row. The benefits and achievements of Yakaboo.ua, which distinguish our company from others, form its uniqueness."
     logoUrl: /assets/logo/yakaboo.jpg
     links:
       www: http://www.yakaboo.ua/
