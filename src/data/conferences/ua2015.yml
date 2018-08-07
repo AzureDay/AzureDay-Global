@@ -82,7 +82,7 @@ sessions:
     description: "Scalability of the application has become a critical design element after the transition from a model of individual programs to a server-based application model. Scalable applications can cope with more active use and increased data volume. Scalable applications have high availability and fault tolerance. Scalable applications are manageable and maintainable. All of this is true with respect to all layers of the application, including the database. Scaling the database is a complicated process. Azure had already an attempt to scale the database, and for sure many people remember SQL Azure Federations and why the good idea turned out to be not so good. At present, Federations are a deprecated functionality and Microsoft presents a new model of database scaling in the cloud: Elastic Scale. In this presentation we will look at why the Federations failed, how developers took into account old mistakes during creation of a new product, and whether Elastic Scale is so good to use in a serious project."
     speaker:
       name: Denis Reznik
-      bio: "He works for TFG an Intapp Company as Director of R&D. He has extensive experience in development and design of solutions based on SQL Server and SQL Azure. He is keen on questions of query optimization, database scaling, developing of complex architectural solutions and internal structure of SQL Server. Since 2010, he is Microsoft SQL Server MVP. Active member of SQL community and leader of Kyiv SQL Server User Group. Co-author of the book "SQL Server MVP Deep Dives Vol. 2""
+      bio: "He works for TFG an Intapp Company as Director of R&D. He has extensive experience in development and design of solutions based on SQL Server and SQL Azure. He is keen on questions of query optimization, database scaling, developing of complex architectural solutions and internal structure of SQL Server. Since 2010, he is Microsoft SQL Server MVP. Active member of SQL community and leader of Kyiv SQL Server User Group. Co-author of the book \"SQL Server MVP Deep Dives Vol. 2\""
       photoUrl: /assets/avatar/_Person.png
       links:
         linkedin: http://ua.linkedin.com/pub/denis-reznik/3/502/234
@@ -119,7 +119,7 @@ partners:
       www: http://www.microsoft.com/uk-ua/default.aspx
   -
     name: IT community of Ukraine
-    description: "The project "IT community of Ukraine" was founded in early 2014 with the goal of creating a resource where IT specialists of different levels will be able to obtain up-to-date information about various products and features of their configuration. At the moment, the community is supported by the efforts of 10 authors who represent various areas of information technology. This allows the project to cover many areas, which will be more interesting for the reader as result."
+    description: "The project \"IT community of Ukraine\" was founded in early 2014 with the goal of creating a resource where IT specialists of different levels will be able to obtain up-to-date information about various products and features of their configuration. At the moment, the community is supported by the efforts of 10 authors who represent various areas of information technology. This allows the project to cover many areas, which will be more interesting for the reader as result."
     logoUrl: /assets/logo/it-community.jpg
     links:
       www: https://it-community.in.ua/
