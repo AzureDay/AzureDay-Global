@@ -18,8 +18,8 @@ organizers:
       www: http://boykoant.pro
 sessions:
   -
-    title: 6 useful habits of developer in the IT team Startup.
-    description: 
+    title: 6 useful developer habits in the IT Startup team.
+    description:
     speaker:
       name: Sergey Psekha
       bio: ".Net Competence Lead, Ciklum Delivery. Architect and Team Lead in area of Web Solutions. 10 years in .Net stack. Leading the team of 35 .Net developers. Specializes on: increasing productivity of software delivery in the technical area; Behavior Driven Development; backend and cloud architectures; solutions development peculiarities for IT Startups. Currently focused on Proof of Concept creation in area of Role Based Security Search Engine. The project for enterprise decided going social."
@@ -27,7 +27,7 @@ sessions:
       links:
   -
     title: Who are DevOps and what is their mission?
-    description: 
+    description:
     speaker:
       name: Viktor Tsykunov
       bio: "Microsoft cloud technologies expert. More than 10 years experience in IT. During the last 10 years has been working at Microsoft on different roles in product marketing, corporate sales and technical consulting."
@@ -46,7 +46,7 @@ sessions:
         linkedin: https://www.linkedin.com/in/smereczynski
   -
     title: JavaScript and Azure - from idea to prototype in 60 minutes.
-    description: "During this session we will get acquainted with the Ionic framework, which allows us to very quickly develop cross-platform mobile applications using JavaScript. In order for applications to exchange data, we will develop a server part based on Node.JS and Azure Mobile Apps."
+    description: "During this session we will get familiar with the Ionic framework, which allows us to develop very quickly cross-platform mobile applications using JavaScript. In order to exchange data between applications, we will develop a server part based on Node.JS and Azure Mobile Apps."
     speaker:
       name: Anton Boyko
       bio: "Founder and main speaker at Ukrainian Microsoft Azure Community. 10+ years in application development. Builds apps based on Microsoft Azure platform since 2011. Microsoft Azure technical expert. Microsoft Azure MVP since 2014. Owner and one of the organizers of the most popular Microsoft Azure conferences in Ukraine: Azure Day and Global Azure Bootcamp."
@@ -60,10 +60,10 @@ sessions:
         www: http://boykoant.pro
   -
     title: Azure Data Factory - your data harvester.
-    description: "What is Data Factory? Why is this service called a data harvester? Cloud ETL? In the report, he will answer all these questions. He will tell you how to use the factory for data transfer, how to analyze the data passed through it."
+    description: "What is Data Factory? Why is this service called a data harvester? Cloud ETL? In the session, I will answer all these questions. I will tell you how to use the factory for data transfer, how to analyze the data passed through it."
     speaker:
-      name: E Polonichko
-      bio: "PASS Chapter Leader. 6 years of working with MSSQL. He mainly deal with BI projects (SSAS, SSIS, PowerBI, Cognos, Informatica PowerCenter, Pentaho, Tableau). At the moment he works Data Warehouse / BI architect."
+      name: Eugene Polonichko
+      bio: "PASS Chapter Leader. 6 years experience working with MSSQL. I mainly deal with BI projects (SSAS, SSIS, PowerBI, Cognos, Informatica PowerCenter, Pentaho, Tableau). At the moment I am working as Data Warehouse/BI architect."
       photoUrl: /assets/avatar/EPolonichko.jpg
       links:
         twitter: https://twitter.com/EvgenPolonichko
@@ -73,7 +73,7 @@ sessions:
     description: ""
     speaker:
       name: Valentine Radchuk
-      bio: ". NET Technical Lead at Cogniance. Professionally engaged in development since 2007. Has extensive experience with. NET technologies for desktop development, backend and web applications."
+      bio: ".NET Technical Lead at Cogniance. Professionally engaged in development since 2007. He has extensive experience with .NET technologies for desktop development, backend and web applications."
       photoUrl: /assets/avatar/VRadchuk.jpg
       links:
   -
@@ -81,7 +81,7 @@ sessions:
     description: ""
     speaker:
       name: Vladimir Bezmaly
-      bio: "Author of more than 250 articles published in Ukraine and Russia. The holder of Microsoft Most Valuable Professional status in the field of Consumer Security Microsoft Security Trusted Advisor. Kaspersky Certified Consultant. Kaspersky Certified Trainer. Experience in IT almost 40 years. In the IS about 25 years of experience."
+      bio: "Author for more than 250 articles published in Ukraine and Russia. He is Microsoft Most Valuable Professional in the field of Consumer Security, Microsoft Security Trusted Advisor. Kaspersky Certified Consultant. Kaspersky Certified Trainer. Experience in IT almost 40 years. In the IS about 25 years of experience."
       photoUrl: /assets/avatar/VBezmaly.jpg
       links:
         facebook: https://www.facebook.com/vlad.bezmaly
@@ -108,10 +108,10 @@ sessions:
         twitter: https://twitter.com/mihailmateev
   -
     title: Introduction to Cross-Platform Mobile DevOps.
-    description: "Modern development management tools allow you to cover the full cycle of release of mobile applications from development to testing and publishing to the store. During the master class, we will go through the creation of a mobile application, connect the HokeyApps analytics into it, configure automated building and testing in the Xamarin Test Cloud using Visual Studio Team Services."
+    description: "Modern development management tools allow you to cover the full cycle of mobile applications release from development to testing and publishing to the store. During the master class, we will go through the creation of a mobile application, connect the HokeyApps analytics into it, configure automated building and testing in the Xamarin Test Cloud using Visual Studio Team Services."
     speaker:
       name: Ihor Leontiev
-      bio: "Since 2012.Net developer in Ukraine, since 2013 he has been working with the Microsoft Azure platform. In 2014 received the status of Microsoft Student Partner and at the same time began to actively participate in technical conferences. Today is involved in the process of properly building the process of developing and using DevOps practices as Communicative Intelligence and Innovation Development at iafoo.com, Montpellier, France."
+      bio: "Since 2012 .NET developer in Ukraine, since 2013 I have been working with the Microsoft Azure platform. In 2014 received the status of Microsoft Student Partner and at the same time began to actively participate in technical conferences. Today I'm involved in the process for building properly the process of developing and using DevOps practices as Communicative Intelligence and Innovation Development at iafoo.com, Montpellier, France."
       photoUrl: /assets/avatar/ILeontyev.jpg
       links:
         twitter: https://twitter.com/LeontievIhor
@@ -130,7 +130,7 @@ sessions:
         twitter: https://twitter.com/WasilewskiEmil
         www: http://zapytajemila.pl/
   -
-    title: Load testing of web applications from the cloud.
+    title: Web application load testing from the cloud.
     description: ""
     speaker:
       name: Anton Boyko
@@ -148,7 +148,7 @@ sessions:
     description: ""
     speaker:
       name: Sergey Poplavskiy
-      bio: "The employee of Microsoft, which is responsible for the development of the Microsoft Azure platform in Ukraine. During his work, he managed to conduct more than 30 deep technical trainings on this topic, participated in the development of many projects on the platform Microsoft Azure."
+      bio: "The Microsoft employee, who is responsible for the Microsoft Azure platform development in Ukraine. During his work, he managed to conduct more than 30 deep technical trainings on this topic, participated in the development of many projects based on the Microsoft Azure platform."
       photoUrl: /assets/avatar/SPoplavskiy.png
       links:
         linkedin: https://www.linkedin.com/profile/view?id=137759362
@@ -163,11 +163,11 @@ sessions:
       links:
         facebook: https://www.facebook.com/sergii.kryshtop
   -
-    title: Practice of building file storages in Azure.
-    description: "Dmitry Durasov shares his experience of building highly loaded storage facilities in Azure. Only real production practices: you will learn first-hand how to store dozens of terrabats and millions of files in the cloud, how to bypass the pitfalls and what architects face when planning to migrate data to the cloud. There is no marketing shit, session is 300-400 level and is oriented to experienced system administrators, architects and devops."
+    title: Practices for building the file storages in Azure.
+    description: "Dmitry Durasov shares his experience of building highly loaded storage facilities in Azure. Only real production practices: you will learn from the first-hands how to store dozens of terabytes and millions of files in the cloud, how to bypass the pitfalls and what architects are face with when planning to migrate data to the cloud. There is no marketing bullshit, session is for 300-400 level and oriented on the experienced system administrators, architects and devops."
     speaker:
       name: Dmitriy Durasov
-      bio: "MCT, MCSA, MCTS, MCP, the main area of expertise is Cloud Solutions, Private and Public Clouds, Virtualization, Continuous Integration, Process Automation, PowerShell. His path in information technology began with the MK-52, now he is engaged in cloud-based enterprise solutions. For the last 6 years he has been working for EPAM Systems, where he develops and implements various solutions for large customers from the financial and information sectors."
+      bio: "MCT, MCSA, MCTS, MCP, The main area of expertise is Cloud Solutions, Private and Public Clouds, Virtualization, Continuous Integration, Process Automation, PowerShell. He started in information technology with the MK-52, now he is engaged in cloud-based enterprise solutions. For the last 6 years he has been working for EPAM Systems, where he develops and implements various solutions for large customers from financial and information sectors."
       photoUrl: /assets/avatar/DDurasov.png
       links:
         twitter: https://twitter.com/azuregeek
@@ -175,19 +175,19 @@ sessions:
         facebook: https://www.facebook.com/dzmitry.durasau
   -
     title: SQL Server Stretch Database.
-    description: "Stretch Database technology allows you to dynamically transfer 'hot' and 'cold' data from SQL Server 2016 to Azure. In the framework of laboratory work, we will look at how to customize the Stretch Database and what possible problems await us when using this technology."
+    description: "Stretch Database technology allows you to dynamically transfer 'hot' and 'cold' data from SQL Server 2016 to Azure. During the lab, we will look at how to customize the Stretch Database and what possible problems await us when using this technology."
     speaker:
       name: Sergey Syrovatchenko
-      bio: "He works at Devart at the SQL Server DBA position. Now he has 5 years experience working with SQL Server. Professional interests - optimization of queries and development of database architecture."
+      bio: "I'm working at Devart as SQL Server DBA. Currently I have 5 years of experience working with SQL Server. Professional interests - query optimization and development of database architecture."
       photoUrl: /assets/avatar/SSyrovatchenko.jpg
       links:
         linkedin: https://www.linkedin.com/in/sergeysyrovatchenko
   -
     title: Bot development using Bot Framework and Azure Cognitive Services.
-    description: "Although the bots have existed for a long time, now their use is of enormous interest. CUI (Conversational User Interface) is becoming more popular than applications and web services: after all, you can order a pizza or call a taxi just by chatting with bots in your favorite instant messenger. Within the framework of the report, we will look at the use of BotFramework - a new framework from Microsoft for writing bots in C #, and integrating a ready bot with instant messengers. Also, we will look at LUIS from Azure Cognitive Services, a service that allows you to recognize arbitrary messages from a user, determine intentions on a message, and extract meaningful information from it."
+    description: "Although the bots have been existing for a long time, using them now is of enormous interest. CUI (Conversational User Interface) is becoming more popular than applications and web services: after all, you can order a pizza or call a taxi just by chatting with bots in your favorite instant messenger. During the session, we will look at how to use the BotFramework - a new framework from Microsoft for writing bots using C#, and integrating a ready bot with instant messengers. Also, we will look at LUIS from Azure Cognitive Services, a service that allows you to recognize arbitrary messages from a user, determine intentions of a message and extract meaningful information from it."
     speaker:
       name: Anton Vidishchev
-      bio: "Anton - Microsoft MVP for Azure and active speaker at technical conferences. His specialization is the Microsoft Azure cloud. Anton leads a technical team of 90 people in Ukraine, developing a set of financial systems for the US market. He is also one of the organizers of the Odessa .NET community."
+      bio: "Anton - Microsoft Azure MVP and active speaker at technical conferences. His specialization is Microsoft Azure cloud. Anton leads a technical team of 90 people in Ukraine, developing a set of financial systems for the US market. He is also one of the organizers of the Odessa .NET community."
       photoUrl: /assets/avatar/AVidishchev.jpg
       links:
         linkedin: https://www.linkedin.com/in/antonvidishchev
@@ -232,16 +232,16 @@ sessions:
         facebook: https://www.facebook.com/alexander.laysha
   -
     title: SQL Server AlwaysOn & Azure IaaS.
-    description: "During this sessions, students will be introduced to SQL Server Always On technology and its development history from the time it was launched to the announced SQL Server 2016. The speaker will explain and demonstrate the creation of High Availability Groups in a virtual machine environment created with the resource manager (Resource Manager). The differences from the machines created with the help of the classical portal (Classic Portal) and from the environments built on own equipment will be considered. Separate attention will be paid to territorially distributed clusters, issues of fault tolerance and load balancing. The report is intended for specialists with medium and high level of training in the field of databases and cloud technologies."
+    description: "During this session, audience will be introduced to SQL Server Always On technology and its development history from the time it was launched to the announced SQL Server 2016. The speaker will explain and demonstrate the creation of High Availability Groups in a virtual machine environment created with the resource manager (Resource Manager). The differences from the machines created with the help of the classical portal (Classic Portal) and from the environments built on own equipment will be considered. Separate attention will be paid to territorially distributed clusters, issues of fault tolerance and load balancing. The session targets the medium and high level specialists in the field of databases and cloud technologies."
     speaker:
       name: Eugen Niedaszkowski
-      bio: "Eugen Niedaszkowski is a database administrator who has gained experience in such giants as UkrAVTO, Ukrtelecom and KPMG. At the moment Evgeniy works in an American company where he is responsible for tracking several thousand databases in geographically distributed clusters."
+      bio: "Eugen Niedaszkowski is a database administrator who has gained experience in such giants as UkrAVTO, Ukrtelecom and KPMG. At the moment Evgeniy if working for American company where he is responsible for tracking several thousand databases in geographically distributed clusters."
       photoUrl: /assets/avatar/ENiedaszkowski.jpg
       links:
         linkedin: https://ua.linkedin.com/in/nedash
   -
     title: Azure Active Directory Application Proxy.
-    description: "The track will consider the ability to publish corporate resources using the Azure Active Directory Application Proxy."
+    description: "The session will consider the ability to publish corporate resources using the Azure Active Directory Application Proxy."
     speaker:
       name: Alexander Tkachenko
       bio: ""
@@ -298,7 +298,7 @@ partners:
       www: https://myget.org/
   -
     name: Devart
-    description: "Devart was founded in 1997 and today it is one of the leading developers of database software, ALM solutions, providers for various database servers, cloud solutions for integration and data backup. The company also implements projects in the field of WEB and MOBILE directions."
+    description: "Devart is one of the leading developers of database software, ALM solutions, providers for various database servers, cloud solutions for integration and data backup. The range of tools for working with databases includes stand-alone applications and extensions for integrated development environments, such as: plug-ins for SSMS; ADO.NET providers; ODBC drivers; SSIS DataFlow components; add-ins for Excel; database access components for Delphi; dbExpress drivers; Skyvia is a cloud-based solution for integrating, backing up cloud data and managing data. Skyvia provides an easily configurable integration of cloud and relational data without having to write code, provides a reliable backup of cloud data with fast recovery and allows you to work with data using SQL queries."
     logoUrl: /assets/logo/devart.jpg
     links:
       www: https://www.devart.com/
@@ -322,7 +322,7 @@ partners:
       www: https://it-community.in.ua/
   -
     name: DataArt
-    description: We are an American company - DataArt, professionals and at the same time are good people who since 1997 are engaged in software development and try to please numerous customers, including technology companies and investment funds, representatives of the mobile technology market, online travel, mass media, medicine, Internet projects (details - on www.dataart.com). Headquartered is in New York, development centers are located in Voronezh, Dnipropetrovsk, Kiev, Lviv, Lublin, Odessa, St. Petersburg, Kharkov and Kherson. The company has a representative office in London (UK) and a representative office in Zug (Switzerland). We are all very different, so we are a real team, where everyone can realize themselves. We are in all senses a service company, our main task is to find ways to make our colleagues and customers happy. In our offices it is convenient and pleasant to work, we are always ready to share knowledge, support and help not only in professional, but also in personal matters.
+    description: "DataArt is a global technology consultancy that designs, develops and supports unique software solutions, helping clients take their businesses forward. Recognized for their deep domain expertise and superior technical talent, DataArt teams create new products and modernize complex legacy systems that affect technology transformation in select industries. DataArt has earned the trust of some of the world’s leading brands and most discerning clients, including Nasdaq, S&P, United Technologies, oneworld Alliance, Ocado, artnet, Betfair, and skyscanner. Organized as a global network of technology services firms, DataArt brings together expertise of over 2,200 professionals in 20 locations in the US, Europe, and Latin America."
     logoUrl: /assets/logo/dataart.jpg
     links:
       www: http://www.dataart.com/
