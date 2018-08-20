@@ -64,7 +64,7 @@ sessions:
     speaker:
       name: E Polonichko
       bio: "PASS Chapter Leader. 6 лет работы с MSSQL. В основном занимаюсь BI проектами(SSAS, SSIS, PowerBI, Cognos, Informatica PowerCenter, Pentaho, Tableau). На данный момент работаю Data Warehouse/BI architect."
-      photoUrl: /assets/avatar/EPolonichko.jpg
+      photoUrl: /assets/avatar/EPolonychko.jpg
       links:
         twitter: https://twitter.com/EvgenPolonichko
         linkedin: https://ua.linkedin.com/in/eugenepolonichko
@@ -356,11 +356,3 @@ partners:
     logoUrl: /assets/logo/ITEA.jpg
     links:
       www: http://itea.ua/
-
-
-
-
-
-
-
-
