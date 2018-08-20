@@ -7,7 +7,7 @@ venue:
 organizers:
   -
     name: Anton Boyko
-    bio: "Founder and main speaker at Ukrainian Microsoft Azure Community. 10+ years in application development. Builds apps based on Microsoft Azure platform since 2011. Microsoft Azure technical expert. Microsoft Azure MVP since 2014. Owner and one of the organizers of the most popular Microsoft Azure conferences in Ukraine: Azure Day and Global Azure Bootcamp."
+    bio: "Founder and main speaker of Ukrainian Microsoft Azure Community. 10+ years in application development. Builds apps based on Microsoft Azure platform since 2011. Microsoft Azure technical expert. Microsoft Azure MVP since 2014. Owner and one of the organizers of the most popular Microsoft Azure conferences in Ukraine: Azure Day and Global Azure Bootcamp."
     photoUrl: /assets/avatar/ABoyko.png
     links:
       facebook: https://www.facebook.com/boyko.ant
@@ -22,21 +22,21 @@ sessions:
     description:
     speaker:
       name: Sergey Psekha
-      bio: ".Net Competence Lead, Ciklum Delivery. Architect and Team Lead in area of Web Solutions. 10 years in .Net stack. Leading the team of 35 .Net developers. Specializes on: increasing productivity of software delivery in the technical area; Behavior Driven Development; backend and cloud architectures; solutions development peculiarities for IT Startups. Currently focused on Proof of Concept creation in area of Role Based Security Search Engine. The project for enterprise decided going social."
+      bio: ".Net Competence Lead, Ciklum Delivery. Architect and Team Lead in area of Web Solutions. 10 years in .Net stack. Leading the team of 35 .Net developers. Specializes in: increasing productivity of software delivery in the technical area; Behavior Driven Development; backend and cloud architectures; solution development peculiarities for IT Startups. Currently focused on Proof of Concept creation in area of Role Based Security Search Engine."
       photoUrl: /assets/avatar/_Person.png
       links:
   -
-    title: Who are DevOps and what is their mission?
+    title: Who are DevOps spetialists and what is their mission?
     description:
     speaker:
       name: Viktor Tsykunov
-      bio: "Microsoft cloud technologies expert. More than 10 years experience in IT. During the last 10 years has been working at Microsoft on different roles in product marketing, corporate sales and technical consulting."
+      bio: "Microsoft cloud technologies expert. More than 10 years of experience in IT. During the last 10 years has been working at Microsoft in different positions, such as product marketing, corporate sales and technical consulting."
       photoUrl: /assets/avatar/VTsykunov.jpg
       links:
         facebook: https://www.facebook.com/vtsykunov
   -
     title: Interoperability for scalability.
-    description: "A live Proof of Concept for creating scalable web application environment with Python + IIS at front-end and WordPress + Linux at back-end. All based on Azure Web Apps and Azure VMs. PoC not only for WordPress enthusiasts - it's all about REST API, JSON, separation and interoperability. It's all about things You can find on Azure."
+    description: "A live Proof of Concept for creating scalable web application environment with Python + IIS at front-end and WordPress + Linux as backend. All based on Azure Web Apps and Azure VMs. PoC not only for WordPress enthusiasts - it's all about REST API, JSON, separation and interoperability. It's all about things You can find on Azure."
     speaker:
       name: Michał Smereczyński
       bio: "Microsoft Azure MVP. A Linux guy. Founder and leader of Polish Microsoft Azure User Group. Entrepreneur - a technical expert and a consultant on Microsoft Azure platform. Open Source Software and interoperability evangelist."
@@ -49,7 +49,7 @@ sessions:
     description: "During this session we will get familiar with the Ionic framework, which allows us to develop very quickly cross-platform mobile applications using JavaScript. In order to exchange data between applications, we will develop a server part based on Node.JS and Azure Mobile Apps."
     speaker:
       name: Anton Boyko
-      bio: "Founder and main speaker at Ukrainian Microsoft Azure Community. 10+ years in application development. Builds apps based on Microsoft Azure platform since 2011. Microsoft Azure technical expert. Microsoft Azure MVP since 2014. Owner and one of the organizers of the most popular Microsoft Azure conferences in Ukraine: Azure Day and Global Azure Bootcamp."
+      bio: "Founder and main speaker of Ukrainian Microsoft Azure Community. 10+ years in application development. Builds apps based on Microsoft Azure platform since 2011. Microsoft Azure technical expert. Microsoft Azure MVP since 2014. Owner and one of the organizers of the most popular Microsoft Azure conferences in Ukraine: Azure Day and Global Azure Bootcamp."
       photoUrl: /assets/avatar/ABoyko.png
       links:
         facebook: https://www.facebook.com/boyko.ant
@@ -63,7 +63,7 @@ sessions:
     description: "What is Data Factory? Why is this service called a data harvester? Cloud ETL? In the session, I will answer all these questions. I will tell you how to use the factory for data transfer, how to analyze the data passed through it."
     speaker:
       name: Eugene Polonichko
-      bio: "PASS Chapter Leader. 6 years experience working with MSSQL. I mainly deal with BI projects (SSAS, SSIS, PowerBI, Cognos, Informatica PowerCenter, Pentaho, Tableau). At the moment I am working as Data Warehouse/BI architect."
+      bio: "PASS Chapter Leader. 6 years of experience working with MSSQL. I mainly deal with BI projects (SSAS, SSIS, PowerBI, Cognos, Informatica PowerCenter, Pentaho, Tableau). At the moment I am working as Data Warehouse/BI architect."
       photoUrl: /assets/avatar/EPolonichko.jpg
       links:
         twitter: https://twitter.com/EvgenPolonichko
@@ -81,13 +81,13 @@ sessions:
     description: ""
     speaker:
       name: Vladimir Bezmaly
-      bio: "Author for more than 250 articles published in Ukraine and Russia. He is Microsoft Most Valuable Professional in the field of Consumer Security, Microsoft Security Trusted Advisor. Kaspersky Certified Consultant. Kaspersky Certified Trainer. Experience in IT almost 40 years. In the IS about 25 years of experience."
+      bio: "Author of more than 250 articles published in Ukraine and Russia. He is a Microsoft Most Valuable Professional in the field of Consumer Security, Microsoft Security Trusted Advisor. Kaspersky Certified Consultant. Kaspersky Certified Trainer. Experience in IT almost 40 years with about 25 years of experience in IS."
       photoUrl: /assets/avatar/VBezmaly.jpg
       links:
         facebook: https://www.facebook.com/vlad.bezmaly
   -
     title: Application Insights From The Ground Up.
-    description: "Over the session we'll cover major topics of Visual Studio Application Insights through a combination of both lecture-style learning and hands-on experience. You will learn how easily diagnose exceptions and app performance issues and perform root cause analysis with ad-hoc queries. When you complete this workshop, you won't only know what Application Insights is, but you'll also have a vision that helps to detect, triage, and diagnose issues in your apps and services."
+    description: "Over the session we'll cover major topics of Visual Studio Application Insights through a combination of both lecture-style learning and hands-on experience. You will learn how to easily diagnose exceptions and app performance issues and perform root cause analysis with ad-hoc queries. When you complete this workshop, you won't only know what Application Insights is, but you'll also have a vision that helps to detect, triage, and diagnose issues in your apps and services."
     speaker:
       name: Igor Fesenko
       bio: ""
@@ -97,10 +97,10 @@ sessions:
         facebook: https://www.facebook.com/ifesen
   -
     title: DocumentDB in Action.
-    description: "Microsoft Azure DocumentDB service (now in preview) is a NoSQL document database service designed for scalable and high performance modern applications. DocumentDB is delivered as a fully managed service with an enterprise grade SLA. It supports querying of documents using a familiar SQL over hierarchical JSON documents. DocumentDB is truly schema-free. It allows you to store and query any JSON document, regardless of schema. In this presentation, you will learn: how to get started with DocumentDB you provision a new database account; how to index documents; how to create applications using DocumentDb (using REST API or programming libraries for several popular language); basics of DocumentDB Queries. This talk will cover also the latest updates, announced at the Build conference like new pricing policy, server side aprttitioned collections, DocumentDB protocol support for MongoDB."
+    description: "Microsoft Azure DocumentDB service (now in preview) is a NoSQL document database service designed for scalable and high performance modern applications. DocumentDB is delivered as a fully managed service with an enterprise grade SLA. It supports querying of documents using a familiar SQL over hierarchical JSON documents. DocumentDB is truly schema-free. It allows you to store and query any JSON document, regardless of schema. In this presentation, you will learn: how to get started with DocumentDB you provision in a new database account; how to index documents; how to create applications using DocumentDb (using REST API or programming libraries for several popular languages); basics of DocumentDB Queries. This talk will also cover the latest updates, announced at the Build conference, such as: new pricing policy, server side aprttitioned collections, DocumentDB protocol support for MongoDB."
     speaker:
       name: Mihail Mateev
-      bio: "Mihail Mateev is a Solutions Architect, Technical PM and Senior Technical Evangelist at Strypes, blogger, Community enthusiast, PASS Regional Mentor for CEE and chapter lead, Microsoft Azure MVP. Mihail worked in various areas related to technology Microsoft: .Net Framework, Windows Platform, ASP.Net MVC, Microsoft Data Platform  and Microsoft Azure. He also write many JS related blogs. Mihail is an administrator and co-organizer of many community events like SQLSaturday Bulgaria, JS Saturday Bulgaria, SharePoint Saturday Bulgaria, JSTalks Bulgaria and Azure Bootcamp Bulgaria."
+      bio: "Mihail Mateev is a Solutions Architect, Technical PM and Senior Technical Evangelist at Strypes, blogger, Community enthusiast, PASS Regional Mentor for CEE and chapter lead, Microsoft Azure MVP. Mihail worked in various areas related to technologies of  Microsoft: .Net Framework, Windows Platform, ASP.Net MVC, Microsoft Data Platform and Microsoft Azure. He is an author of many JS related blogs. Mihail is an administrator and co-organizer of many community events like SQLSaturday Bulgaria, JS Saturday Bulgaria, SharePoint Saturday Bulgaria, JSTalks Bulgaria and Azure Bootcamp Bulgaria."
       photoUrl: /assets/avatar/MMateev.jpg
       links:
         facebook: https://www.facebook.com/mihail.mateev
@@ -108,10 +108,10 @@ sessions:
         twitter: https://twitter.com/mihailmateev
   -
     title: Introduction to Cross-Platform Mobile DevOps.
-    description: "Modern development management tools allow you to cover the full cycle of mobile applications release from development to testing and publishing to the store. During the master class, we will go through the creation of a mobile application, connect the HokeyApps analytics into it, configure automated building and testing in the Xamarin Test Cloud using Visual Studio Team Services."
+    description: "Modern development management tools allow you to cover the full cycle of mobile applications release from development to testing and publishing to the store. During this master class, we will go through the creation of a mobile application, connect the HokeyApps analytics into it, configure automated builds and tests in the Xamarin Test Cloud using Visual Studio Team Services."
     speaker:
       name: Ihor Leontiev
-      bio: "Since 2012 .NET developer in Ukraine, since 2013 I have been working with the Microsoft Azure platform. In 2014 received the status of Microsoft Student Partner and at the same time began to actively participate in technical conferences. Today I'm involved in the process for building properly the process of developing and using DevOps practices as Communicative Intelligence and Innovation Development at iafoo.com, Montpellier, France."
+      bio: "Since 2012 .NET developer in Ukraine, since 2013 I have been working with the Microsoft Azure platform. In 2014 received the status of Microsoft Student Partner and at the same time began to actively participate in technical conferences. Today I'm involved in the process of developing and using DevOps practices as Communicative Intelligence and Innovation Development at iafoo.com, Montpellier, France."
       photoUrl: /assets/avatar/ILeontyev.jpg
       links:
         twitter: https://twitter.com/LeontievIhor
@@ -122,7 +122,7 @@ sessions:
     description: "Short introduction to Azure networking and a lot of demos. How to create vNET, subnet and VPN gateway in ARM and how to connect local Windows Server 2012 R2 RRAS to this network."
     speaker:
       name: Emil Wasilewski
-      bio: "Leader of Microsoft Azure User Group Poland. Microsoft Most Valuable Professional (MVP) in Microsoft Azure. Microsoft certified consultant and trainer. Co-organizer AzureDay Poland conference. He speaks about Microsoft Azure and other Microsoft solutions at conferences, meetings and groups as well as on his blog ZapytajEmila.pl. Privately fan of digital photography."
+      bio: "Leader of Microsoft Azure User Group Poland. Microsoft Most Valuable Professional (MVP) in Microsoft Azure. Microsoft certified consultant and trainer. Co-organizer of AzureDay Poland conference. He speaks about Microsoft Azure and other Microsoft solutions at conferences, meetings and groups as well as on his blog ZapytajEmila.pl. Privately a fan of digital photography."
       photoUrl: /assets/avatar/EmilWasilewski.jpg
       links:
         facebook: https://www.facebook.com/eklime
@@ -134,7 +134,7 @@ sessions:
     description: ""
     speaker:
       name: Anton Boyko
-      bio: "Founder and main speaker at Ukrainian Microsoft Azure Community. 10+ years in application development. Builds apps based on Microsoft Azure platform since 2011. Microsoft Azure technical expert. Microsoft Azure MVP since 2014. Owner and one of the organizers of the most popular Microsoft Azure conferences in Ukraine: Azure Day and Global Azure Bootcamp."
+      bio: "Founder and main speaker of Ukrainian Microsoft Azure Community. 10+ years in application development. Builds apps based on Microsoft Azure platform since 2011. Microsoft Azure technical expert. Microsoft Azure MVP since 2014. Owner and one of the organizers of the most popular Microsoft Azure conferences in Ukraine: Azure Day and Global Azure Bootcamp."
       photoUrl: /assets/avatar/ABoyko.png
       links:
         facebook: https://www.facebook.com/boyko.ant
@@ -148,7 +148,7 @@ sessions:
     description: ""
     speaker:
       name: Sergey Poplavskiy
-      bio: "The Microsoft employee, who is responsible for the Microsoft Azure platform development in Ukraine. During his work, he managed to conduct more than 30 deep technical trainings on this topic, participated in the development of many projects based on the Microsoft Azure platform."
+      bio: "Microsoft employee responsible for the Microsoft Azure platform development in Ukraine. During his work, he managed to conduct more than 30 deep technical trainings on this topic, participated in the development of many projects based on the Microsoft Azure platform."
       photoUrl: /assets/avatar/SPoplavskiy.png
       links:
         linkedin: https://www.linkedin.com/profile/view?id=137759362
@@ -158,16 +158,16 @@ sessions:
     description: "This speech will cover the experience of setting up CI/CD process and Release Management practice with tools from Microsoft and 3rd party Deployment Tool - Octopus Deploy."
     speaker:
       name: Sergii Kryshtop
-      bio: "Sergii Kryshtop is Software Engineer Manager in EPAM Ukraine, cloud evangelist with a focus on Microsoft Azure. Has more10+ years of experience in IT with diverse knowledge of different areas of Microsoft Technology stack. Has main focus in system architecture, software design and engineering practices for continuous delivery. Always happy to answer on hand-on questions regarding Visual Studio Team Services (VSO) and continuous delivery setup, Azure Resource Manager, Virtual Networks, Virtual Machines, Web Applications, SQL Database, Application Insights and more."
+      bio: "Sergii Kryshtop is a Software Engineer Manager in EPAM Ukraine, cloud evangelist with a focus on Microsoft Azure. Has more than 10 years of experience in IT with a diverse knowledge of different areas of Microsoft Technology stack. Has main focus in system architecture, software design and engineering practices for continuous delivery. Always happy to answer practical questions regarding Visual Studio Team Services (VSO) and continuous delivery setup, Azure Resource Manager, Virtual Networks, Virtual Machines, Web Applications, SQL Database, Application Insights and more."
       photoUrl: /assets/avatar/SKryshtop.jpg
       links:
         facebook: https://www.facebook.com/sergii.kryshtop
   -
-    title: Practices for building the file storages in Azure.
-    description: "Dmitry Durasov shares his experience of building highly loaded storage facilities in Azure. Only real production practices: you will learn from the first-hands how to store dozens of terabytes and millions of files in the cloud, how to bypass the pitfalls and what architects are face with when planning to migrate data to the cloud. There is no marketing bullshit, session is for 300-400 level and oriented on the experienced system administrators, architects and devops."
+    title: Practices for building file storages in Azure.
+    description: "Dmitry Durasov shares his experience of building highly loaded storage facilities in Azure. Only real production practices: you will learn how to store dozens of terabytes and millions of files in the cloud, how to bypass the pitfalls and what architects are faced with when planning to migrate data to the cloud. There is no marketing bullshit, session is for 300-400 level and oriented toward the experienced system administrators, architects and devops."
     speaker:
       name: Dmitriy Durasov
-      bio: "MCT, MCSA, MCTS, MCP, The main area of expertise is Cloud Solutions, Private and Public Clouds, Virtualization, Continuous Integration, Process Automation, PowerShell. He started in information technology with the MK-52, now he is engaged in cloud-based enterprise solutions. For the last 6 years he has been working for EPAM Systems, where he develops and implements various solutions for large customers from financial and information sectors."
+      bio: "MCT, MCSA, MCTS, MCP, The main area of expertise is Cloud Solutions, Private and Public Clouds, Virtualization, Continuous Integration, Process Automation, PowerShell. He started his work in information technology with the MK-52, now he is engaged in cloud-based enterprise solutions. For the last 6 years he has been working for EPAM Systems, where he develops and implements various solutions for large customers from financial and information sectors."
       photoUrl: /assets/avatar/DDurasov.png
       links:
         twitter: https://twitter.com/azuregeek
@@ -184,37 +184,37 @@ sessions:
         linkedin: https://www.linkedin.com/in/sergeysyrovatchenko
   -
     title: Bot development using Bot Framework and Azure Cognitive Services.
-    description: "Although the bots have been existing for a long time, using them now is of enormous interest. CUI (Conversational User Interface) is becoming more popular than applications and web services: after all, you can order a pizza or call a taxi just by chatting with bots in your favorite instant messenger. During the session, we will look at how to use the BotFramework - a new framework from Microsoft for writing bots using C#, and integrating a ready bot with instant messengers. Also, we will look at LUIS from Azure Cognitive Services, a service that allows you to recognize arbitrary messages from a user, determine intentions of a message and extract meaningful information from it."
+    description: "Although the bots have existed for a long time, using them now is of enormous interest. CUI (Conversational User Interface) is becoming more popular than applications and web services: after all, you can order a pizza or call a taxi just by chatting with bots in your favorite instant messenger. During the session, we will look at how to use the BotFramework - a new framework from Microsoft for writing bots using C# and integrating a ready bot with instant messengers. Also, we will look at LUIS from Azure Cognitive Services, a service that allows you to recognize arbitrary messages from a user, determine intentions of a message and extract meaningful information from it."
     speaker:
       name: Anton Vidishchev
-      bio: "Anton - Microsoft Azure MVP and active speaker at technical conferences. His specialization is Microsoft Azure cloud. Anton leads a technical team of 90 people in Ukraine, developing a set of financial systems for the US market. He is also one of the organizers of the Odessa .NET community."
+      bio: "Anton is a Microsoft Azure MVP and active speaker at technical conferences. His specialization is Microsoft Azure cloud. Anton leads a technical team of 90 people in Ukraine, developing a set of financial systems for the US market. He is also one of the organizers of the Odessa .NET community."
       photoUrl: /assets/avatar/AVidishchev.jpg
       links:
         linkedin: https://www.linkedin.com/in/antonvidishchev
         facebook: https://www.facebook.com/anton.vidishchev
   -
     title: Enabling DevTest in Microsoft Azure.
-    description: "In this demo-centric session we will talk about a new service called Azure DevTest Labs. How it can improve your DevTest scenarios and solve today’s challenges connected to development and test environments."
+    description: "In this demo-centric session we will talk about a new service called Azure DevTest Labs. How it can improve your DevTest scenarios and solve today’s challenges involving development and test environments."
     speaker:
       name: Igor Fesenko
-      bio: "Application Architect, SoftServe. He is passionate about designing and developing scalable, flexible, cloud ready software solutions, utilizing state of art security practices. He is proficient in C#, JavaScript & Azure and has managed and assessed multiple projects focusing on high performance and large data solutions. His current focus is on the building and improvement of scalable and secure web applications, cloud-enabled applications and operations, and identity & access management."
+      bio: "Application Architect, SoftServe. He is passionate about designing and developing scalable, flexible, cloud-ready software solutions, utilizing state of art security practices. He is proficient in C#, JavaScript & Azure and has managed and assessed multiple projects focusing on high performance and large data solutions. His current focus is on building and improvement of scalable and secure web applications, cloud-enabled applications and operations, and identity & access management."
       photoUrl: /assets/avatar/IFesenko.jpg
       links:
         twitter: https://twitter.com/Ky7m
         facebook: https://www.facebook.com/ifesen
   -
     title: Secure your data in five clicks.
-    description: "One hour demo session focused on newest security feature in SQL Server 2016 and Windows Azure SQL Database. Few slides, few words and several of demos which (i hope) inviting you for some experiments with your data and their security. We will talk about TDE (Transparent Data Encryption), DDM (Dynamic Data Masking), RLS (Row Level Security) and maybe most famous AlwaysEncrypted. We focus on practical use case scenarios but with strong procedural and protocols basis. And I'm sure you can expect unexpected."
+    description: "One hour demo session focused on newest security feature in SQL Server 2016 and Windows Azure SQL Database. Several slides, several words and several demos which (I hope) would invite you to conduct your own experiments with data and data security. We will talk about TDE (Transparent Data Encryption), DDM (Dynamic Data Masking), RLS (Row Level Security) and maybe most famous AlwaysEncrypted. We focus on practical use case scenarios but with strong procedural and protocols basis. And I'm sure you can expect the unexpected."
     speaker:
       name: Tobiasz Koprowski
-      bio: "CEO of Shadowland Consulting. Community leader focused on SQL Server, SharePoint, security, collaboration and ITIL, DR, BCM and SLA. Love licensing stuff. MCT, freelancer and consultant. Subject Matter Expert at CQURE. Member of Microsoft Terminology Community, Friends of RedGate PLUS, PASS, ISSA, ACM and several communities in the world. Member of the boards: PTI & ISSA (Poland's Chapter). Since 1st July 2010 Data Platform MVP."
+      bio: "CEO of Shadowland Consulting. Community leader focused on SQL Server, SharePoint, security, collaboration and ITIL, DR, BCM and SLA. Loves licensing stuff. MCT, freelancer and consultant. Subject Matter Expert at CQURE. Member of Microsoft Terminology Community, Friends of RedGate PLUS, PASS, ISSA, ACM and several communities in the world. Member of the boards: PTI & ISSA (Poland's Chapter). Since 1st July 2010 Data Platform MVP."
       photoUrl: /assets/avatar/TKoprowski.jpg
       links:
         linkedin: https://uk.linkedin.com/in/koprowskit
         twitter: https://twitter.com/KoprowskiT
   -
     title: Complex Event Processing with Azure Stream Analytics.
-    description: "Azure Stream Analytics targets complex event streams (CEP’s) to deduce meaningful patterns. Most of the typical use cases for this product is when various devices and sensors are sending data for further processing. This technology uses a T-SQL like syntax to express its intents. A language that most data-power users will be familiar with. The biggest advantage of Stream Analytics is when events are being published to the Stream Analytics, the only thing that event publishers needs to know is which Event Bus or Blob storage to place the data. Stream Analytics will then fetch the data. This talk is about the main concepts and solution architecture when using Azure Stream Analytics, and also how to use this technology together with MS SQL Server, DocumentDB, Azure SQL Database and Power BI."
+    description: "Azure Stream Analytics targets complex event streams to deduce meaningful patterns. Most of the typical use cases for this product is when various devices and sensors are sending data for further processing. This technology uses a T-SQL like syntax to express its intents, a language that most data powerusers will be familiar with. The biggest advantage of Stream Analytics is that when events are being published to the Stream Analytics, the only thing that event publishers need to know is in which Event Bus or Blob storage to place the data. Stream Analytics will then fetch the data. This talk is about the main concepts and solution architecture when using Azure Stream Analytics, and also usage scenarios of this technology with MS SQL Server, DocumentDB, Azure SQL Database and Power BI."
     speaker:
       name: Mihail Mateev
       bio: ""
@@ -225,23 +225,23 @@ sessions:
     description: "At the Build2016 conference, Microsoft announced the release of a new service in GA - Azure Service Fabric, which is focused on developing applications using the approach of micro-service architecture. As part of the report, we will get acquainted with Azure Service Fabric, and also consider an example of the transfer of a small IoT application built using Azure Cloud Service to a new architecture based on Azure Service Fabric."
     speaker:
       name: Alexander Laisha
-      bio: "Behind him - 7 years of experience in the development and design of commercial systems in different business areas. The last 3 years working with the Microsoft Azure cloud platform on projects of varying complexity. He works for EPAM Systems as Chief Software Engineer and is engaged in the migration of a highly eBilling application to the Microsoft Azure cloud. Microsoft Azure MVP, leader and permanent speaker of the Azure community in Belarus - Belarus Azure User Group."
+      bio: "Behind him are 7 years of experience in development and design of commercial systems in different business areas. For the last 3 years he has been working with Microsoft Azure cloud platform in projects of varying complexity. He works for EPAM Systems as Chief Software Engineer and is engaged in migration of a highly eBilling application to the Microsoft Azure cloud. Microsoft Azure MVP, leader and permanent speaker of the Azure community in Belarus - Belarus Azure User Group."
       photoUrl: /assets/avatar/ALaisha.png
       links:
         twitter: https://twitter.com/layshaalexander
         facebook: https://www.facebook.com/alexander.laysha
   -
     title: SQL Server AlwaysOn & Azure IaaS.
-    description: "During this session, audience will be introduced to SQL Server Always On technology and its development history from the time it was launched to the announced SQL Server 2016. The speaker will explain and demonstrate the creation of High Availability Groups in a virtual machine environment created with the resource manager (Resource Manager). The differences from the machines created with the help of the classical portal (Classic Portal) and from the environments built on own equipment will be considered. Separate attention will be paid to territorially distributed clusters, issues of fault tolerance and load balancing. The session targets the medium and high level specialists in the field of databases and cloud technologies."
+    description: "During this session, audience will be introduced to SQL Server Always On technology and its development history from the time it was launched to the announced SQL Server 2016. The speaker will explain and demonstrate the creation of High Availability Groups in a virtual machine environment created with Resource Manager. The differences between the machines created with the help of Classic Portal and from the environments built on your own equipment will be considered. Separate attention will be paid to territorially distributed clusters, issues of fault tolerance and load balancing. Session targets are medium and high level specialists in the field of databases and cloud technologies."
     speaker:
       name: Eugen Niedaszkowski
-      bio: "Eugen Niedaszkowski is a database administrator who has gained experience in such giants as UkrAVTO, Ukrtelecom and KPMG. At the moment Evgeniy if working for American company where he is responsible for tracking several thousand databases in geographically distributed clusters."
+      bio: "Eugen Niedaszkowski is a database administrator who has gained experience in such giants as UkrAVTO, Ukrtelecom and KPMG. At the moment Evgeniy is working for American company where he is responsible for tracking several thousand databases in geographically distributed clusters."
       photoUrl: /assets/avatar/ENiedaszkowski.jpg
       links:
         linkedin: https://ua.linkedin.com/in/nedash
   -
     title: Azure Active Directory Application Proxy.
-    description: "The session will consider the ability to publish corporate resources using the Azure Active Directory Application Proxy."
+    description: "The session will consider the ability to publish corporate resources using Azure Active Directory Application Proxy."
     speaker:
       name: Alexander Tkachenko
       bio: ""
@@ -252,23 +252,23 @@ sessions:
 partners:
   -
     name: Microsoft
-    description: Founded in 1975, Microsoft is recognized as the world leader in software development, as well as in providing services and solutions that help people and companies to fully realize their potential. Since 2003, Microsoft Ukraine has been operating in Ukraine, whose tasks include the development of the software market, as well as the introduction and localization of the latest technologies in Ukraine.
+    description: Founded in 1975, Microsoft is recognized as the world leader in software development, as well as in providing services and solutions that help people and companies to fully realize their potential. Since 2003, Microsoft Ukraine has been operating in Ukraine, whose tasks include the development of the software market, as well as introduction and localization of the latest technologies in Ukraine.
     logoUrl: /assets/logo/microsoft.jpg
   -
     name: EPAM
-    description: "Engineering is in our DNA. Since 1993, we’ve helped the world’s leading companies imagine, design, engineer, and deliver software that changes the world. Today, we are more than developers. Our offices are digital laboratories. Our clients are major global brands. And we’re always looking for talented teammates."
+    description: "Engineering is in our DNA. Since 1993, we’ve helped the world’s leading companies to imagine, design, engineer, and deliver software that changes the world. Today, we are more than developers. Our offices are digital laboratories. Our clients are major global brands. And we’re always looking for talented teammates."
     logoUrl: /assets/logo/epam.jpg
     links:
       www: https://www.epam.com
   -
     name: Onlizer
-    description: "Onlizer is cloud-based platform for applications development, launch and monitoring. Focus of our product is simplification of automation and virtualization processes for organizations of any size. Onlizer in general contains 3-component solution: “Integration with no code” to easy start and progress for automation projects, “Ready-to-use scenarios and modules” to faster solutions development, “Applications platform as a service” to handle runtime, testing and service tasks. As result of these properties Onlizer provides many opportunities and valuable results for different kind of experts involved in automation and development process – IT Pros, Developers, Management, Startups and many more."
+    description: "Onlizer is cloud-based platform for applications development, launch and monitoring. Focus of our product is simplification of automation and virtualization processes for organizations of any size. Onlizer in general contains 3-component solution: “Integration with no code” to easy start and progress for automation projects, “Ready-to-use scenarios and modules” to faster solutions development, “Applications platform as a service” to handle runtime, testing and service tasks. As a result of these properties Onlizer provides many opportunities and valuable results for different kind of experts involved in automation and development process – IT Pros, Developers, Management, Startups and many more."
     logoUrl: /assets/logo/onlizer.jpg
     links:
       www: http://onlizer.com/
   -
     name: Ciklum
-    description: "Ciklum is a Danish company, founded in 2002, working in the field of software development outsourcing. Ciklum is an international company with sales offices in Denmark, Sweden, Great Britain, Germany, Switzerland and the Netherlands, Israel, America and development centers in major cities of Ukraine (Kiev, Kharkiv, Dnepropetrovsk, Lviv, Odessa and Vinnitsa), Belarus (Minsk) and Pakistan (Lahore, Islamabad). The company is one of the five largest IT companies in Ukraine."
+    description: "Ciklum is a Danish company founded in 2002, working in the field of software development outsourcing. Ciklum is an international company with sales offices in Denmark, Sweden, Great Britain, Germany, Switzerland and the Netherlands, Israel, America and development centers in major cities of Ukraine (Kyiv, Kharkiv, Dnipropetrovsk, Lviv, Odesa and Vinnitsia), Belarus (Minsk) and Pakistan (Lahore, Islamabad). The company is one of the five largest IT companies in Ukraine."
     logoUrl: /assets/logo/ciklum.jpg
     links:
       www: https://www.ciklum.com/
