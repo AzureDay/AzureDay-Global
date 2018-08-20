@@ -42,7 +42,7 @@ sessions:
     speaker:
       name: Łukasz Grala
       bio: ""
-      photoUrl: /assets/avatar/
+      photoUrl: /assets/avatar/_Person.png
 -
     title: Jak policzyć koszty chmury? Dobre i złe przykłady z projektów ostateniego roku
     speaker:
@@ -117,10 +117,8 @@ partners:
       www: https://www.microsoft.com
 -
     name: Demant-technology
-    description: "We are a young company with a high degree of professional freedom
-which is dedicated to explore new technologies and provide
-innovations that empower people with hearing loss "
-    logoUrl: /assets/logo/Demand logo.jpg
+    description: "We are a young company with a high degree of professional freedom which is dedicated to explore new technologies and provide innovations that empower people with hearing loss"
+    logoUrl: /assets/logo/Demand_logo.jpg
     links:
       www: https://www.demant-technology.com
 -
@@ -132,27 +130,25 @@ innovations that empower people with hearing loss "
 -
     name: CodeTwo
     description: "CodeTwo is a trusted software vendor and Microsoft Partner delivering Office 365 and Exchange solutions to over 67,000 businesses from 150 countries - with Shell, Facebook, US Coast Guard, and UNICEF on top of the list"
-    logoUrl: /assets/logo/FinAi logo.svg
+    logoUrl: /assets/logo/FinAi_logo.svg
     links:
       www: https://www.codetwo.com/
 -
     name: Vernity
-    description: "Vernity to zespół specjalistów IT, posiadających nie tylko wysoce rozwinięte umiejętności i doświadczenie, ale także pasję, którą wkładają w każdy stworzony przez siebie projekt.
-
-Nasza pracowitość i niebagatelna wiedza zaowocowały prestiżowymi Statusami Partnerskimi największych na świecie producentów sprzętu IT i oprogramowania. Wysoka specjalizacja naszej firmy sprawia, że oferujemy rozwiązania dopasowane do każdego indywidualnego Klienta."
-    logoUrl: /assets/logo/vernity logo.png
+    description: "Vernity to zespół specjalistów IT, posiadających nie tylko wysoce rozwinięte umiejętności i doświadczenie, ale także pasję, którą wkładają w każdy stworzony przez siebie projekt. Nasza pracowitość i niebagatelna wiedza zaowocowały prestiżowymi Statusami Partnerskimi największych na świecie producentów sprzętu IT i oprogramowania. Wysoka specjalizacja naszej firmy sprawia, że oferujemy rozwiązania dopasowane do każdego indywidualnego Klienta."
+    logoUrl: /assets/logo/vernity_logo.png
     links:
       www: https://www.vernity.pl
 -
     name: Nordcloud
     description: "Nordcloud was born in the cloud and has grown to be the European leader in public cloud infrastructure solutions and cloud native application services. We go above and beyond for our customers on their cloud journey, providing a future-proof cloud solution every step of the way."
-    logoUrl: /assets/logo/Nordcloud logo.svg
+    logoUrl: /assets/logo/Nordcloud_logo.svg
     links:
       www: https://nordcloud.com/
 -
     name: Summ-it
     description: "Firma summ-it powstała w roku 2011, jako jednoosobowa działalność gospodarcza summ-it Wojciech Wencel. Pięć lat później działalność ta została przekształcona w spółkę z ograniczoną odpowiedzialnością. Założycielem, jak i prezesem zarządu firmy jest Wojciech Wencel. Współzałożycielem firmy summ-it jest Rafał Chomicz, który pełni rolę Delivery Managera."
-    logoUrl: /assets/logo/summ-it logo.png
+    logoUrl: /assets/logo/summ-it_logo.png
     links:
       www: https://www.summ-it.pl/
   
