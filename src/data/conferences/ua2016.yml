@@ -64,7 +64,7 @@ sessions:
     speaker:
       name: Eugene Polonichko
       bio: "PASS Chapter Leader. 6 years of experience working with MSSQL. I mainly deal with BI projects (SSAS, SSIS, PowerBI, Cognos, Informatica PowerCenter, Pentaho, Tableau). At the moment I am working as Data Warehouse/BI architect."
-      photoUrl: /assets/avatar/EPolonichko.jpg
+      photoUrl: /assets/avatar/EPolonychko.jpg
       links:
         twitter: https://twitter.com/EvgenPolonichko
         linkedin: https://ua.linkedin.com/in/eugenepolonichko
@@ -249,6 +249,9 @@ sessions:
       links:
         linkedin: https://www.linkedin.com/in/altkachenko
         facebook: https://www.facebook.com/al.tkachenko
+
+hasWorkshops: false
+
 partners:
   -
     name: Microsoft
@@ -356,11 +359,3 @@ partners:
     logoUrl: /assets/logo/ITEA.jpg
     links:
       www: http://itea.ua/
-
-
-
-
-
-
-
-

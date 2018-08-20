@@ -19,7 +19,7 @@ organizers:
 sessions:
   -
     title: Abusing Azure Functions.
-    description: "Many of us had at least heard, someone maybe even tried to work with Azure Functions - a serverless platform in Microsoft Azure cloud. From the first glimpse it looks great and even I started to feel a strong desire to rewrite all my Web APIs using my new "favorite framework of the day". At some point it may seem like a lot of benefits, but Azure Functions is just a tool. As any other tool it has usage scenario for which it was designed. And, to benefit from it, you need to know what those scenarios are and to be able to use the tool properly. During this talk I will go through common mistakes of misusing Azure Functions, misunderstanding serverless architecture and suffering from continuous pain till the end of times."
+    description: "Many of us had at least heard, someone maybe even tried to work with Azure Functions - a serverless platform in Microsoft Azure cloud. From the first glimpse it looks great and even I started to feel a strong desire to rewrite all my Web APIs using my new \"favorite framework of the day\". At some point it may seem like a lot of benefits, but Azure Functions is just a tool. As any other tool it has usage scenario for which it was designed. And, to benefit from it, you need to know what those scenarios are and to be able to use the tool properly. During this talk I will go through common mistakes of misusing Azure Functions, misunderstanding serverless architecture and suffering from continuous pain till the end of times."
     speaker:
       name: Anton Boyko
       bio: "Founder and main speaker of Ukrainian Microsoft Azure Community. 10+ years in application development. Builds apps based on Microsoft Azure platform since 2011. Microsoft Azure technical expert. Microsoft Azure MVP since 2014. Owner and one of the organizers of the most popular Microsoft Azure conferences in Ukraine: Azure Day and Global Azure Bootcamp."
@@ -313,6 +313,25 @@ sessions:
       links:
         www: http://liashov.com/
         linkedin: https://www.linkedin.com/in/ievgen-liashov-05412145/
+
+hasWorkshops: true
+workshops:
+  -
+    title: Xamarin Forms для начинающих.
+    description: "Теоретическая часть Xamarin.Forms: типы проектов и их отличия (Forms and Native); плагины для проектов и расширения; аналитика поведения пользователя в приложении; страницы и элементов форм; подключение к Azure. Практическая часть: создание проекта Xamarin.Forms; создание страниц и элементов форм; верстка приложения; создание дизайна; написание логики работы приложения; подключение приложения к Azure; тестирование и анализ поведения в приложении пользователя."
+    speaker:
+      name: Dmitriy Ivanov
+      photoUrl: /assets/avatar/DIvanov.jpg
+  -
+    title: How to create a BI Solution in Azure (Azure Data Factory, Azure SQL, Azure Analysis Services).
+    description: "Последнее время многие проекты мигрируют в облако. На это есть множество причин и скорость, и инфраструктура и т.д., стек технологий Business Intelligence тоже не остался в стороне. мигрируем наше хранилище данных в облако(посмотрим на SQL Azure, SQL DWH); настроим и построим пакеты выгрузки в ХД с помощью Azure Data Factory; построим модель в Azure Analysis Services."
+    speaker:
+      name: Eugene Polonychko
+      bio: "Eugene Polonichko has over 6 years of experience with SQL Server. He mainly focuses on BI projects (SSAS, SSIS, PowerBI, Azure DWH, Azure SSAS). Eugene is a passionate speaker and a SQL community volunteer presenting regularly at PASS SQL Saturday events and local user groups around Ukraine and Europe. Eugene is PASS Chapter Leader. He leads SQL Server User Group Donetsk and he is a Data Platform MVP"
+      photoUrl: /assets/avatar/EPolonychko.jpg
+      links:
+        facebook: https://www.facebook.com/mydjeki
+
 
 partners:
   -
