@@ -98,6 +98,9 @@ sessions:
       photoUrl: /assets/avatar/AShunkov.png
       links:
         linkedin: https://www.linkedin.com/in/shunkov
+
+hasWorkshops: false
+
 partners:
   -
     name: Belarus Azure User Group

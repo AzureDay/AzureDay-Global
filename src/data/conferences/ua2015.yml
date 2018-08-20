@@ -110,6 +110,9 @@ sessions:
       bio: "He is engaged in construction of infrastructure since 1997. Since 2000, he was engaged in infrastructure management in banks and insurance companies. In 2004 received the status of Microsoft Certified Trainer and began to conduct trainings in such fields as Windows, Lync, Exchange, System Center and security. At the same time he is engaged in projects to build IT infrastructures."
       photoUrl: /assets/avatar/AShokhanov.jpg
       links:
+
+hasWorkshops: false
+
 partners:
   -
     name: Microsoft

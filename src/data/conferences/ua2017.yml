@@ -314,6 +314,8 @@ sessions:
         www: http://liashov.com/
         linkedin: https://www.linkedin.com/in/ievgen-liashov-05412145/
 
+hasWorkshops: true
+workshops:
 partners:
   -
     name: Microsoft

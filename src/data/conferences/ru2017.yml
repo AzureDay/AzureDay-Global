@@ -78,6 +78,9 @@ sessions:
       photoUrl:  /assets/avatar/VGusarov.png
       links:
         mvp: https://mvp.microsoft.com/ru-ru/PublicProfile/4028927
+
+hasWorkshops: false
+
 partners:
   -
     name: Digital October

@@ -249,6 +249,9 @@ sessions:
       links:
         linkedin: https://www.linkedin.com/in/altkachenko
         facebook: https://www.facebook.com/al.tkachenko
+
+hasWorkshops: false
+
 partners:
   -
     name: Microsoft
