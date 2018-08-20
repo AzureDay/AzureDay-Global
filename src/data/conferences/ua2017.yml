@@ -316,6 +316,23 @@ sessions:
 
 hasWorkshops: true
 workshops:
+  -
+    title: Xamarin Forms для начинающих.
+    description: "Теоретическая часть Xamarin.Forms: типы проектов и их отличия (Forms and Native); плагины для проектов и расширения; аналитика поведения пользователя в приложении; страницы и элементов форм; подключение к Azure. Практическая часть: создание проекта Xamarin.Forms; создание страниц и элементов форм; верстка приложения; создание дизайна; написание логики работы приложения; подключение приложения к Azure; тестирование и анализ поведения в приложении пользователя."
+    speaker:
+      name: Dmitriy Ivanov
+      photoUrl: /assets/avatar/DIvanov.jpg
+  -
+    title: How to create a BI Solution in Azure (Azure Data Factory, Azure SQL, Azure Analysis Services).
+    description: "Последнее время многие проекты мигрируют в облако. На это есть множество причин и скорость, и инфраструктура и т.д., стек технологий Business Intelligence тоже не остался в стороне. мигрируем наше хранилище данных в облако(посмотрим на SQL Azure, SQL DWH); настроим и построим пакеты выгрузки в ХД с помощью Azure Data Factory; построим модель в Azure Analysis Services."
+    speaker:
+      name: Eugene Polonychko
+      bio: "Eugene Polonichko has over 6 years of experience with SQL Server. He mainly focuses on BI projects (SSAS, SSIS, PowerBI, Azure DWH, Azure SSAS). Eugene is a passionate speaker and a SQL community volunteer presenting regularly at PASS SQL Saturday events and local user groups around Ukraine and Europe. Eugene is PASS Chapter Leader. He leads SQL Server User Group Donetsk and he is a Data Platform MVP"
+      photoUrl: /assets/avatar/EPolonychko.jpg
+      links:
+        facebook: https://www.facebook.com/mydjeki
+
+
 partners:
   -
     name: Microsoft
