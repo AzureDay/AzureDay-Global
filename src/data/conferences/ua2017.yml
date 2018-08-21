@@ -191,7 +191,7 @@ sessions:
     speaker: 
       name: Mariusz Ferdyn 
       bio: ""
-      photoUrl: /assets/avatar/MFerdyn.jpg
+      photoUrl: /assets/avatar/MariuszFerdyn.jpg
       links:
         facebook: https://www.facebook.com/mariusz.ferdyn
         mvp: https://mvp.microsoft.com/en-us/PublicProfile/5002168
@@ -215,7 +215,7 @@ sessions:
     speaker: 
       name: Emil Wasilewski 
       bio: "Microsoft Azure MVP, Leader of Microsoft Azure User Group Poland, Speaker, Trainer, Consultant."
-      photoUrl: /assets/avatar/EWasilewski.jpg
+      photoUrl: /assets/avatar/EmilWasilewski.jpg
       links: 
         linkedin: http://www.linkedin.com/in/emilwasilewski
         twitter: https://twitter.com/WasilewskiEmil
@@ -301,7 +301,7 @@ sessions:
     speaker: 
       name: Dzmitry Durasau 
       bio: ""
-      photoUrl: /assets/avatar/DDurasau.jpg
+      photoUrl: /assets/avatar/DDurasov.png
       links:
   -
     title: Corporate resources and information protection with Azure
