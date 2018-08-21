@@ -331,7 +331,73 @@ workshops:
       photoUrl: /assets/avatar/EPolonychko.jpg
       links:
         facebook: https://www.facebook.com/mydjeki
-
+  -
+    title: Azure Container Service - from zero to hero.
+    description: "В течении лабораторной работы мы будем разбираться что такое Docker и "с чем его едят".Мы создадим базовый контейнер и научимся его публиковать в публичный/приватный репозиторий. Разберемся с построением собственных образов и каким образом компоновать несколько контейнеров и как правильно настраивать "общение" между ними.К концу дня вы поймете что такое Docker и насколько это удобный инструмент, сможете сами создавать свои контейнеры, научитесь работать с публичными/приватными репозиториями, сможете создать свою собственную aka "production" архитектуру для запуска контейнеров в Azure. По завершению лабораторной работы у вас будет собственный контейнер который будет запущен как локально, так и в облаке управляемый оркестратором."
+    speaker:
+      name: Ihor Leontiev
+      bio: "Started career as a .Net Developer for a machine building company in Ukraine, in 2013 I became interested in cloud computing and the Microsoft Azure platform. In 2015 struck off in a new direction with the “Creation of Innovative Enterprises” at a French-Ukrainian master’s program in France. Is Lead Architect on all Blockchain projects of Viseo group. Active participant and a regular speaker in Ukrainian Microsoft Azure Community and Azure User Group France. Now living and working as Azure Architect in France."
+      photoUrl: /assets/avatar/ILeontiev.jpg
+      links:
+        linkedin: https://www.linkedin.com/in/leontievihor
+  -
+    title: IoT своими руками на примере Azure и RaspberryPi с Windows 10 IoT Core.
+    description: "Мы развернем облачную IoT инфраструктуру, состоящую из минимального набора компонентов и подключим к ней устройство, собранное на основе RaspberryPi. В результате мы сможем удаленно получать информацию с устройства, отображать ее и управлять элементами на данном устройстве.Поучаствовав в воркшопе, вы узнаете как устроен внутри IoT-проект на примере сервисов Microsoft Azure, поймете с чего можно начать работу над IoT проектом, получите практические навыки работы с Microsoft Azure, познакомитесь с основными сервисами Microsoft Azure для IoT и особенностями их настройки и тарификации. В итоге, Вы сможете быстро развернуть готовую облачную инфраструктуру для вашего IoT проекта и будете понимать где, как и что нужно будет в ней поменять, чтобы учесть ваши требования и пожелания."
+    speaker:
+      name: Alexander Surkov
+      bio: "Alexandr Surkov is a developer with more than 10 years of experience. He is the head of software development department of security systems startup since 2011. In his free time he writes articles and speaks at different events. He got Microsoft MVP award in 2016 and now he leads Russian IoT Community https://www.meetup.com/IoTCommunity"
+      photoUrl: /assets/avatar/ASurkov.jpg
+      links:
+        facebook: https://www.facebook.com/AOSurkov
+        twitter: https://twitter.com/AOSurkov
+        mvp: https://mvp.microsoft.com/ru-ru/PublicProfile/5002197
+  -
+    title: Create Api App with authentication and web jobs.
+    description: "Introduction: Acquaintance; Course overview; Set up environment, check required software. Prepare environment: Create Azure resource group; Create Azure storage; Create App Service plan; Check AAD. Data source and model library: Create Azure SQL server; Create database project; Deploy to Azure SQL database as data-tier application; Connect to SQL Azure from Visual Studio, check data; Create class library; Add data models with Entity Framework. API app - basic: Overview; Types of web apps, app plan, pricing; Create App plan and API app; Tune swagger package; Launch local instance, deploy to Azure. API app - intermediate: Add models from SQL database; Create new controllers; Deploy to Azure; Create Asp.Net MVC site as consumer; Add Rest service; Deploy Asp.Net MVC site to Azure; Check Rest API. Web jobs - basics: Overview; Create console application that convert images; Update application to convert image in storage; Discuss possible triggers; Convert console application to web job; Deploy to API app to Azure; Check web job. Web jobs - intermediate: Add logging; Add async methods; Debug web jobs. API app - advanced: Add authentication with Easy Auth; Create AAD application; Add authorize attribute. Web jobs - advanced: Create new web job with trigger; Consume API app from web job; Create AAD application for web job; Check results. Conclusions."
+    speaker:
+      name: Illya Reznykov
+      bio: "I have 20+ years of programming, 10+ years of experience in the full cycle of ERP system developing, 5+ years of experience in the integration between processing and technological data systems. Mainly my expertise is related to Microsoft's technologies. I am using Azure in projects since 2014."
+      photoUrl: /assets/avatar/IReznykov.jpg
+      links:
+        facebook: https://www.facebook.com/ireznykov
+        twitter: https://twitter.com/reznykov
+        linkedin: https://www.linkedin.com/in/illya-reznykov-783a2930
+        www: https://ireznykov.com
+        github: https://github.com/IReznykov
+  -
+    title: Boosting complex IT solutions performance with Microsoft Azure storage services.
+    description: "Основой любого IT-решения является хранилище данных. Поэтому производительность, надежность и безопасность решения напрямую зависит от корректного подбора и использования хранилища данных.Поэтому мы научимся: понимать почему нет «серебряной пули» для хранения данных; подбирать хранилище согласно требованиям проекта; создавать, настраивать и оптимизировать различные типы хранилищ в облаке Azure; «хакам», трюкам и «тюнингу» программного кода Вашего облачного решения для оптимизации работы с хранилищем; жизненному опыту использования облачных хранилищ в высокопроизводительных проектах."
+    speaker:
+      name: Andrey Deren
+      bio: "Participated in development, management and launch of dozens software products and enterprise-level solutions since 2009 as Software Architect, Technical Lead, CTO and CEO. Co-founder and CEO at Dreams Innovative Technologies LLC company since 2012. Company specializes in development of complex solutions for enterprise market using BigData, Data Science, AI/ML, Cloud and other modern progressive technologies. Co-founder and CEO at Onlizer LLC since 2015. Onlizer team develops cloud-based platform for business processes automation. Active speaker and member of Ukrainian Azure Community. Speaker and co-organizer at many events – iForum, Software Engineering Conference , Ternopil JS, Vinnytsia JS."
+      photoUrl: /assets/avatar/ADeren.jpg
+      links:
+        facebook: https://www.facebook.com/dalligieri
+        linkedin: https://linkedin.com/in/andriy-deren-9a872029
+        twitter: https://twitter.com/dralligieri
+  -
+    title: Dive into Bot Platform. Сreate FAQ bot using Azure, Cognitive services and Bot Framework.
+    description: "Во время воркшопа мы сперва ознакомимся с теоретическими аспектами создания ботов. Они включают в себя следующие темы: Общая теория создания ботов; Проектирование UX\UI; Bot SDK & Bot Connector – сервисы, облегчающие создание ботов; Структура бота: Conversations, Dialogs, Flows; Использование когнитивных сервисов ботах. Затем мы закрепим полученные знания на практике и сделаем следующее: Создадим простого «линейного» и «древовидного» бота используя Dialogs; Добавим Rich UI елементы: Prompts, Rich Cards и другие; Добававим приветственные и проактивные сообщения; Поработаем над авторизацией, локализацией и другими продвинутыми техниками, которые можно применять в ботах."
+    speaker:
+      name: Sergey Poplavskiy
+      bio: "Сергей отвечает за развитие платформы Microsoft Azure и средств разработки в Украине. За время своей работы успел провести более 40 глубоких технических тренингов, участвовал в разработке нескольких проектов на платформе Microsoft Azure, имеет практический опыт реализации и внедрения решений на ее базе. Много лет программирует на платформе .Net используя Visual Studio, реализовал несколько собственных приложений под платформы Windows Phone, Windows и Azure. Один из основателей Лаборатории интернет вещей в «Майкрософт Украина»."
+      photoUrl: /assets/avatar/SPoplavskiy.jpg
+      facebook: https://www.facebook.com/sergey.poplavskiy.35
+  -
+    title: Exploring ASP.NET Core Web API.
+    description: "На воркшопе мы сделаем c нуля разработаем Web Api приложение. В течении дня мы: узнаем как пользоваться консольными инструментами .NET Core; познакомимся с методами конфигурирования приложения; научимся добавлять Live-документацию и убедимся что приложение успешно работает на разных платформах (Windows, Linux, Mac); и ещё много всего другого."
+    speaker: 
+      name: Valentin Radchuk
+      bio: "Занимаюсь разработкой на платформе .NET с 2008 года. Работаю на позиции Lead .NET Developer в компании Cogniance. C .NET Core знаком не понаслышке - участвовал в разработке не одного коммерческого продукта на этой технологии."
+      photoUrl: /assets/avatar/ValentinRadchuk.jpg
+      linkedin: https://www.linkedin.com/in/valentineradchuk
+  -
+    title: VSTS/TFS шаг за шагом.
+    description: "Воркшоп покажет возможности платформы VSTS/TFS от получения требований заказчика до развертывания. В процессе мероприятия мы вместе с участниками обсудим и опробуем следующие области: Управление проектом разработки ПО. Гибкие и формальные методы, которые поддерживает платформа, а также организация рабочего пространства команды; Реализация требований, сборка и развертывание продукта. Рассматриваются вопросы, связанные с реализацией изменений в коде, непрерывной интеграцией и развертыванием; Контроль качества продукта; Как выполняется тестирование и приемка продукта."
+    speaker:
+      name: Александр Шамрай
+      bio: "Александр занимается проблемами командной разработки ПО уже более 10-ти лет. Основные направления профессиональной деятельности: проектное управление, управление конфигурациями и изменениями, описание и адаптация процессов разработки на основе гибких и формальных методологий. Основные инструменты реализации – это группа продуктов Microsoft Visual Studio и Project Server. Имеет статус MVP, а также является сертифицированным специалистом в области Application Lifecycle Management."
+      photoUrl: /assets/avatar/AShamray.jpg
 
 partners:
   -
