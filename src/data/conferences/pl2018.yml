@@ -3,7 +3,10 @@ name: AzureDay 2018 Poland
 date: 23th of March 2018
 venue:
   name: Microsoft Polska
-  address: Aleje Jerozolimskie, 195A,Warszawa, 02-222, Poland  
+  address: Aleje Jerozolimskie, 195A,Warszawa, 02-222, Poland
+  coordinates:
+    latitude: 52.2004595
+    longitude: 20.9339253
 organizers:
   -
     name: Emil Wasilewski
