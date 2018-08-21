@@ -3,7 +3,7 @@ name: AzureDay 2015 Ukraine
 date: 14th of March 2015
 venue:
   name: Microsoft Ukraine
-  address: Бізнес-центр “Євразія”, вул. Жилянська 75, Київ, 01032 Україна
+  address: Eurasia Business Centre, Zhylianska St, 75, Kyiv, 02000, Ukraine
   coordinates:
     latitude: 50.4389784
     longitude: 30.4964262
@@ -21,8 +21,8 @@ organizers:
       www: http://boykoant.pro
 sessions:
   -
-    title: Публикация веб приложений на Azure Web Sites при помощи встроенного build сервера Kudu.
-    description: Все мы знаем, что можно легко настроить публикацию нашего приложения на Azure Web Sites из Git репозитория расположенного, к примеру, на GitHub. Процесс настройки данной публикации выглядит довольно просто и с первого взгляда похож на простое копирование файлов, хотя на деле это далеко не так. Запуская публикацию приложения, мы можем предварительно прогнать автоматические тесты и не публиковать ничего есть тесты завершились с ошибкой. Мы можем выбрать, к примеру, какой именно проект мы хотим опубликовать, при случае что у нас их несколько в одном репозитории. Мы также можем менять множество других настроек и во время своего доклада я покажу как работает эта невероятная магия.
+    title: Publish web applications to Azure Web Sites using built-in Kudu server.
+    description: "We all know that you can easily configure publication of our application on Azure Web Sites from Git repository located, for example, on GitHub. The process of setting up this publication looks quite simple and at first glance it looks like a simple copying of files, although in reality this is far from that. While running the publication of the application, we can pre-run all automatic tests and not publish anything if there were failed tests. We can choose, for example, what kind of project we want to publish if we have several in the same repository. We can also change many other settings and during my session I will show how this incredible magic works."
     speaker:
       name: Anton Boyko
       bio: "Founder and main speaker at Ukrainian Microsoft Azure Community. 10+ years in application development. Builds apps based on Microsoft Azure platform since 2011. Microsoft Azure technical expert. Microsoft Azure MVP since 2014. Owner and one of the organizers of the most popular Microsoft Azure conferences in Ukraine: Azure Day and Global Azure Bootcamp."
@@ -35,7 +35,7 @@ sessions:
         mycert: http://www.mycertprofile.com/Profile/8861740279
         www: http://boykoant.pro
   -
-    title: Синхронизация каталогов Azure Active Directory - deep dive.
+    title: Directory synchronization in Azure Active Directory - deep dive.
     description: 
     speaker:
       name: Alexander Tkachenko
@@ -45,132 +45,135 @@ sessions:
         linkedin: http://ua.linkedin.com/in/altkachenko
         facebook: https://www.facebook.com/al.tkachenko
   -
-    title: Azure Stream Analytics для обработки большого объема событий.
+    title: Azure Stream Analytics for processing large volume of events.
     description: 
     speaker:
-      name: Сергей Поплавский
+      name: Sergey Poplavskiy
       bio: 
       photoUrl: /assets/avatar/SPoplavskiy.png
       links:
         linkedin: https://www.linkedin.com/profile/view?id=137759362
         facebook: https://www.facebook.com/sergey.poplavskiy.35
   -
-    title: Использование Docker контейнеров для обеспечения работы распределенного приложения в Azure.
+    title: Using Docker containers to ensure that distributed application will work in Azure.
     description: 
     speaker:
-      name: Олег Чёрный
-      bio: Сертифицированный тренер Microsoft, а также сертифицированный специалист Microsoft в реализации инфраструктурных решений на платформе Microsoft Azure. Имеет статус Microsoft MVP по направлению Software Packaging, Deployment & Servicing. Занимает должность Operations Lead в Edgar Online. Интересуется DevOps практиками и их внедрением.
+      name: Oleg Chernyi
+      bio: "Microsoft Certified Trainer, as well as Microsoft Certified Specialist in Infrastructure Solutions Implementation using Microsoft Azure Platform. He has Microsoft MVP status in the field of Software Packaging, Deployment & Servicing. He holds Operations Lead position in Edgar Online. Interested in DevOps practices and their implementation."
       photoUrl: /assets/avatar/_Person.png
       links:
   -
-    title: Алгоритмы в Azure Machine Learning и где их лучше применять.
-    description: Azure Machine Learning – сервис, который позволит использовать мощности искусственного интеллекта на базе облака Azure для осуществления бизнес-прогнозирований, бизнес-аналитики и анализа данных. В докладе разберем, какие алгоритмы есть в и в каких сценариях их лучше всего применять.
+    title: Algorithms in Azure Machine Learning and where they are best used.
+    description: "Azure Machine Learning is a service that will enable the use of artificial intelligence based on the Azure cloud for business forecasting, business intelligence and data analysis. In this session we will analyze which algorithms exist and in which scenarios they are best used."
     speaker:
-      name:  Виктор Цикунов
-      bio: "Microsoft cloud technologies expert. More than 10 years experience in IT. During the last 10 years has been working at Microsoft on different roles in product marketing, corporate sales and technical consulting."
+      name:  Victor Tsykunov
+      bio: "Microsoft cloud technologies expert. More than 10 years experience in IT. During the last 10 years has been working for Microsoft in different roles, as in product marketing, corporate sales and technical consulting."
       photoUrl: /assets/avatar/VTsykunov.jpg
       links:
   -
-    title: Мобильная криминалистика. Анализ резервных копий Windows Phone.
-    description: Сегодня большое значение приобретает работа криминалиста по восстановлению доказательств с различных гаджетов. Как показывает практика, восстановить информацию сл смартфона под управлением Windows Phone 8 совсем не просто. При подключении устройства по кабелю вы сможете всего лишь прочесть медиафайлы, так как при подключении по USB работает только Media Transfer Protocol. А как получить телефонный список, СМС и т.д.? Проще всего для этого воспользоваться облачной копией. Как? Об этом мы и поговорим подробнее.
+    title: Mobile criminology. Analysis of Windows Phone backup copies.
+    description: "Today, the criminalist's job of recovering evidence from various gadgets becomes more and more important. Practice reveals that recovering information from a smartphone running Windows Phone 8 isn't easy at all. When you connect the device via cable, you can only read media files, because when you connect via USB, only the Media Transfer Protocol works. And how to get a phone list, SMS, etc.? The easiest way to do this is by using cloud copy. How? We will talk about this in more detail."
     speaker:
-      name: Владимир Безмалый
-      bio: Автор более 250 статей, изданных в Украине и России. Обладатель статуса Microsoft Most Valuable Professional в области Consumer Security Microsoft Security Trusted Advisor Опыт работы в ИТ почти 40 лет. В ИБ порядка 25 лет.
+      name: Vladimir Bezmaly
+      bio: "Author of more than 250 articles published in Ukraine and Russia. Microsoft Most Valuable Professional in the field of Consumer Security, Microsoft Security Trusted Advisor. Experience in IT for almost 40 years. The IS is about 25 years old."
       photoUrl: /assets/avatar/VBezmaly.jpg
       links:
         facebook: https://www.facebook.com/vlad.bezmaly
         www: http://www.bezmaly.com/
   -
-    title: Масштабирование реляционной БД в Azure. Миф или реальность?
-    description: "Масштабируемость приложения стала критическим элементом дизайна после перехода от модели индивидуальных программ к серверной модели работы приложений. Масштабируемые приложения способны справиться с более активным использованием и возросшим объёмом данных. Масштабируемые приложения обладают высокой доступностью и отказоустойчивостью. Масштабируемые приложения управляемы и сопровождаемы. Всё это справедливо по отношению ко всем слоям приложения, в том числе и к базе данных. Масштабирование базы данных - процесс довольно сложный. В Azure уже была попытка масштабировать базу данных, и наверняка многие помнят SQL Azure Federations и почему хорошая идея оказалась не такой хорошей. На сейчас Federations являются Deprecated функциональностью, и Майкрософт презентует новую модель масштабирования базы данных в облаке: Elastic Scale. В этом докладе мы разберёмся почему провалились Federations, как разработчики учли старые ошибки в создании нового продукта, и действительно ли так хорош Elastic Scale чтобы использовать его в серьёзном проекте."
+    title: Scaling the relational database in Azure. Myth or reality?
+    description: "Scalability of the application has become a critical design element after the transition from a model of individual programs to a server-based application model. Scalable applications can cope with more active use and increased data volume. Scalable applications have high availability and fault tolerance. Scalable applications are manageable and maintainable. All of this is true with respect to all layers of the application, including the database. Scaling the database is a complicated process. Azure had already an attempt to scale the database, and for sure many people remember SQL Azure Federations and why the good idea turned out to be not so good. At present, Federations are a deprecated functionality and Microsoft presents a new model of database scaling in the cloud: Elastic Scale. In this presentation we will look at why the Federations failed, how developers took into account old mistakes during creation of a new product, and whether Elastic Scale is so good to use in a serious project."
     speaker:
       name: Denis Reznik
-      bio: Работает в компании TFG an Intapp Company на позиции Director of R&D. Имеет большой опыт разработки и проектирования решений на базе SQL Server и SQL Azure. Увлекается вопросами оптимизации запросов, масштабирования баз данных, разработкой сложных архитектурных решений и внутренним устройством SQL Server. C 2010 года является Microsoft MVP по SQL Server. Активный участник SQL сообщества и лидер Kyiv SQL Server User Group. Соавтор книги "SQL Server MVP Deep Dives Vol. 2"
+      bio: "He works for TFG an Intapp Company as Director of R&D. He has extensive experience in development and design of solutions based on SQL Server and SQL Azure. He is keen on questions of query optimization, database scaling, developing of complex architectural solutions and internal structure of SQL Server. Since 2010, he is Microsoft SQL Server MVP. Active member of SQL community and leader of Kyiv SQL Server User Group. Co-author of the book \"SQL Server MVP Deep Dives Vol. 2\""
       photoUrl: /assets/avatar/_Person.png
       links:
         linkedin: http://ua.linkedin.com/pub/denis-reznik/3/502/234
   -
-    title: Деплоймент инфраструктуры и сервисов с использованием Azure Service Management Cmdlets.
-    description: В этом докладе я поделюсь опытом использования Azure Service Management Cmdlets для автоматизации деплоймента в облако. Будет рассмотрена структура скриптов, оптимизация, а также проблемы и их решения.
+    title: Deployment of infrastructure and services using Azure Service Management Cmdlets.
+    description: "In this session he will share the experience of using Azure Service Management Cmdlets to automate the deployment into the cloud. The structure of scripts, optimization, as well as problems and their solutions will be considered."
     speaker:
-      name: Денис Холод
-      bio: Денис Холод занимает должность ведущего разработчика в Intapp. Имеет 5 лет опыта в построении enterprise приложений. Сейчас отвечает за перемещение в облако систем управления рисками, также отвечает за построение multitenant окружения.
+      name: Denis Kholod
+      bio: "Denis Kholod is a lead developer in Intapp. Has 5 years of experience in building enterprise applications. Now he is responsible for move of the risk management systems to the cloud, as well as for building a multitenant environment."
       photoUrl: /assets/avatar/DKholod.jpg
       links:
   -
-    title: Управление релизами в Azure окружении используя PowerShell и Desired State Configuration.
+    title: Managing releases in the Azure environment using PowerShell and Desired State Configuration.
     description: 
     speaker:
-      name: Олег Чёрный
-      bio: Сертифицированный тренер Microsoft, а также сертифицированный специалист Microsoft в реализации инфраструктурных решений на платформе Microsoft Azure. Имеет статус Microsoft MVP по направлению Software Packaging, Deployment & Servicing. Занимает должность Operations Lead в Edgar Online. Интересуется DevOps практиками и их внедрением.
+      name: Oleg Chernyi
+      bio: "Microsoft Certified Trainer, as well as Microsoft Certified Specialist in Infrastructure Solutions Implementation on Microsoft Azure Platform. He has Microsoft MVP status in the field of Software Packaging, Deployment & Servicing. He holds Operations Lead position in Edgar Online. Interested in DevOps practices and their implementation."
       photoUrl: /assets/avatar/_Person.png
       links:
   -
-    title: Тонкая настройка производительности дисков на виртуальных машинах в Azure.
+    title: Fine-tuning the disks performance on Azure virtual machines.
     description: 
     speaker:
-      name: Андрей Шоханов
-      bio: Занимается вопросами построения инфраструктуры с 1997 года. С 2000 года занимался управлением инфраструктурой в банках и страховых компаниях. В 2004 году получил статус Microsoft Certified Trainer и начал проводить тренинги по направлениям Windows, Lync, Exchange, System Center и безопасность. Параллельно занимается проектами по построению ИТ инфраструктур.
+      name: Andrey Shokhanov
+      bio: "He is engaged in construction of infrastructure since 1997. Since 2000, he was engaged in infrastructure management in banks and insurance companies. In 2004 received the status of Microsoft Certified Trainer and began to conduct trainings in such fields as Windows, Lync, Exchange, System Center and security. At the same time he is engaged in projects to build IT infrastructures."
       photoUrl: /assets/avatar/AShokhanov.jpg
       links:
+
+hasWorkshops: false
+
 partners:
   -
     name: Microsoft
-    description: Заснована в 1975 році корпорація Microsoft є визнаним світовим лідером у галузі розробки програмного забезпечення, а також у наданні послуг та рішень, які допомагають людям та компаніям повністю реалізувати свій потенціал. З 2003 року в Україні працює компанія «Майкрософт Україна», до завдань якої входить розвиток ринку програмного забезпечення, а також впровадження і локалізація новітніх технологій на території Україні.
+    description: "Founded in 1975, Microsoft is recognized as the world leader in software development, as well as in providing services and solutions that help people and companies to fully realize their potential. Since 2003, Microsoft Ukraine has been operating in Ukraine, whose tasks include the development of the software market, as well as the introduction and localization of the latest technologies in Ukraine."
     logoUrl: /assets/logo/microsoft.jpg
     links:
       www: http://www.microsoft.com/uk-ua/default.aspx
   -
-    name: ИТ сообщество Украины
-    description: Проект «ИТ сообщество Украины» основан в начале 2014 года c целью создания ресурса, на котором ИТ-специалисты разного уровня смогут получить актуальную информацию о различных продуктах, а также особенностях их конфигурирования. На данный момент сообщество поддерживается усилиями 10-ти авторов, которые представляют различные направления информационных технологий. Это дает возможность проекту охватить много направлений, что в конечном итоге будет более интересно читателю.
+    name: IT community of Ukraine
+    description: "The project \"IT community of Ukraine\" was founded in early 2014 with the goal of creating a resource where IT specialists of different levels will be able to obtain up-to-date information about various products and features of their configuration. At the moment, the community is supported by the efforts of 10 authors who represent various areas of information technology. This allows the project to cover many areas, which will be more interesting for the reader as result."
     logoUrl: /assets/logo/it-community.jpg
     links:
       www: https://it-community.in.ua/
   -
-    name: Компьютерная Академия ШАГ
-    description: Компьютерная Академия ШАГ – крупнейшее международное учебное заведение, специализирующееся на компьютерном образовании. Наши преподаватели – это практикующие специалисты с опытом работы в IT-индустрии. Они учат тому, о чем не пишут в учебниках. Программа обучения соответствует требованиям, которые предъявляются к молодым специалистам при трудоустройстве в IT-компанию. Ничего лишнего. Только то, что пригодится в работе.
+    name: STEP Computer Academy
+    description: "Computer Academy STEP is the largest international educational institution specializing in computer education. Our teachers are practicing specialists with experience in the IT industry. They teach what you will never read about in textbooks. The training program meets the requirements that are imposed on young professionals to start working for an IT company. Nothing extra. Only what is useful at work."
     logoUrl: /assets/logo/ITStep.jpg
     links:
       www: http://itstep.org/
   -
     name: AppClub
-    description: AppClub { build, monetize } - клуб мобильных разработчиков и стартапов.
+    description: "AppClub { build, monetize } - mobile developers and startups club."
     logoUrl: /assets/logo/AppClub.jpg
     links:
       www: http://appclub.im/
   -
     name: Livatek
-    description: Livatek - группа компаний в Дании и Германии, предлагающих услуги по разработке программного обеспечения. Мы предоставляем нашим клиентам гибкий доступ к наилучшим IT-ресурсам, помогая выбрать наиболее эффективную модель сотрудничества для достижения поставленных целей. Доверие, уважение и длительные отношения с нашими коллегами – залог успешной работы Livatek на рынке Европы в сфере информационных технологий.
+    description: "Livatek is a group of companies in Denmark and Germany offering software development services. We provide our clients with flexible access to the best IT resources, helping to choose the most effective partnership model for achieving the set of goals. Trust, respect and long-term relationships with our colleagues are the key to Livatek's successful work in the European information technology market."
     logoUrl: /assets/logo/livatek.jpg
     links:
       www: http://www.livatek.com/
   -
     name: GlobalLogic
-    description: GlobalLogic — международная IT-компания полного цикла разработки программных продуктов. Компания создает уникальные продукты в таких сферах как цифровые медиа, финансы, медицина, телекоммуникации и др. Среди ее клиентов — как перспективные стартапы, так и лидеры рынков. GlobalLogic в Украине входит в пятерку крупнейших IT-фирм страны. Компания сотрудничает более чем с 2400 специалистами в Киеве, Харькове, Львове и Николаеве.
+    description: "GlobalLogic is an international IT company with a full cycle of software development. The company creates unique products in such areas as digital media, finance, medicine, telecommunications, etc. Among its customers are both promising start-ups as well as market leaders. GlobalLogic in Ukraine is one of the five largest IT-firms in the country. The company cooperates with more than 2,400 specialists in Kyiv, Kharkiv, Lviv and Nikolaiv."
     logoUrl: /assets/logo/GlobalLogic.jpg
     links:
       www: http://globallogic.com.ua/
   -
     name: Intego Group
-    description: Intego Group provides an integrated portfolio of engineering services to clients in North America and Western Europe, leveraging deep domain expertise, a solid technology background, and multi-industry experience. Established in 1999, Intego Group employs a global delivery model through its client-facing operations in the United States and delivery centers strategically located in Ukraine. Combining comprehensive capabilities and highly skilled talent, we collaborate with our customers to build long-term partnerships based on our culture of engineering excellence and commitment to high quality. Focusing on transparent and flexible engagement models, Intego Group has a successful track record helping late-stage start-ups, mid-market firms and Fortune 500 companies build complex software products and IT solutions in a variety of industry verticals, including ISVs and Technology, Financial Services, Oil and Gas, Medical and Pharmaceutical, Media and Publishing, Travel and Hospitality, and many others.
+    description: "Intego Group provides an integrated portfolio of engineering services to clients in North America and Western Europe, leveraging deep domain expertise, a solid technology background, and multi-industry experience. Established in 1999, Intego Group employs a global delivery model through its client-facing operations in the United States and delivery centers strategically located in Ukraine. Combining comprehensive capabilities and highly skilled talent, we collaborate with our customers to build long-term partnerships based on our culture of engineering excellence and commitment to high quality. Focusing on transparent and flexible engagement models, Intego Group has a successful track record helping late-stage start-ups, mid-market firms and Fortune 500 companies build complex software products and IT solutions in a variety of industries, including ISVs and Technology, Financial Services, Oil and Gas, Medical and Pharmaceutical, Media and Publishing, Travel and Hospitality, and many others."
     logoUrl: /assets/logo/intego.jpg
     links:
       www: http://www.intego-group.com/
   -
     name: DataArt
-    description: Мы — американская компания DataArt, профессионалы и при этом хорошие люди, которые с 97-го года занимаются разработкой ПО и стараются радовать им многочисленных заказчиков, среди которых — технологические компании и инвестиционные фонды, представители рынка мобильных технологий, онлайн-путешествий, масс-медиа, медицины, Интернет-проектов (подробности — на www.dataart.com). Штаб-квартира расположена в Нью-Йорке, центры разработки находятся в Воронеже, Днепропетровске, Киеве, Львове, Люблине, Одессе, Санкт-Петербурге, Харькове и Херсоне. У компании есть представительский офис в Лондоне (Великобритания) и представительство в Цуге (Швейцария). Мы все очень разные, поэтому составляем настоящую команду, где каждый может реализовать себя. Мы — во всех смыслах сервисная компания, наша главная задача — находить пути, чтобы делать счастливыми и коллег, и заказчиков. В наших офисах удобно и приятно работать, мы всегда готовы поделиться друг с другом знаниями, поддержать и помочь не только в профессиональных, но и в личных вопросах.
+    description: "We are an American company - DataArt, professionals and at the same time good people who since 1997 are engaged in software development and try to please numerous customers, including technology companies and investment funds, representatives of mobile technology market, online travel, mass media, medicine, Internet projects (details - on www.dataart.com). Headquartered is in New York, development centers are located in Voronizh, Dnipropetrovsk, Kyiv, Lviv, Lublin, Odesa, St. Petersburg, Kharkiv and Kherson. The company has a representative office in London (UK) and a representative office in Zug (Switzerland). We are all very different, so we are a real team, where everyone can realize themselves. We are in all senses a service company, our main task is to find ways to make our colleagues and customers happy. Our offices are  convenient and pleasant to work in, we are always ready to share knowledge, support and help not only in professional, but also in personal matters."
     logoUrl: /assets/logo/dataart.jpg
     links:
       www: http://www.dataart.com/
   -
     name: Information Systems Security Partners
-    description: Information Systems Security Partners - специализированная экспертная компания по обеспечению безопасности информационных систем на основе технологий от ведущих мировых производителей, что дает возможность компании ISSP предоставлять своим клиентам лучшие в мире решения и оказывать компетентные услуги по интеграции технологий, технической поддержке и профессиональному консалтингу по информационной безопасности.
+    description: "Information Systems Security Partners is a specialized expert company that ensures the security of information systems based on technology from the world's leading manufacturers. It enables ISSP to provide its customers with the best solutions in the world and provide competent services for technology integration, technical support and professional information security consulting."
     logoUrl: /assets/logo/issp.jpg
     links:
       www: http://www.issp.ua/
   -
     name: Ciklum
-    description: Ciklum — датская компания, основанная в 2002 году, работающая в сфере аутсорсинга разработки программного обеспечения. Ciklum — это международная компания с офисами продаж в Дании, Швеции, Великобритании, Германии, Швейцарии и Нидерландах, Израиле, Америке и центрами разработки в крупных городах Украины (Киев, Харьков, Днепропетровск, Львов, Одесса и Винница), в Беларуси (Минск) и Пакистане (Лахор, Исламабад). Компания входит в пятерку крупнейших ИТ компаний Украины.
+    description: "Ciklum is a Danish company, founded in 2002, working in the field of software development outsourcing. Ciklum is an international company with sales offices in Denmark, Sweden, Great Britain, Germany, Switzerland and the Netherlands, Israel, America and development centers in major cities of Ukraine (Kyiv, Kharkiv, Dnipropetrovsk, Lviv, Odesa and Vinnytsia), Belarus (Minsk) and Pakistan (Lahore, Islamabad). The company is one of the five largest IT companies in Ukraine."
     logoUrl: /assets/logo/ciklum.jpg
     links:
       www: http://www.ciklum.com/

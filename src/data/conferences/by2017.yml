@@ -97,6 +97,9 @@ sessions:
       name: Mihail Mateev
       bio: "Senior Solution Architect & Microsoft Regional Director at EPAM Systems. Mihail Mateev is a Microsoft Regional Director currently living in Sofia, Bulgaria. His interests range from technology to entrepreneurship. He is also interested in programming, web development, and education. Mihail is a Technical Consultant, Community enthusiast, PASS Regional Mentor for Central Eastern Europe, chapter lead, Data Platform and Microsoft Azure MVP, Organizer of SQLSaturday, Azure Bootcamp, IoT and JavaScript conferences. His experience is in various areas related to Microsoft technologies, including Windows Platform, ASP.Net MVC, MS SQL Server and Microsoft Azure. Mihail has a PhD in cloud computing and am a university lecturer on Smart Homes and Smart Energy IoT Solutions. "
       photoUrl: /assets/avatar/MMateev.jpg
+
+hasWorkshops: false
+
 partners:
   -
     name: Belarus Azure User Group

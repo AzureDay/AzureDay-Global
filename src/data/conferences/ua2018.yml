@@ -20,6 +20,9 @@ organizers:
       mycert: http://www.mycertprofile.com/Profile/8861740279
       www: http://boykoant.pro
 sessions:
-  
+
+hasWorkshops: true
+workshops:
+
 partners:
   

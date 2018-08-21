@@ -103,6 +103,21 @@
                 </a>
             </div>
             <!-- item ends -->
+            <!-- item starts -->
+            <div class="col-lg-4 col-md-4 col-sm-6 col-xs-12">
+                <a href="/conferences/2018/pl.html">
+                    <div>
+                        <img src="{{ Data.countries.poland.coverImgSrcA }}" alt="{{ Data.countries.poland.name }} {{ Data.conferences.pl2018.name }}" class="img-responsive" />
+                    </div>
+                    <div class="mainConferenceCountryBlock">
+                        {{ Data.countries.poland.name }} 
+                    </div>
+                    <div class="mainConferenceTitleBlock">
+                        {{ Data.conferences.pl2018.date }} - {{ Data.conferences.pl2018.name }}
+                    </div>
+                </a>
+            </div>
+            <!-- item ends -->
         </div>
     </div>
 

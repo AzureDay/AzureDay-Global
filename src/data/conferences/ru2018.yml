@@ -149,6 +149,9 @@ sessions:
       bio: "Expert in creation of business intelligence systems on Power BI platform. He has been working with Microsoft products as an engineer, developer and trainer for more than 10 years. Specializes in implementation of systems based on Office 365, Microsoft Azure, Power BI. Develops and integrates systems of independent business analytics for financial and other departments of foreign and Russian companies. Certified Microsoft trainer."
       photoUrl: /assets/avatar/Soloviev.png
       links:
+
+hasWorkshops: false
+
 partners:
   -
     name: Digital October

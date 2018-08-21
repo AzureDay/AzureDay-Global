@@ -109,6 +109,72 @@
             {{/ Page.Model.conference.organizers }}
         </div>
 
+        {{# Page.Model.conference.hasWorkshops }}
+            <div class="page-header">
+                <h2><span class="glyphicon glyphicon-list" aria-hidden="true"></span> Workshops</h2>
+            </div>
+
+            <div class="row row-eq-height">
+                {{# Page.Model.conference.workshops }}
+                    <div class="col-lg-12 col-md-12 col-sm-12 col-xs-12">
+                        <div class="col-lg-6 col-md-6 col-sm-6 col-xs-12">
+                            <div class="panel panel-default">
+                                <div class="panel-heading">
+                                    <h5>{{ title }}</h5>
+                                </div>
+                                <div class="panel-body">
+                                    {{ description }}
+                                </div>
+                            </div>
+                        </div>
+
+                        <div class="col-lg-6 col-md-6 col-sm-6 col-xs-12">
+                            <div class="col-lg-6 col-md-6 col-sm-6 col-xs-12" style="text-align: center;">
+                                <img class="img-responsive img-rounded thumbnail" src="{{ speaker.photoUrl }}" alt="{{ speaker.name }}" />
+                                <ul class="list-inline">
+                                    {{# speaker.links.www }}
+                                        <li><a target="_blank" href="{{ . }}"><i class="fas fa-globe-americas fa-3x"></i></a></li>
+                                    {{/ speaker.links.www }}
+
+                                    {{# speaker.links.mvp }}
+                                        <li><a target="_blank" href="{{ . }}"><i class="fab fa-microsoft fa-3x"></i></a></li>
+                                    {{/ speaker.links.mvp }}
+
+                                    {{# speaker.links.facebook }}
+                                        <li><a target="_blank" href="{{ . }}"><i class="fab fa-facebook fa-3x"></i></a></li>
+                                    {{/ speaker.links.facebook }}
+
+                                    {{# speaker.links.twitter }}
+                                        <li><a target="_blank" href="{{ . }}"><i class="fab fa-twitter fa-3x"></i></a></li>
+                                    {{/ speaker.links.twitter }}
+
+                                    {{# speaker.links.linkedin }}
+                                        <li><a target="_blank" href="{{ . }}"><i class="fab fa-linkedin fa-3x"></i></a></li>
+                                    {{/ speaker.links.linkedin }}
+
+                                    {{# speaker.links.github }}
+                                        <li><a target="_blank" href="{{ . }}"><i class="fab fa-github-square fa-3x"></i></a></li>
+                                    {{/ speaker.links.github }}
+
+                                    {{# speaker.links.mycert }}
+                                        <li><a target="_blank" href="{{ . }}"><i class="fas fa-award fa-3x"></i></a></li>
+                                    {{/ speaker.links.mycert }}
+
+                                    {{# speaker.links.meetup }}
+                                        <li><a target="_blank" href="{{ . }}"><i class="fab fa-meetup fa-3x"></i></a></li>
+                                    {{/ speaker.links.meetup }}
+                                </ul>
+                            </div>
+                            <div class="col-lg-6 col-md-6 col-sm-6 col-xs-12">
+                                <h4>{{ speaker.name }}</h4>
+                                <p>{{ speaker.bio }}</p>
+                            </div>
+                        </div>
+                    </div>
+                {{/ Page.Model.conference.workshops }}
+            </div>
+        {{/ Page.Model.conference.hasWorkshops }}
+
         <div class="page-header">
             <h2><span class="glyphicon glyphicon-list" aria-hidden="true"></span> Sessions</h2>
         </div>
