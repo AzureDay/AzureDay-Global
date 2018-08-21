@@ -1,1 +1,156 @@
+url: /conferences/2018/pl.html 
+name: AzureDay 2018 Poland
+date: 23th of March 2018
+venue:
+  name: Microsoft Polska
+  address: Aleje Jerozolimskie, 195A,Warszawa, 02-222, Poland  
+organizers:
+  -
+    name: Emil Wasilewski
+    bio: "Cloud Architect, MVP Microsoft Azure, Leader of Microsoft Azure User Group Poland"
+    photoUrl: /assets/avatar/EmilWasilewski.jpg
+    links:
+      twitter: https://twitter.com/WasilewskiEmil
+      linkedin: https://www.linkedin.com/in/emilwasilewski
+      mvp: https://mvp.microsoft.com/en-us/PublicProfile/5001765
+  -
+    name: Michal Smereczynski
+    bio: "Founder and animator of Polish Microsoft Azure User Group. Entrepreneur - expert and consultant in the field of adaptation and implementation of Microsoft Azure platform. Open Source Software and interoperability evangelist. Social activist and co-founder of the Aegis Foundation. Privately eternal student, enthusiast and a geek. Organiser and participant in conferences and events related to the integration of the IT community."
+    photoUrl: /assets/avatar/MichalSmereczynski.jpg
+    links:
+      twitter: https://twitter.com/smereczynski
+      linkedin: https://www.linkedin.com/in/smereczynski
+      mvp: https://mvp.microsoft.com/en-us/PublicProfile/5001618
+  -
+    name: Marek Grabarz
+    bio: ""
+    photoUrl: /assets/avatar/MGrabarz.jpg
+    links:
+      twitter: https://twitter.com/marekgrabarz
+      linkedin: https://www.linkedin.com/in/grabarz
+  -
+    name: Sławomir Stanek
+    bio: "Engaged in IT professionally for 12 years. Systems Infrastructure Architect. Passionate of Microsoft's technologies in the areas of public Azure Cloud. As a promoter of modern solutions for Data Center, talks every day about the need of IT development."
+    photoUrl: /assets/avatar/SStanek.jpg
+    links:
+      twitter: https://twitter.com/slawekstanek
+      linkedin: https://www.linkedin.com/in/slawomirstanek
+      mvp: https://mvp.microsoft.com/en-us/PublicProfile/5002603
+sessions:
+  -
+    title: AI i uczenie maszynowe - rzeczywistość, czy marketing firm
+    speaker:
+      name: Łukasz Grala
+      bio: ""
+      photoUrl: /assets/avatar/_Person.png
+  -
+    title: Jak policzyć koszty chmury? Dobre i złe przykłady z projektów ostateniego roku
+    speaker:
+      name: Michał Furmankiewicz
+      bio: "Currently works at Microsoft as a Cloud Solutions Architect with clients from financial sector. Last 9 years he spent working as a productivity consultant and subsequently as an architect for the financial sector. During his career he was responsible for some of the biggest projects on private cloud in East-Central Europe. Michał’s passion are new technologies and their application for business. He views the cloud, as a tool, which can help transform the company. After hours he is eager to share his knowledge with others at conferences, meetings and through his blog. Author of the blog: http://architektwchmurze.pl"
+      photoUrl: /assets/avatar/MFurmankiewicz.jpg
+  -
+    title: ICO backend on Azure "how to" guide
+    speaker:
+      name: Alexandr Surkov
+      bio: "Microsoft MVP, IoT expert, Blockchain developer, Moscow IoT community co-leader. He has more than 10 years of experiance in microcontroller firmware and related PC software development in physycal defence systems, CCTV and videoanalytics. Now he leads and advises some IoT sturtaps and head technical part of ICO in AnvioVR company. Experianced speaker and article writer and conference organizer."
+      photoUrl: /assets/avatar/ASurkov.jpg
+  -
+    title: Azure Analysis Services - zaglądamy do środka
+    speaker:
+      name: Włodek Bielski
+      bio: "An experienced BI architect and consultant, based in Warsaw. He gained most of his experience in data warehousing and BI while working for large international customers, mainly in FMCG and E-Commerce sectors. Wlodek closely follows the latest developments in Advanced Analytics, including Cloud-based BI and Data Science. Wlodek holds his Master’s degree in Computer Science from University of Wroclaw."
+      photoUrl: /assets/avatar/WBielski.jpg
+  -
+    title: Microsoft Bot Framework
+    speaker:
+      name: Kris van der Mast
+      bio: "As a freelance Microsoft technologies expert Kris helps his clients to reach their goals. Actively involved in the global community he is a Microsoft MVP since 2007. First for ASP.NET and since 2016 achieving in 2 disciplines: Azure and Visual Studio and Development Technologies. Kris is also a Microsoft ASP Insider, Microsoft Azure Advisor and a Belgian Microsoft Extended Experts Team (MEET) member. In the Belgian community Kris is active as a board member of Belgian Azure User Group AZUG and is chairman of the Belgian User Group Initiative (BUG). Since he started with .NET back in 2002 he’s also been active on the ASP.NET forums where is also a moderator. For his professional profile you can check out his LinkedIn. His personal site can be found at www.krisvandermast.com. Kris is a public (inter)national speaker and is a co-organizer of the CloudBrew conference."
+      photoUrl: /assets/avatar/KMast.jpg
+  -
+    title: Real-time event processing and analytics - for real
+    speaker:
+      name: Łukasz Dziekan
+      bio: "Experienced technology leader combining deep and practical understanding of technology, machine learning and AI with experience in big data architectures, cloud and expert in data processing, data geek by heart. A manager that delivers expected (and sometimes unexpected) results, understands the client needs and wants his team to operate as efficiently as possible. Data science and applied Machine learning expert and leader. Data guy that loves slicing and dicing, building predictive models (that actually work) and managing analytics."
+      photoUrl: /assets/avatar/LDziekan.jpg
+  -
+    title: Azure DevTest Labs and the story of one big enterprise
+    speaker:
+      name: Anton Boyko
+      bio: "Founder and main speaker at Ukrainian Microsoft Azure Community. 10+ years in application development. Builds apps based on Microsoft Azure platform since 2011. Microsoft Azure technical expert. Microsoft Azure MVP since 2014. Owner and one of the organizers of the most popular Microsoft Azure conferences in Ukraine: Azure Day and Global Azure Bootcamp."
+      photoUrl: /assets/avatar/ABoyko.png
+  -
+    title: Przykłady praktycznych zastosowań platformy i infrastruktury Azure w produkcyjnych środowiskach CodeTwo
+    speaker:
+      name: Jarosław Bednarz
+      bio: "Chief Technology Officer at CodeTwo. Graduated from Wroclaw Institute of Technology (Master of Science). Jarek wrote his very first programs at home, on the sheets of paper and compiled them at school where he had access to a computer. He's always been interested in artificial intelligence in computer games. He 'discovered' the idea of CodeTwo Public Folders when writing a Message Store Provider, as a result of a bet he made with cranky MAPI developers. He's like Marty McFly - tell him he can't do/program something and you'll have it up and running the following day."
+      photoUrl: /assets/avatar/JBednarz.jpg
+  -
+    title: Moving tons of data with Azure Data Factory
+    speaker:
+      name: Ihor Leontiev
+      bio: "Lead Architect, VISEO group worldwide, France Started his career as a .Net and OpenStack developer. In 2013, was seduced by the Cloud Computing of Microsoft Azure. In 2015, was selected to work on the co-creation of an IAE Master's program in France. MVP Azure, Regularly participate in conferences (Azure Ukrainian Community, Azure User Group France and Microsoft User Group Lyon)."
+      photoUrl: /assets/avatar/ILeontyev.jpg
+  -
+    title: Czego nauczyłem się po testach wydajnościowych rozwiązania w chmurze - use case
+    speaker:
+      name: Kamil Wysocki
+      bio: "Cloud Solutions Architect, Billennium."
+      photoUrl: /assets/avatar/KWysocki.jpg
+  -     
+    title: How Far Can ‘Serverless’ Actually Go?
+    speaker:
+      name: Alex Mang
+      bio: "Alex Mang is a regular conference and user groups speaker focusing mostly on cloud-computing topics, thus aiming to help developers better understand the implications of cloud-computing. As an Azure Advisor, he regularly offers Azure teams in Redmond feedback on upcoming Azure features and services. Alex dedicates a lot of his time developing his ISV involved in the event management and the ticketing industry and invests a lot of time teaching software architectural and cloud computing patterns at user groups, conferences and privately-owned companies around Europe and the US. Whenever he’s not in the office, he’s either recording video tutorials with the major on-line training providers, giving software development trainings, writing articles or working on open-source Azure-related libraries in various GitHub repos."
+      photoUrl: /assets/avatar/AMang.jpg
+partners:
+  -
+    name: Veeam
+    description: "As the leader in Availability across multi-cloud environments, Veeam® is uniquely positioned to help customers along their journey to Intelligent Data Management"
+    logoUrl: /assets/logo/veeam_green_logo.svg
+    links:
+      www: https://www.veeam.com
+  -
+    name: Microsoft
+    description: "Microsoft enables digital transformation for the era of an intelligent cloud and an intelligent edge. Its mission is to empower every person and every organization on the planet to achieve more."
+    logoUrl: /assets/logo/microsoft.jpg
+    links:
+      www: https://www.microsoft.com
+  -
+    name: Demant-technology
+    description: "We are a young company with a high degree of professional freedom which is dedicated to explore new technologies and provide innovations that empower people with hearing loss"
+    logoUrl: /assets/logo/Demand_logo.jpg
+    links:
+      www: https://www.demant-technology.com
+  -
+    name: FinAi
+    description: "FinAi to pierwsza niezależna platforma online, pozwalająca na wzięcie kredytu bankowego bez wychodzenia z domu. Pośredniczymy pomiędzy bankami a Klientami, dzięki czemu osoby biorące kredyty za pośrednictwem FinAi otrzymują oferty dopasowane do swojej sytuacji finansowej."
+    logoUrl: /assets/logo/microsoft.jpg
+    links:
+      www: https://www.finai.pl
+  -
+    name: CodeTwo
+    description: "CodeTwo is a trusted software vendor and Microsoft Partner delivering Office 365 and Exchange solutions to over 67,000 businesses from 150 countries - with Shell, Facebook, US Coast Guard, and UNICEF on top of the list"
+    logoUrl: /assets/logo/FinAi_logo.svg
+    links:
+      www: https://www.codetwo.com/
+  -
+    name: Vernity
+    description: "Vernity to zespół specjalistów IT, posiadających nie tylko wysoce rozwinięte umiejętności i doświadczenie, ale także pasję, którą wkładają w każdy stworzony przez siebie projekt. Nasza pracowitość i niebagatelna wiedza zaowocowały prestiżowymi Statusami Partnerskimi największych na świecie producentów sprzętu IT i oprogramowania. Wysoka specjalizacja naszej firmy sprawia, że oferujemy rozwiązania dopasowane do każdego indywidualnego Klienta."
+    logoUrl: /assets/logo/vernity_logo.png
+    links:
+      www: https://www.vernity.pl
+  -
+    name: Nordcloud
+    description: "Nordcloud was born in the cloud and has grown to be the European leader in public cloud infrastructure solutions and cloud native application services. We go above and beyond for our customers on their cloud journey, providing a future-proof cloud solution every step of the way."
+    logoUrl: /assets/logo/Nordcloud_logo.svg
+    links:
+      www: https://nordcloud.com/
+  -
+    name: Summ-it
+    description: "Firma summ-it powstała w roku 2011, jako jednoosobowa działalność gospodarcza summ-it Wojciech Wencel. Pięć lat później działalność ta została przekształcona w spółkę z ograniczoną odpowiedzialnością. Założycielem, jak i prezesem zarządu firmy jest Wojciech Wencel. Współzałożycielem firmy summ-it jest Rafał Chomicz, który pełni rolę Delivery Managera."
+    logoUrl: /assets/logo/summ-it_logo.png
+    links:
+      www: https://www.summ-it.pl/
+  
 

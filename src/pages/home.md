@@ -9,6 +9,7 @@ title:      AzureDay Global Website
 ## 2018
 - [{{ Data.conferences.ua2018.date }}](/conferences/2018/ua.html)
 - [{{ Data.conferences.ru2018.date }}](/conferences/2018/ru.html)
+- [{{ Data.conferences.pl2018.date }}](/conferences/2018/pl.html)
 
 ## 2017
 - [{{ Data.conferences.ru2017.date }}](/conferences/2017/ru.html)
