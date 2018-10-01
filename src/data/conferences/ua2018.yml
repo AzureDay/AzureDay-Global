@@ -15,11 +15,64 @@ organizers:
       linkedin: https://www.linkedin.com/in/boykoant/
       mvp: https://mvp.microsoft.com/en-us/PublicProfile/5000824
       mycert: http://www.mycertprofile.com/Profile/8861740279
-      www: http://boykoant.pro
 sessions:
+  -
+    title: Speed up application testing with Azure Container Instances.
+    description: "There is no chance how we can surprise anyone right now with usage of Docker containers. We use them in every project for everything from dev to prod environment. But recently we faced quite an issue with our tests automation. We have one enormous solution that consists of huge amount of independent modules (microservices). Our single build agent has 8 cores and 32 gigs of RAM under the bonnet, but it’s not enough anymore. Currently we can wait for more than an hour for all tests to pass. We started thinking about how to improve those numbers. During my session I will share our concept of running multiple environments simultaneously in a cloud and executing all the tests in parallel. The key differentiator here is that not only application itself runs inside Docker containers, but test assemblies do that too. Another interesting challenge we faced (and overcame) was about combining all the tests results in one single report. As a result we were able to maintain more or less the same infrastructure cost, but reduce dev team idle time from 60 minutes to 10 minutes per pull request."
+    speaker:
+      name: Anton Boyko
+      bio: "Founder and main speaker of Ukrainian Microsoft Azure Community. 10+ years in application development. Builds apps based on Microsoft Azure platform since 2011. Microsoft Azure technical expert. Microsoft Azure MVP since 2014. Owner and one of the organizers of the most popular Microsoft Azure conferences in Ukraine: Azure Day and Global Azure Bootcamp."
+      photoUrl: /assets/avatar/ABoyko.png
+      links:
+        facebook: https://www.facebook.com/boyko.ant
+        twitter: https://twitter.com/BoykoAnt
+        linkedin: https://www.linkedin.com/in/boykoant/
+        mvp: https://mvp.microsoft.com/en-us/PublicProfile/5000824
+        mycert: http://www.mycertprofile.com/Profile/8861740279
+  -
+    title: Deployment Platform for Connected Cars.
+    description: "I'll share my experience in designing platform, which allows deploy and run custom applications in car's telecom units. The platform consist from module, hosted in telecom unit and a cloud backend. These modules are connected with custom IoT hub."
+    speaker:
+      name: Sergey Prokofiev
+      bio: "About 20 years in software development. Worked in outsourcing and product companies. Since 2015 - expert in EPAM Microsoft Competence Center. Last years focused on: solution architecture for cloud-based solutions, .Net technology stack, containerization and automated deployment."
+      photoUrl: /assets/avatar/ProkofievSergey.png
+      links:
+  -
+    title: Case studies to build IoT solution for factories.
+    description: "История создания и внедрения IoT концентратора благодаря которому можно построить решение по управлению телеметрией, используя современные облачные технологии Azure. В презентации будет представлена архитектура построения программного обеспечения для трех промышленных компаний, которые внедрили IoT у себя в компании тем самым уменьшили затраты на логистику и использование ресурсов."
+    speaker:
+      name: Sergii Bielskyi
+      bio: ""
+      photoUrl: /assets/avatar/_Person.png
+      links:
+  -
+    title: State of the Art of Azure IoT Arhitecture of how to not fuckup the project. How to choose right cloud services stack for complicated scenario.
+    description: ""
+    speaker:
+      name: Ihor Leontiev
+      bio: "Started career as a .Net Developer for a machine building company in Ukraine, in 2013 I became interested in cloud computing and Microsoft Azure platform. In 2015 struck off in a new direction with the “Creation of Innovative Enterprises” at a French-Ukrainian MA program in France. Is Lead Architect on all Blockchain projects of Viseo group. Active participant and a regular speaker of Ukrainian Microsoft Azure Community and Azure User Group France. Now living and working as Azure Architect in France."
+      photoUrl: /assets/avatar/ILeontyev.jpg
+      links:
+        linkedin: https://www.linkedin.com/in/leontievihor/
+  -
+    title: Understand the Device Twins in Azure and AWS for IoT projects.
+    description: ""
+    speaker: 
+      name: Estelle Auberix 
+      bio: "Experienced Chief Executive Officer with a demonstrated history of work in the Information Technology and services industry. Skilled in Communication, User Experience, Web, E-commerce, System Administration and Cloud Computing. Strong entrepreneurship professional with a DESE (Master in International Trade) from Conservatoire National des Arts et Métiers focused in emerging markets in Asia."
+      photoUrl: /assets/avatar/EAuberix.jpg
+      links:
+        facebook: https://www.facebook.com/estelle.inomniaparatus
+        linkedin: https://www.linkedin.com/in/inomniaparatus/
+        twitter: https://twitter.com/FollowEstelle
 
 hasWorkshops: true
 workshops:
 
 partners:
-  
+  -
+    name: Luxsoft
+    description: ""
+    logoUrl: /assets/logo/luxsoft.png
+    links:
+      www: https://www.luxoft.com/
