@@ -15,7 +15,6 @@ organizers:
       linkedin: https://www.linkedin.com/in/boykoant/
       mvp: https://mvp.microsoft.com/en-us/PublicProfile/5000824
       mycert: http://www.mycertprofile.com/Profile/8861740279
-      www: http://boykoant.pro
 sessions:
   -
     title: Publish web applications to Azure Web Sites using built-in Kudu server.
@@ -30,7 +29,6 @@ sessions:
         linkedin: https://www.linkedin.com/in/boykoant/
         mvp: https://mvp.microsoft.com/en-us/PublicProfile/5000824
         mycert: http://www.mycertprofile.com/Profile/8861740279
-        www: http://boykoant.pro
   -
     title: Directory synchronization in Azure Active Directory - deep dive.
     description: 

@@ -15,7 +15,6 @@ organizers:
       linkedin: https://www.linkedin.com/in/boykoant/
       mvp: https://mvp.microsoft.com/en-us/PublicProfile/5000824
       mycert: http://www.mycertprofile.com/Profile/8861740279
-      www: http://boykoant.pro
 sessions:
   -
     title: Abusing Azure Functions.
@@ -30,7 +29,6 @@ sessions:
         linkedin: https://www.linkedin.com/in/boykoant/
         mvp: https://mvp.microsoft.com/en-us/PublicProfile/5000824
         mycert: http://www.mycertprofile.com/Profile/8861740279
-        www: http://boykoant.pro
   -
     title: "Microsoft and AI: how Azure services will help your apps become smart."
     description: "In this topic, we will speak about Microsoft Cognitive Services, LUIS and Azure Machine Learning tool allowing to add artificial intelligence component to your software."
