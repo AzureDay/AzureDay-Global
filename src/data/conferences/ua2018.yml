@@ -4,6 +4,7 @@ date: 9-10th of November 2018
 venue:
   name: Mercure Kyiv Congress
   address: Kyiv, 6 Vadyma Hetmana Str., 03057
+
 organizers:
   -
     name: Anton Boyko
@@ -15,35 +16,15 @@ organizers:
       linkedin: https://www.linkedin.com/in/boykoant/
       mvp: https://mvp.microsoft.com/en-us/PublicProfile/5000824
       mycert: http://www.mycertprofile.com/Profile/8861740279
+
 sessions:
-  -
-    title: Speed up application testing with Azure Container Instances.
-    description: "There is no chance how we can surprise anyone right now with usage of Docker containers. We use them in every project for everything from dev to prod environment. But recently we faced quite an issue with our tests automation. We have one enormous solution that consists of huge amount of independent modules (microservices). Our single build agent has 8 cores and 32 gigs of RAM under the bonnet, but it’s not enough anymore. Currently we can wait for more than an hour for all tests to pass. We started thinking about how to improve those numbers. During my session I will share our concept of running multiple environments simultaneously in a cloud and executing all the tests in parallel. The key differentiator here is that not only application itself runs inside Docker containers, but test assemblies do that too. Another interesting challenge we faced (and overcame) was about combining all the tests results in one single report. As a result we were able to maintain more or less the same infrastructure cost, but reduce dev team idle time from 60 minutes to 10 minutes per pull request."
-    speaker:
-      name: Anton Boyko
-      bio: "Founder and main speaker of Ukrainian Microsoft Azure Community. 10+ years in application development. Builds apps based on Microsoft Azure platform since 2011. Microsoft Azure technical expert. Microsoft Azure MVP since 2014. Owner and one of the organizers of the most popular Microsoft Azure conferences in Ukraine: Azure Day and Global Azure Bootcamp."
-      photoUrl: /assets/avatar/ABoyko.png
-      links:
-        facebook: https://www.facebook.com/boyko.ant
-        twitter: https://twitter.com/BoykoAnt
-        linkedin: https://www.linkedin.com/in/boykoant/
-        mvp: https://mvp.microsoft.com/en-us/PublicProfile/5000824
-        mycert: http://www.mycertprofile.com/Profile/8861740279
-  -
-    title: Deployment Platform for Connected Cars.
-    description: "I'll share my experience in designing platform, which allows deploy and run custom applications in car's telecom units. The platform consist from module, hosted in telecom unit and a cloud backend. These modules are connected with custom IoT hub."
-    speaker:
-      name: Sergey Prokofiev
-      bio: "About 20 years in software development. Worked in outsourcing and product companies. Since 2015 - expert in EPAM Microsoft Competence Center. Last years focused on: solution architecture for cloud-based solutions, .Net technology stack, containerization and automated deployment."
-      photoUrl: /assets/avatar/ProkofievSergey.png
-      links:
   -
     title: Case studies to build IoT solution for factories.
     description: "История создания и внедрения IoT концентратора благодаря которому можно построить решение по управлению телеметрией, используя современные облачные технологии Azure. В презентации будет представлена архитектура построения программного обеспечения для трех промышленных компаний, которые внедрили IoT у себя в компании тем самым уменьшили затраты на логистику и использование ресурсов."
     speaker:
       name: Sergii Bielskyi
       bio: ""
-      photoUrl: /assets/avatar/_Person.png
+      photoUrl: /assets/avatar/SergiiBielskyi.jpg
       links:
   -
     title: State of the Art of Azure IoT Arhitecture of how to not fuckup the project. How to choose right cloud services stack for complicated scenario.
@@ -65,9 +46,82 @@ sessions:
         facebook: https://www.facebook.com/estelle.inomniaparatus
         linkedin: https://www.linkedin.com/in/inomniaparatus/
         twitter: https://twitter.com/FollowEstelle
+  -
+    title: Speed up application testing with Azure Container Instances.
+    description: "There is no chance how we can surprise anyone right now with usage of Docker containers. We use them in every project for everything from dev to prod environment. But recently we faced quite an issue with our tests automation. We have one enormous solution that consists of huge amount of independent modules (microservices). Our single build agent has 8 cores and 32 gigs of RAM under the bonnet, but it’s not enough anymore. Currently we can wait for more than an hour for all tests to pass. We started thinking about how to improve those numbers. During my session I will share our concept of running multiple environments simultaneously in a cloud and executing all the tests in parallel. The key differentiator here is that not only application itself runs inside Docker containers, but test assemblies do that too. Another interesting challenge we faced (and overcame) was about combining all the tests results in one single report. As a result we were able to maintain more or less the same infrastructure cost, but reduce dev team idle time from 60 minutes to 10 minutes per pull request."
+    speaker:
+      name: Anton Boyko
+      bio: "Founder and main speaker of Ukrainian Microsoft Azure Community. 10+ years in application development. Builds apps based on Microsoft Azure platform since 2011. Microsoft Azure technical expert. Microsoft Azure MVP since 2014. Owner and one of the organizers of the most popular Microsoft Azure conferences in Ukraine: Azure Day and Global Azure Bootcamp."
+      photoUrl: /assets/avatar/ABoyko.png
+      links:
+        facebook: https://www.facebook.com/boyko.ant
+        twitter: https://twitter.com/BoykoAnt
+        linkedin: https://www.linkedin.com/in/boykoant/
+        mvp: https://mvp.microsoft.com/en-us/PublicProfile/5000824
+        mycert: http://www.mycertprofile.com/Profile/8861740279
+  -
+    title: A rough ride to Azure, part one.
+    description: "Real life migration of middle-sized company data store to Azure SQL (Elastic pool). The detailed explanation of benefits and pitfalls, challenges along the way, performance and cost estimation, scalability potential, approaches to delivery, testing and infrastructure as code."
+    speaker:
+      name: Stas Lebedenko
+      bio: "Developer with 10+ years of the .NET stack and Azure expertise, currently working at Sigma Software."
+      photoUrl: /assets/avatar/LebedenkoStas.jpg
+      links:
+        linkedin: https://www.linkedin.com/in/inomniaparatus/
+  -
+    title: "ICO backend on Azure: \"how to\" guide."
+    description: "ICO is a very hype word. Today a lot of money is earned using this process. But it is not only marketing and events. Every ICO has a technical backend that contains a lot of infractructure elements. In this session we will learn how we can  use Azure to build a reliable and safe backend that can receive any cryptocurrency."
+    speaker:
+      name: Alexander Surkov
+      bio: "Alexandr Surkov is a developer with more than 10 years of experience. He is the head of software development department of security systems startup since 2011. In his free time he writes articles and speaks at different events. He got Microsoft MVP award in 2016 and now he leads Russian IoT Community https://www.meetup.com/IoTCommunity"
+      photoUrl: /assets/avatar/ASurkov.jpg
+      links:
+        facebook: https://www.facebook.com/AOSurkov
+        twitter: https://twitter.com/AOSurkov
+        mvp: https://mvp.microsoft.com/ru-ru/PublicProfile/5002197
+  -
+    title: "Architecting Solutions for healthcare with Microsoft Azure"
+    description: ""
+    speaker:
+      name: Stas Sultanov
+      bio: ""
+      photoUrl: /assets/avatar/StasSultanov.jpg
+      links:
+  -
+    title: "Azure Databricks for Data Engineering"
+    description: ""
+    speaker:
+      name: Eugene Polonychko
+      bio: "Eugene Polonichko has over 6 years of experience with SQL Server. He mainly focuses on BI projects (SSAS, SSIS, PowerBI, Azure DWH, Azure SSAS). Eugene is a passionate speaker and a SQL community volunteer presenting regularly at PASS SQL Saturday events and local user groups around Ukraine and Europe. Eugene is PASS Chapter Leader. He leads SQL Server User Group Donetsk and he is a Data Platform MVP"
+      photoUrl: /assets/avatar/EPolonychko.jpg
+      links:
+        facebook: https://www.facebook.com/mydjeki
+
 
 hasWorkshops: true
 workshops:
+  -
+    title: "Azure Container Service - from zero to hero."
+    description: "В течении лабораторной работы мы будем разбираться что такое Docker и \"с чем его едят\". Мы создадим базовый контейнер и научимся его публиковать в публичный/приватный репозиторий. Разберемся с построением собственных образов и каким образом компоновать несколько контейнеров и как правильно настраивать \"общение\" между ними. К концу дня вы: поймете что такое Docker и насколько это удобный инструмент; сможете сами создавать свои контейнеры; научитесь работать с публичными/приватными репозиториями; сможете создать свою собственную aka \"production\" архитектуру для запуска контейнеров в Azure. По завершению воркшопа у вас будет собственный контейнер который будет запущен как локально, так и в облаке управляемый оркестратором."
+    speaker:
+      name: Ihor Leontiev
+      bio: "Eugene Polonichko has over 6 years of experience with SQL Server. He mainly focuses on BI projects (SSAS, SSIS, PowerBI, Azure DWH, Azure SSAS). Eugene is a passionate speaker and a SQL community volunteer presenting regularly at PASS SQL Saturday events and local user groups around Ukraine and Europe. Eugene is PASS Chapter Leader. He leads SQL Server User Group Donetsk and he is a Data Platform MVP"
+      photoUrl: /assets/avatar/ILeontyev.jpg
+      links:
+        linkedin: https://www.linkedin.com/in/leontievihor/
+  -
+    title: "Build, deploy and manage your releases like a boss"
+    description: "Unfortunately, there are still a lot of projects where engineers deploy their apps using \"Right click -> Deploy -> Productio\" approach. This is sad, but true. At some point we can face this just because no one knows how to configure a build server, how to automate deployment process. And, for some reason, a lot of engineers believe that it is some super complicated stuff. During my speech I will talk about general approaches for automating build, deployments and managing releases. After short talk we will go straight to the demos. In no more than 15 minutes I will configure automated build process for my app and automated deploy to several different environments. I will wrap all of this in release management pipeline and show how to make the entire release process transparent for all team members."
+    speaker:
+      name: Anton Boyko
+      bio: "Founder and main speaker of Ukrainian Microsoft Azure Community. 10+ years in application development. Builds apps based on Microsoft Azure platform since 2011. Microsoft Azure technical expert. Microsoft Azure MVP since 2014. Owner and one of the organizers of the most popular Microsoft Azure conferences in Ukraine: Azure Day and Global Azure Bootcamp."
+      photoUrl: /assets/avatar/ABoyko.png
+      links:
+        facebook: https://www.facebook.com/boyko.ant
+        twitter: https://twitter.com/BoykoAnt
+        linkedin: https://www.linkedin.com/in/boykoant/
+        mvp: https://mvp.microsoft.com/en-us/PublicProfile/5000824
+        mycert: http://www.mycertprofile.com/Profile/8861740279
 
 partners:
   -
