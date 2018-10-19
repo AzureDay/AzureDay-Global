@@ -43,8 +43,6 @@ sessions:
       bio: "Experienced Chief Executive Officer with a demonstrated history of work in the Information Technology and services industry. Skilled in Communication, User Experience, Web, E-commerce, System Administration and Cloud Computing. Strong entrepreneurship professional with a DESE (Master in International Trade) from Conservatoire National des Arts et Métiers focused in emerging markets in Asia."
       photoUrl: /assets/avatar/EAuberix.jpg
       links:
-        facebook: https://www.facebook.com/estelle.inomniaparatus
-        linkedin: https://www.linkedin.com/in/inomniaparatus/
         twitter: https://twitter.com/FollowEstelle
   -
     title: Speed up application testing with Azure Container Instances.
@@ -67,7 +65,6 @@ sessions:
       bio: "Developer with 10+ years of the .NET stack and Azure expertise, currently working at Sigma Software."
       photoUrl: /assets/avatar/LebedenkoStas.jpg
       links:
-        linkedin: https://www.linkedin.com/in/inomniaparatus/
   -
     title: "ICO backend on Azure: \"how to\" guide."
     description: "ICO is a very hype word. Today a lot of money is earned using this process. But it is not only marketing and events. Every ICO has a technical backend that contains a lot of infractructure elements. In this session we will learn how we can  use Azure to build a reliable and safe backend that can receive any cryptocurrency."
@@ -96,7 +93,44 @@ sessions:
       photoUrl: /assets/avatar/EPolonychko.jpg
       links:
         facebook: https://www.facebook.com/mydjeki
-
+  -
+    title: "Microsoft AI Platform Update."
+    description: "Artificial Intelligence is at the core of Microsoft’s business strategy today. In this presentation you going to learn about recent updates to the Microsoft AI platform in three pieces: our Azure services, our infrastructure, and our tools. We are going to show how any developer can start leveraging AI in the modern applications and services running on premises, on edge, cloud or hybrid."
+    speaker:
+      name: Viktor Tsykunov
+      bio: "Microsoft cloud technologies expert. More than 15 years' experience in IT systems management and software development. During the last 13 years has been working at Microsoft on different roles in product marketing, technical evangelism and software engineering."
+      photoUrl: /assets/avatar/VTsykunov.jpg
+      links:
+        facebook: https://www.facebook.com/vtsykunov
+  -
+    title: "Passwordless Azure infrastructure"
+    description: "Azure giving us powerful set of tools to keep our infrastructure safe and secure. One of security approach is password management. During my session I'll try to show you how we can use several Azure services to keep our passwords safe."
+    speaker: 
+      name: Emil Wasilewski 
+      bio: "Senior Azure Infrastructure Architect @ Bystronic Laser AG, Microsoft Azure MVP, Leader of Microsoft Azure User Group Poland, Speaker, Trainer, Consultant, Youtuber."
+      photoUrl: /assets/avatar/EmilWasilewski.jpg
+      links: 
+        linkedin: http://www.linkedin.com/in/emilwasilewski
+        twitter: https://twitter.com/WasilewskiEmil
+  -
+    title: "Інтеграція Bot Framework з Microsoft Teams."
+    description: ""
+    speaker:
+      name: Anton Vidishchev
+      bio: "Технології для спільної роботи та швидкого зв'язку зі співробітниками, зокрема, Microsoft Teams, стають все більш популярними. Однак для отримання максимальної користі рекомендується налаштувати інтеграцію з іншим програмним забезпеченням та сервісами, щоб більшість щоденних завдань можна було вирішити, не виходячи з вікна месенджера. В доповіді ми розглянемо можливість інтеграції ваших продуктів з Microsoft Teams, а також чат-ботами, створеними за допомогою Microsoft Bot Framework."
+      photoUrl: /assets/avatar/AVidishchev.jpg
+      links:
+        linkedin: https://www.linkedin.com/in/antonvidishchev
+        facebook: https://www.facebook.com/anton.vidishchev
+  -
+    title: "TBA"
+    description: ""
+    speaker:
+      name: Vladimir Bezmaly
+      bio: "Author of more than 250 articles published in Ukraine and Russia. He is a Microsoft Most Valuable Professional in the field of Consumer Security, Microsoft Security Trusted Advisor. Kaspersky Certified Consultant. Kaspersky Certified Trainer. Experience in IT almost 40 years with about 25 years of experience in IS."
+      photoUrl: /assets/avatar/VBezmaly.jpg
+      links:
+        facebook: https://www.facebook.com/vlad.bezmaly
 
 hasWorkshops: true
 workshops:
@@ -105,7 +139,7 @@ workshops:
     description: "В течении лабораторной работы мы будем разбираться что такое Docker и \"с чем его едят\". Мы создадим базовый контейнер и научимся его публиковать в публичный/приватный репозиторий. Разберемся с построением собственных образов и каким образом компоновать несколько контейнеров и как правильно настраивать \"общение\" между ними. К концу дня вы: поймете что такое Docker и насколько это удобный инструмент; сможете сами создавать свои контейнеры; научитесь работать с публичными/приватными репозиториями; сможете создать свою собственную aka \"production\" архитектуру для запуска контейнеров в Azure. По завершению воркшопа у вас будет собственный контейнер который будет запущен как локально, так и в облаке управляемый оркестратором."
     speaker:
       name: Ihor Leontiev
-      bio: "Eugene Polonichko has over 6 years of experience with SQL Server. He mainly focuses on BI projects (SSAS, SSIS, PowerBI, Azure DWH, Azure SSAS). Eugene is a passionate speaker and a SQL community volunteer presenting regularly at PASS SQL Saturday events and local user groups around Ukraine and Europe. Eugene is PASS Chapter Leader. He leads SQL Server User Group Donetsk and he is a Data Platform MVP"
+      bio: "Started career as a .Net Developer for a machine building company in Ukraine, in 2013 I became interested in cloud computing and Microsoft Azure platform. In 2015 struck off in a new direction with the “Creation of Innovative Enterprises” at a French-Ukrainian MA program in France. Is Lead Architect on all Blockchain projects of Viseo group. Active participant and a regular speaker of Ukrainian Microsoft Azure Community and Azure User Group France. Now living and working as Azure Architect in France."
       photoUrl: /assets/avatar/ILeontyev.jpg
       links:
         linkedin: https://www.linkedin.com/in/leontievihor/
@@ -122,6 +156,15 @@ workshops:
         linkedin: https://www.linkedin.com/in/boykoant/
         mvp: https://mvp.microsoft.com/en-us/PublicProfile/5000824
         mycert: http://www.mycertprofile.com/Profile/8861740279
+  -
+    title: "Get started with AI and Deep Learning."
+    description: "Join us on workshop for fun-filled, hands-on hacking where you will learn how to build AI ML solutions, gather and analyze high scale data in the Cloud. During this time of immersive, structured, hands-on hacking you will get better understanding how to leverage Azure Machine Learning, Cognitive Services and other Microsoft Artificial Intelligence offerings to turn your company data into intelligent insights. However, don’t worry if you’re not familiar with these development platforms, just come and enjoy the hacking!"
+    speaker:
+      name: Viktor Tsykunov
+      bio: "Microsoft cloud technologies expert. More than 15 years' experience in IT systems management and software development. During the last 13 years has been working at Microsoft on different roles in product marketing, technical evangelism and software engineering."
+      photoUrl: /assets/avatar/VTsykunov.jpg
+      links:
+        facebook: https://www.facebook.com/vtsykunov
 
 partners:
   -
