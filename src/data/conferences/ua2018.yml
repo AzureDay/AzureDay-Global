@@ -131,6 +131,17 @@ sessions:
       photoUrl: /assets/avatar/VBezmaly.jpg
       links:
         facebook: https://www.facebook.com/vlad.bezmaly
+  -
+    title: "Light Side of Microsoft: AI and research projects you never heard before."
+    description: ""
+    speaker:
+      name: Oleksandr Krakovetskyi
+      bio: "I am CEO of DevRain Solutions, IT company from Ukraine. We specialize in web, cloud and mobile solutions (.NET, Xamarin, iOS, Android). In 2013 my company got 'Lead partner in creating mobile solutions on Windows Phone 8 platform' award from Microsoft Ukraine. I am a Microsoft Regional Director during last 8 years and Microsoft Most Valuable Professional during last 6 years. Also I was nominated as Telerik Developer Expert for several years and got 'The Best Professional in Software Architecture' Ukrainian IT award."
+      photoUrl: /assets/avatar/OKrakovetskyi.jpg
+      links:
+        facebook: https://www.facebook.com/alex.krakovetskiy
+        twitter: https://twitter.com/msugvnua
+        linkedin: https://www.linkedin.com/in/krakovetskiy/        
 
 hasWorkshops: true
 workshops:
