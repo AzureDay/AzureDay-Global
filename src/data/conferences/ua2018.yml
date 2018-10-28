@@ -71,7 +71,7 @@ sessions:
     speaker:
       name: Alexander Surkov
       bio: "Alexandr Surkov is a developer with more than 10 years of experience. He is the head of software development department of security systems startup since 2011. In his free time he writes articles and speaks at different events. He got Microsoft MVP award in 2016 and now he leads Russian IoT Community https://www.meetup.com/IoTCommunity"
-      photoUrl: /assets/avatar/ASurkov.jpg
+      photoUrl: /assets/avatar/AOSurkov.png
       links:
         facebook: https://www.facebook.com/AOSurkov
         twitter: https://twitter.com/AOSurkov
@@ -108,7 +108,7 @@ sessions:
     speaker: 
       name: Emil Wasilewski 
       bio: "Senior Azure Infrastructure Architect @ Bystronic Laser AG, Microsoft Azure MVP, Leader of Microsoft Azure User Group Poland, Speaker, Trainer, Consultant, Youtuber."
-      photoUrl: /assets/avatar/EmilWasilewski.jpg
+      photoUrl: /assets/avatar/EmilWasilewski2.png
       links: 
         linkedin: http://www.linkedin.com/in/emilwasilewski
         twitter: https://twitter.com/WasilewskiEmil
@@ -123,15 +123,6 @@ sessions:
         linkedin: https://www.linkedin.com/in/antonvidishchev
         facebook: https://www.facebook.com/anton.vidishchev
   -
-    title: "TBA"
-    description: ""
-    speaker:
-      name: Vladimir Bezmaly
-      bio: "Author of more than 250 articles published in Ukraine and Russia. He is a Microsoft Most Valuable Professional in the field of Consumer Security, Microsoft Security Trusted Advisor. Kaspersky Certified Consultant. Kaspersky Certified Trainer. Experience in IT almost 40 years with about 25 years of experience in IS."
-      photoUrl: /assets/avatar/VBezmaly.jpg
-      links:
-        facebook: https://www.facebook.com/vlad.bezmaly
-  -
     title: "Light Side of Microsoft: AI and research projects you never heard before."
     description: ""
     speaker:
@@ -141,7 +132,34 @@ sessions:
       links:
         facebook: https://www.facebook.com/alex.krakovetskiy
         twitter: https://twitter.com/msugvnua
-        linkedin: https://www.linkedin.com/in/krakovetskiy/        
+        linkedin: https://www.linkedin.com/in/krakovetskiy/
+  -
+    title: "TBA"
+    description: ""
+    speaker:
+      name: Sergey Poplavskiy 
+      bio: "Sergey is responsible for the development of Microsoft Azure platform and development tools in Microsoft Ukraine. Over the course of his work he managed to conduct more than 40 deep technical trainings, participated in the development of several projects on Microsoft Azure platform, and has practical experience in deployment of solutions based on it. He has been working with .Net platform using Visual Studio for many years, he has implemented several applications for Windows Phone, Windows and Azure platforms. One of the founders of the Internet of Things Laboratory at Microsoft Ukraine."
+      photoUrl: /assets/avatar/SPoplavskiy.png
+      links:
+        facebook: https://www.facebook.com/sergey.poplavskiy.35
+  -
+    title: "Chat-bots made better with Azure."
+    description: ""
+    speaker:
+      name: Natalia Dranchuk
+      bio: ""
+      photoUrl: /assets/avatar/NataliaDranchuk.jpg
+      links:
+  -
+    title: "TBA"
+    description: ""
+    speaker:
+      name: Kamil Bączyk
+      bio: "Kamil deeply believes that combining work and hobby is the key to success. In CQURE he has his heart and soul in the Microsoft infrastructure, cloud and security solutions. Kamil’s experience allows him to perform architecture consulting, penetration tests and authored trainings and seminars."
+      photoUrl: /assets/avatar/KamilBaczyk.jpg
+      links:
+        linkedin: https://www.linkedin.com/in/kamil-b%C4%85czyk-32093714/
+        twitter: https://twitter.com/kamilbaczyk
 
 hasWorkshops: true
 workshops:
