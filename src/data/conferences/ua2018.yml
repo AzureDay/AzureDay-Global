@@ -77,7 +77,7 @@ sessions:
         twitter: https://twitter.com/AOSurkov
         mvp: https://mvp.microsoft.com/ru-ru/PublicProfile/5002197
   -
-    title: "Architecting Solutions for healthcare with Microsoft Azure"
+    title: "Architecting Solutions for healthcare with Microsoft Azure."
     description: ""
     speaker:
       name: Stas Sultanov
@@ -85,7 +85,7 @@ sessions:
       photoUrl: /assets/avatar/StasSultanov.jpg
       links:
   -
-    title: "Azure Databricks for Data Engineering"
+    title: "Azure Databricks for Data Engineering."
     description: ""
     speaker:
       name: Eugene Polonychko
@@ -103,7 +103,7 @@ sessions:
       links:
         facebook: https://www.facebook.com/vtsykunov
   -
-    title: "Passwordless Azure infrastructure"
+    title: "Passwordless Azure infrastructure."
     description: "Azure giving us powerful set of tools to keep our infrastructure safe and secure. One of security approach is password management. During my session I'll try to show you how we can use several Azure services to keep our passwords safe."
     speaker: 
       name: Emil Wasilewski 
@@ -197,7 +197,7 @@ workshops:
 
 partners:
   -
-    name: Luxsoft
+    name: Luxoft
     description: ""
     logoUrl: /assets/logo/luxsoft.png
     links:
