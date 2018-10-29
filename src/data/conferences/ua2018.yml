@@ -160,6 +160,14 @@ sessions:
       links:
         linkedin: https://www.linkedin.com/in/kamil-b%C4%85czyk-32093714/
         twitter: https://twitter.com/kamilbaczyk
+  -
+    title: "Azure Functions v2. Что нового?"
+    description: "В докладе расмотрим что такое azure functions. Пройдемся по новым возможностям второй версии функций. Расмотрим изменения которые вам нужно будет сделать чтобы запускать существующие функции с использованием рантайма второй версии."
+    speaker:
+      name: Illia Lubenets
+      bio: "Team Lead в Aistant, Microsoft Student Partner Lead, Организатор MSP Roadshow, Соорганизатор в .NET Core Ukrainian User Group. Занимаюсь разработкой распределенных систем и систем с использованием Microsoft Azure. Люблю использовать новые продукты и собирать все существующие грабли."
+      photoUrl: /assets/avatar/IlliaLubenets.jpg
+      links:
 
 hasWorkshops: true
 workshops:
