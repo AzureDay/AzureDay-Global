@@ -28,7 +28,7 @@ sessions:
       links:
   -
     title: State of the Art of Azure IoT Arhitecture of how to not fuckup the project. How to choose right cloud services stack for complicated scenario.
-    description: ""
+    description: "I’ll talk about real use case of connected industrial climate/heating systems. How to adapt your achitecture to changing customer needs, which Azure IoT service to choose? Why Serverless is good and not good in the same time. How to store and process 122TB of Raw Data. Talk is constructed to show step-by-step change in arhitecture design and why it was changed."
     speaker:
       name: Ihor Leontiev
       bio: "Started career as a .Net Developer for a machine building company in Ukraine, in 2013 I became interested in cloud computing and Microsoft Azure platform. In 2015 struck off in a new direction with the “Creation of Innovative Enterprises” at a French-Ukrainian MA program in France. Is Lead Architect on all Blockchain projects of Viseo group. Active participant and a regular speaker of Ukrainian Microsoft Azure Community and Azure User Group France. Now living and working as Azure Architect in France."
@@ -113,18 +113,18 @@ sessions:
         linkedin: http://www.linkedin.com/in/emilwasilewski
         twitter: https://twitter.com/WasilewskiEmil
   -
-    title: "Інтеграція Bot Framework з Microsoft Teams."
-    description: ""
+    title: "Integrating Bot Framework with Microsoft Teams."
+    description: "Collaboration technologies that allow fast workplace communication become more and more popular. To get maximum efficiency out of them it’s recommended to set up integration with other software services; that way most of daily tasks can be completed without leaving the messenger window. In my session we will look at the possibility of integration of your products with Microsoft Teams and chat bots created using Microsoft Bot Framework."
     speaker:
       name: Anton Vidishchev
-      bio: "Технології для спільної роботи та швидкого зв'язку зі співробітниками, зокрема, Microsoft Teams, стають все більш популярними. Однак для отримання максимальної користі рекомендується налаштувати інтеграцію з іншим програмним забезпеченням та сервісами, щоб більшість щоденних завдань можна було вирішити, не виходячи з вікна месенджера. В доповіді ми розглянемо можливість інтеграції ваших продуктів з Microsoft Teams, а також чат-ботами, створеними за допомогою Microsoft Bot Framework."
+      bio: ""
       photoUrl: /assets/avatar/AVidishchev.jpg
       links:
         linkedin: https://www.linkedin.com/in/antonvidishchev
         facebook: https://www.facebook.com/anton.vidishchev
   -
     title: "Light Side of Microsoft: AI and research projects you never heard before."
-    description: ""
+    description: "How are innovations and new technologies born? Usually it's a complicated process of fails and wins. Most of the innovations were started in research labs and most of them would not survive. Microsoft Research, Microsoft AI Labs and other initiatives definitely have tools and projects worth trying and learning. In my presentation we will talk about interesting research projects and labs connected with AI, computer vision, machine learning and open research data."
     speaker:
       name: Oleksandr Krakovetskyi
       bio: "I am CEO of DevRain Solutions, IT company from Ukraine. We specialize in web, cloud and mobile solutions (.NET, Xamarin, iOS, Android). In 2013 my company got 'Lead partner in creating mobile solutions on Windows Phone 8 platform' award from Microsoft Ukraine. I am a Microsoft Regional Director during last 8 years and Microsoft Most Valuable Professional during last 6 years. Also I was nominated as Telerik Developer Expert for several years and got 'The Best Professional in Software Architecture' Ukrainian IT award."
@@ -144,7 +144,7 @@ sessions:
         facebook: https://www.facebook.com/sergey.poplavskiy.35
   -
     title: "Chat-bots made better with Azure."
-    description: ""
+    description: "After this session, you will know the basics of the Bot Framework, and which Azure (and not only) services can be combined with chat-bot applications to make them as useful and smart as needed. I will tell you about the problems that we faced while trying to create the most convenient and functional solutions, and share the best practices and some life-hacks."
     speaker:
       name: Natalia Dranchuk
       bio: ""
@@ -161,8 +161,8 @@ sessions:
         linkedin: https://www.linkedin.com/in/kamil-b%C4%85czyk-32093714/
         twitter: https://twitter.com/kamilbaczyk
   -
-    title: "Azure Functions v2. Что нового?"
-    description: "В докладе расмотрим что такое azure functions. Пройдемся по новым возможностям второй версии функций. Расмотрим изменения которые вам нужно будет сделать чтобы запускать существующие функции с использованием рантайма второй версии."
+    title: "Azure Functions v2. What's new?"
+    description: "In my session we will look at Azure Functions and new features of its v2 runtime, and also at the changes you will need to make in your exciting code to be able to run existing functions with the runtime of v2."
     speaker:
       name: Illia Lubenets
       bio: "Team Lead в Aistant, Microsoft Student Partner Lead, Организатор MSP Roadshow, Соорганизатор в .NET Core Ukrainian User Group. Занимаюсь разработкой распределенных систем и систем с использованием Microsoft Azure. Люблю использовать новые продукты и собирать все существующие грабли."
@@ -210,3 +210,9 @@ partners:
     logoUrl: /assets/logo/luxsoft.png
     links:
       www: https://www.luxoft.com/
+  -
+    name: Ciklum
+    description: "Ciklum is a Danish company, founded in 2002, working in the field of software development outsourcing. Ciklum is an international company with sales offices in Denmark, Sweden, Great Britain, Germany, Switzerland and the Netherlands, Israel, America and development centers in major cities of Ukraine (Kiev, Kharkiv, Dnepropetrovsk, Lviv, Odessa and Vinnitsa), Belarus (Minsk) and Pakistan (Lahore, Islamabad). The company is one of the five largest IT companies in Ukraine."
+    logoUrl: /assets/logo/ciklum.jpg
+    links:
+      www: https://www.ciklum.com/
