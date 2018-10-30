@@ -37,7 +37,8 @@ sessions:
         linkedin: https://www.linkedin.com/in/leontievihor/
   -
     title: Understand the Device Twins in Azure and AWS for IoT projects.
-    description: ""
+    description: "Comparison between Device & Digital Twins in Azure and Device Shadow in AWS in order to understand how to use them in an IoT strategy.
+How the Azure Digital Twins are going to help you in your next-generation IoT solutions?"
     speaker: 
       name: Estelle Auberix 
       bio: "Experienced Chief Executive Officer with a demonstrated history of work in the Information Technology and services industry. Skilled in Communication, User Experience, Web, E-commerce, System Administration and Cloud Computing. Strong entrepreneurship professional with a DESE (Master in International Trade) from Conservatoire National des Arts et Métiers focused in emerging markets in Asia."
