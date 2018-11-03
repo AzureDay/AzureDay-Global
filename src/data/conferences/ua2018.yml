@@ -152,7 +152,7 @@ How the Azure Digital Twins are going to help you in your next-generation IoT so
       photoUrl: /assets/avatar/NataliaDranchuk.jpg
       links:
   -
-    title: "TBA"
+    title: "Azure policies or PIM."
     description: ""
     speaker:
       name: Kamil Bączyk
@@ -183,7 +183,7 @@ workshops:
         linkedin: https://www.linkedin.com/in/leontievihor/
   -
     title: "Build, deploy and manage your releases like a boss"
-    description: "Unfortunately, there are still a lot of projects where engineers deploy their apps using \"Right click -> Deploy -> Productio\" approach. This is sad, but true. At some point we can face this just because no one knows how to configure a build server, how to automate deployment process. And, for some reason, a lot of engineers believe that it is some super complicated stuff. During my speech I will talk about general approaches for automating build, deployments and managing releases. After short talk we will go straight to the demos. In no more than 15 minutes I will configure automated build process for my app and automated deploy to several different environments. I will wrap all of this in release management pipeline and show how to make the entire release process transparent for all team members."
+    description: "Unfortunately, there are still a lot of projects where engineers deploy their apps using \"Right click -> Deploy -> Production\" approach. This is sad, but true. At some point we can face this just because no one knows how to configure a build server, how to automate deployment process. And, for some reason, a lot of engineers believe that it is some super complicated stuff. During my speech I will talk about general approaches for automating build, deployments and managing releases. After short talk we will go straight to the demos. In no more than 15 minutes I will configure automated build process for my app and automated deploy to several different environments. I will wrap all of this in release management pipeline and show how to make the entire release process transparent for all team members."
     speaker:
       name: Anton Boyko
       bio: "Founder and main speaker of Ukrainian Microsoft Azure Community. 10+ years in application development. Builds apps based on Microsoft Azure platform since 2011. Microsoft Azure technical expert. Microsoft Azure MVP since 2014. Owner and one of the organizers of the most popular Microsoft Azure conferences in Ukraine: Azure Day and Global Azure Bootcamp."
