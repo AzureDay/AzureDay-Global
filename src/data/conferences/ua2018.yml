@@ -135,7 +135,7 @@ How the Azure Digital Twins are going to help you in your next-generation IoT so
         twitter: https://twitter.com/msugvnua
         linkedin: https://www.linkedin.com/in/krakovetskiy/
   -
-    title: "TBA"
+    title: "Enterprise IoT or Docker inside the coffee machine. A strategy of software creation and deployment for industrial gateways by using Edge Microsoft technologies."
     description: ""
     speaker:
       name: Sergey Poplavskiy 
@@ -168,6 +168,14 @@ How the Azure Digital Twins are going to help you in your next-generation IoT so
       name: Illia Lubenets
       bio: "Team Lead в Aistant, Microsoft Student Partner Lead, Организатор MSP Roadshow, Соорганизатор в .NET Core Ukrainian User Group. Занимаюсь разработкой распределенных систем и систем с использованием Microsoft Azure. Люблю использовать новые продукты и собирать все существующие грабли."
       photoUrl: /assets/avatar/IlliaLubenets.jpg
+      links:
+  -
+    title: "State of the art in Blockchain projects, or what you need to know to start with Azure Blockchain Workbench."
+    description: "Talk about the developement of Blockchain projects with Azure Blockchain Workbench. How to process transactions, how to create a full Business workflow based on Blockchain transactions. Exerience feedback from a project in cosmetics industry."
+    speaker:
+      name: Nikita Mykhailenko
+      bio: ""
+      photoUrl: /assets/avatar/NikitaMykhailenko.png
       links:
 
 hasWorkshops: true
