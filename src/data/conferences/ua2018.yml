@@ -144,6 +144,15 @@ How the Azure Digital Twins are going to help you in your next-generation IoT so
       links:
         facebook: https://www.facebook.com/sergey.poplavskiy.35
   -
+    title: "How to build modern highly available and scalable web applications in Azure cloud."
+    description: ""
+    speaker:
+      name: Sergey Poplavskiy 
+      bio: "Sergey is responsible for the development of Microsoft Azure platform and development tools in Microsoft Ukraine. Over the course of his work he managed to conduct more than 40 deep technical trainings, participated in the development of several projects on Microsoft Azure platform, and has practical experience in deployment of solutions based on it. He has been working with .Net platform using Visual Studio for many years, he has implemented several applications for Windows Phone, Windows and Azure platforms. One of the founders of the Internet of Things Laboratory at Microsoft Ukraine."
+      photoUrl: /assets/avatar/SPoplavskiy.png
+      links:
+        facebook: https://www.facebook.com/sergey.poplavskiy.35
+  -
     title: "Chat-bots made better with Azure."
     description: "After this session, you will know the basics of the Bot Framework, and which Azure (and not only) services can be combined with chat-bot applications to make them as useful and smart as needed. I will tell you about the problems that we faced while trying to create the most convenient and functional solutions, and share the best practices and some life-hacks."
     speaker:
