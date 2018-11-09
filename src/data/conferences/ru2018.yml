@@ -147,6 +147,12 @@ sessions:
       links:
 partners:
   -
+    name: Awara IT
+    description: Awara IT is one on the most efficient IT companies in Russia that deals with implementation of Microsoft Dynamics and business consulting.
+    logoUrl: /assets/logo/awara
+    links:
+      - http://awara-it.com/
+  -
     name: Digital October
     description: Digital October Center is a place for globally-minded technology entrepreneurship community. The Center is built around two core themes: new technologies and technology entrepreneurship. Key international professional conferences and presentations of new technology products take place in the Center.
     logoUrl: /assets/logo/DO-logo
